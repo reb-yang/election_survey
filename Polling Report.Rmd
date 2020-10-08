@@ -244,6 +244,10 @@ As alluded to earlier, a future survey that utilizes the National Register of El
 
 ## Appendix
 
+### Codes 
+
+Codes used for analysis can be found at: https://github.com/reb-yang/election_survey
+
 ### Survey Questions
 
 The survey is accessible at https://tinyurl.com/PetitPoll and via the QR code below. 
@@ -316,16 +320,15 @@ include_graphics("mailprice.png")
 - Nowosad, J. (2018). 'CARTOColors' Palettes. R package version 1.0.0. https://nowosad.github.io/rcartocolor
 - R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical
   Computing, Vienna, Austria. URL https://www.R-project.org/.
+- Statistics Canada. 2017. University--Rosedale [Federal electoral district], Ontario and Ontario [Province] (table). Census Profile. 2016 Census. Statistics Canada Catalogue no. 98-316-X2016001. Ottawa. Released November 29, 2017.
+https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/index.cfm?Lang=E (accessed October 8, 2020).
 - TinyURL (2020). TinyURL. https://tinyurl.com/
 - University Rosedale Boundaries description. Elections Canada. map. 
 - Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686,
   https://doi.org/10.21105/joss.01686
 - Wu,C., and Thompson, M. E. (2020). 2.5 Sample Size Calculation. In Sampling Theory and Practice (pp. 25–26). Springer International Publishing. 
   
-
-
-
-
+Data simulated used Angus Reid and 2016 Census as reference. 
 
 
 

@@ -87,3 +87,6 @@ voter_data <- voter_data %>%
 
 write_csv(voter_data, "voter_data.csv")
 
+# Citations - numbers used for simulation loosely based on 2016 Census and Angus Reid polls
+# - Statistics Canada. 2017. University--Rosedale [Federal electoral district], Ontario and Ontario [Province] (table). Census Profile. 2016 Census. Statistics Canada Catalogue no. 98-316-X2016001. Ottawa. Released November 29, 2017.
+# - Angus Reid (2020, September 2). Federal Politics: Election speculation season begins with main contenders in dead heat. http://angusreid.org/federal-politics-september-2020/.
