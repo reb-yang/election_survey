@@ -1,0 +1,331 @@
+---
+title: "O Canada: Polling Report for University-Rosedale "
+subtitle: "September 2020 Update"
+header-includes:
+  - \usepackage[default]{sourcesanspro}
+  - \usepackage[T1]{fontenc}
+  - \setlength{\parindent}{4em}
+  - \setlength{\parskip}{1em}
+  - \usepackage{float}
+  - \floatplacement{figure}{H} 
+mainfont: SourceSansPro
+author: "By Rebecca Yang for Petit Poll"
+date: "October 8, 2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, dev = "cairo_pdf", fig.pos = "H")
+library(tidyverse)
+library(dplyr)
+library(rcartocolor)
+library(knitr)
+library(kableExtra)
+```
+
+## Executive Summary
+
+The survey detailed in this report was carried out on behalf of the Liberal Party of Canada to find out their current standing among potential voters in the University-Rosedale riding. The main objectives of the survey were as follows:
+
+1. To gauge the Liberal Party's chances of retaining their seat in the University-Rosedale riding
+2. To gather insights on the issues most important to voters and their satisfaction with these issues
+3. To investigate the efficacy of campaign advertisements 
+
+```{r map, out.width=".5\\linewidth", fig.align="center", echo = FALSE, fig.cap = "Map of the University-Rosedale Riding (Elections Canada)"}
+include_graphics('UniversityRosedale.jpg')
+```
+A sample of 2500 people was randomly selected to participate in the survey. They were selected from the Canada Post address database and mailed an addressed card inviting them to fill out the survey via either a web link or QR code. The survey asked respondents about which party the respondent would currently vote for, their intentions to vote, the issues most important to them and their satisfaction with these issues, and their experiences with campaign advertisements. 
+
+From the 1057 responses collected over the course of a week, 864 of them were eligible voters who planned to vote in the next election. The survey found that the Liberal Party maintains its strong lead from the previous election in the riding. The Liberals had an extremely generous lead, with 44% of respondents expressing their support, compared to 20% and 18% for their main competitors, the Conservatives and the New Democratic Party, respectively. This lead remained even when accounting for potential margins of error for the estimates, which were accurate to 3.3 percentage points, 19 times out of 20. The top 5 most important issues identified were, in order of importance, as follows:
+
+1. The COVID-19 pandemic (39%)
+2. Climate (29%)
+3. Housing (26%)
+4. Government debt (26%)
+5. Health care (23%)
+
+While voters expressed satisfaction with the government's current handling of COVID-19, they expressed much higher levels of dissatisfaction with the handling of debt and climate issues. The primary source of exposure to campaign ads was identified as online, but they were found to be largely ineffective at influencing vote choices. However, they did have slightly more influence over undecided voters. 
+
+These results show that the Liberal Party can feel relatively secure in retaining their seat in the University-Rosedale riding, should an election occur this fall. It also suggests that, given their strong lead, perhaps the money spent on advertising could be better spent elsewhere, as they do not seem to be turning voters. In addition to information about maintaining political power, it also provides information about the issues that said political power can be best directed toward. 
+
+That being said, it's important to bear in mind some of the weaknesses of these findings. Like any survey conducted this way, there were people who did not respond (response rate was 42%), which could have affected the results. For example, fervent supporters of a party may be more likely to take the time to respond to a political survey. Respondents may not always have honest in their responses either. Since voting is expected of good, upstanding citizens who care about their community, people are likely to say they are going to vote when in actuality it is not the case, out of a desire not to be judged. Although voter turnout changes year to year, the amount of respondents who said they planned to vote is about 20% higher than the last election. However, there is no way to identify these "fake" voters and which results they are potentially inflating. 
+
+Despite the convincing lead the Liberals have in University-Rosedale, the party should take care not to rest on their laurels. Rather, they should focus on the issues that are weighing heavily on voters' minds, as evidently there is mounting dissatisfaction. Future work could entail a survey about the important issues and their opinions regarding specific policies in order to inform the party on the ways they can best serve their constituents. 
+
+## Introduction
+
+Due to the fact that the current Liberal government holds a minority in the House of Commons, speculation has been rampant in recent weeks about the possibility of a federal election being held in the fall (Angus Reid, 2020). With this looming possibility, the Liberal party must be prepared to defend their seats in their ridings. University-Rosedale is a particularly notable riding to retain, as it is the riding of the current deputy prime minister and finance minister, Chrystia Freeland. This survey found that the Liberals have a strong lead, commanding 44% of voters' support, more than that of their two main rivals, the New Democratic Party and the Conservatives, combined. 
+
+But in order to maintain their favor with voters, the issues that voters care about the most have to be prioritized. 
+In spite of their lead, an overwhelming majority of respondents expressed dissatisfaction with the current government's handling of the issues most important them, such as climate change, debt, housing, and health care. It was also of interest to see which modes of advertising reach the most voters, but also whether or not they are actually influencing vote choices. Campaign and political advertising has been pushed to the forefront of conversation in recent years, especially in the wake of the last US election and Cambridge Analytica data scandal. It was found found that while online and television ads have the furthest reach, voters are largely unaffected by them. Over 90% of decided voters said that they had no effect on their choice, with this number being slightly lower for undecided voters. 
+
+Some potential limitations of these results should be taken into consideration. Less than half of the people sampled actually responded to the survey, so it's possible that the sample is not wholly representative. In addition, different types people, such as more politically engaged people, may have been more likely to respond. In subsequent surveys, steps could be taken to encourage responses, such as sending reminders to people. Additionally, some of the respondents selected were not eligible voters and thus not in the population of interest; being able to draw upon the National Register of Electors would greatly aid in obtaining a representative sample. A future survey to regarding the implementation of specific policies could be useful to help the party make decisions that will help curry favor with their electorate and maintain their strong position in University-Rosedale. 
+
+The following sections will discuss the survey methodology, results, potential limitations, and directions for future work.
+
+## Survey Methodology
+
+### Population, Frame, and Sample
+
+The survey conducted followed simple random sampling without replacement technique (SRSWOR). This means that each respondent was equally likely to have been selected. This method was employed because it ensures a representative sample of the population, which allows results from the sample to be generalized to the population. While this type of survey is more logistically demanding and costly, it compensates with stronger and more meaningful results. 
+
+The population of interest was eligible voters (Canadian citizens aged 18 and older) residing in the University-Rosedale electoral district. Since the National Register of Electors was not available for use as the frame for this survey, the next best alternative was the Canada Post address database. Their Smartmail Marketing service provides access to current mailing lists that allows mail to be sent to potentially any residential address in the country (Canada Post). While it did not eliminate ineligible voters, it was the best approximation to a list of all members of our population. Two thousand five hundred respondents were randomly selected to ensure a large enough final sample, assuming that not all of them would respond. In order to estimate the proportion of voters that support the Liberals within 3 percentage points, a sample of at least 1067 would be necessary. 
+
+### Survey Distribution
+
+A postcard with the survey information was mailed to randomly selected individuals from the Canada Post mailing lists. It included both a website link and QR code for respondents to easily access the survey on their phones. The link to the survey was shortened using TinyUrl (https://tinyurl.com/PetitPoll) so that respondents were able to easily access the survey without having to type in a long string of random characters.The survey itself was hosted on the Qualtrics online survey platform (see Appendix), which allowed for the settings of the survey to be configured such that respondents were not able to take the survey more than once. Responses were collected over the course of a week. 
+
+### Costs 
+
+Given the relatively short length and simple format of the survey, it was able to be made using the free version of the Qualtrics survey software. The bulk of the costs come from the distribution of the survey. Canada Post charged 49 cents per item through its Personalized Mail program. Two thousand five hundred surveys, were sent out so that even with non-responses, there would still be a sufficient amount of responses to get accurate estimates. Printing costs were estimated to be around \$350 (see Appendix), combined with shipping costs for a total of approximately \$1575. For reference, in the last federal election, the Liberal Party's expenditures were \$83,556.09 in the University-Rosedale district. 
+
+### Survey Design
+
+The order of the questions was chosen with great consideration. The most important question, which was the one about the party they would vote for, was placed as the very first question in the survey, to avoid any potential bias from other questions. For example, a preceding question that prompted them to think about their current satisfaction with the country's debt situation could influence their response. To mitigate social desirability bias, possibly triggering questions like about voting were worded with the intention to make the respondent feel like any reasons they did not vote was understandable and acknowledged. The order of responses was also randomized when possible. Demographic questions were placed at the end of the survey so as not to deter respondents from completing the survey by asking personal questions at the outset of the survey. For all demographic questions, respondents were given the option to not answer, should they not feel comfortable doing so. 
+
+### Non-Response
+
+A deliberately large sample was chosen to account for potential non-responses to ensure that there would still be a sufficient amount of responses. The design and distribution of the survey attempted to facilitate response by offering respondents convenient ways to complete the survey (link or QR code) and by optimizing the design of the survey so that it would be easy to complete. 
+
+### Survey Respondent Privacy 
+
+No personally identifying information from respondents was collected; the Qualtrics platform also enabled responses to be anonymized. Responses were stored securely and only visible to those with permission. The data collected was only used for the purposes of this report and was not shared with any third parties. 
+
+## Results and Discussion
+
+```{r}
+survey_data <- read_csv("survey_data.csv") #loading data
+voter_data <- read_csv("voter_data.csv")
+mycols <- carto_pal(10, "Prism") # my cool colors
+n_responded <- nrow(survey_data %>% filter(responded == "yes")) # number of respondents 
+n_voter <- nrow(voter_data) # eligible voters  
+n_plan_vote <- nrow(voter_data %>% filter(plan_to_vote != "No")) # plan to vote
+
+```
+
+
+```{r, include = FALSE}
+# demographic table
+gender_table <- voter_data %>% group_by(gender) %>% summarise(prop = paste(round(100*n()/n_voter), "%"))
+immigrant_table <- voter_data %>% group_by(immigrant)  %>% filter(immigrant != "Prefer not to say") %>%  summarise(prop = paste(round(100*n()/n_voter), "%"))
+vismin_table <- voter_data %>% group_by(vismin)   %>% filter(vismin != "Prefer not to say")%>% summarise(prop = paste(round(100*n()/n_voter), "%"))
+age_table <- voter_data %>% group_by(age_group)  %>% summarise(prop = paste(round(100*n()/n_voter), "%"))
+table <- rbind(gender_table, age_table %>% rename(gender = age_group), immigrant_table %>% rename(gender = immigrant), vismin_table %>% rename(gender = vismin)) 
+colnames(table) <- c("Variable", "Proportion")
+
+# plan to vote table
+plan_to_vote <- voter_data %>% group_by(plan_to_vote) %>% summarise(n = n(), prop = paste(round(100*n()/n_voter), "%"))  
+colnames(plan_to_vote) <- c("Response", "Number of Responses", "Proportion")
+
+```
+
+The survey received 1057 responses, of which 864 identified themselves as eligible voters (Canadian citizens aged 18 and older). Of these 846, 806 said they were planning to vote in the next election. 
+
+```{r}
+plan_to_vote %>% kbl(caption = "Respondents Planning to Vote", align = c("lr")) %>%  kable_styling(bootstrap_options = c("condensed", "striped")) %>% kable_styling(latex_options = "HOLD_position")
+```
+
+```{r, echo = FALSE}
+table %>% kbl(caption = "Respondent Sample Demographics", align = c("lr")) %>% pack_rows("Gender", 1, 2) %>% pack_rows("Age Group", 3, 8) %>% pack_rows("Immigrants", 9, 10)%>% pack_rows("Visible Minorities", 11, 12)  %>% kable_styling(bootstrap_options = c("condensed", "striped")) %>% kable_styling(latex_options = "HOLD_position")
+
+
+
+```
+
+The main question of interest was which party voters would support if an election were to be held today. Because the simple random sampling method was employed, this allows confidence intervals for the proportion of voters for each party to be constructed. While the samples provide sound estimates for the population, they might not be exactly the same as the actual percentage of votes each party would get. The error bars on the graph above represent a range of values in which there is **at least** 95% confidence that they contain the actual percentage. The margin of error for the estimates is approximately 3.3%, 19 times out of 20 (See appendix for more details). Nonetheless, it can be seen that even when this potential error is taken into consideration, the other parties still do not come close to touching the Liberals' lead. 
+
+
+```{r, out.width = "60%", fig.align = "center", fig.cap = "Liberal Party has strong lead in University-Rosedale", message = FALSE, warning = FALSE}
+
+# calculating error
+z <- qnorm(0.975)
+error <- sqrt(z^2*(0.25)/n_voter)*100
+
+# likely party graph
+party_votes <- voter_data %>% group_by(likely_party) %>% count() %>% mutate(prop = 100*n/n_voter, ci_low = prop-error, ci_high = prop+error) 
+party_votes %>% ggplot(aes(y=reorder(likely_party, prop), x = prop)) + geom_bar(stat = "identity", fill = mycols[1:6]) + labs(y="Party", x = "Percentage of Respondents (%)", title = "If an election were held today, which party would you vote for?") + theme_minimal()  + theme(plot.title = element_text(hjust = 0.5), panel.grid.minor = element_blank(), panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95"))  + geom_errorbar(aes(xmin = ci_low, xmax = ci_high), position = position_dodge(0.9), width = 0.2, color = "grey10") + geom_text(aes(label = paste(round(prop), "%", sep = ""), hjust = -1.5)) + scale_x_continuous(limits = c(0,60)) 
+
+
+```
+
+
+
+
+
+```{r, out.width = "60%", fig.align = "center", fig.cap = "Liberals retain lead from last election"}
+
+# past vote graph
+
+voter_data %>% group_by(past_vote) %>% count() %>% mutate(prop = 100*n/n_voter) %>% ggplot(aes(y=reorder(past_vote, prop), x = prop)) + geom_bar(stat = "identity", fill = mycols[1:6]) + labs(y="Party", x = "Percentage of Respondents (%)", title = "Who Did You Vote for in the Last Election?") + theme_minimal()  + theme(plot.title = element_text(hjust = 0.5), panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95"),panel.grid.minor = element_blank())   + geom_text(aes(label = paste(round(prop), "%", sep = ""), hjust = -.2)) + scale_x_continuous(limits = c(0,60))
+```
+However, despite this strong showing, perhaps there is something for the Liberals to be concerned with. Of these same respondents, when asked who they voted for in the last federal election, 46% of them said the Liberal party, compared to 44% who said they would vote for them if an election were to be held today. It appears that previous Liberal voters in 2019 are now pitching their tents in other camps, or uncertain of whether or not they want to continue supporting the Liberals.
+
+While small, these departures are certainly cause for concern. To get to the root of this, the issues important to voters can perhaps provide some insight. Respondents were asked to rate the importance of the following thirteen issues as "Extremely", "Very", "Moderately, "Slightly", or "Not" important: health care, education, the COVID19 pandemic, government debt, unemployment, taxes, racial issues, seniors issues, childcare, indigenous issues, immigration, housing, and climate change. 
+
+```{r, include = FALSE}
+# filtering out important issues
+important_issues <- voter_data[, 12:24] 
+important_issues <- important_issues %>% pivot_longer(colnames(important_issues)) %>% filter(value == "Extremely" | value == "Very") 
+
+# getting top 5 issues
+important_props <- important_issues %>% group_by(name) %>% summarise(n = n(), prop_important = n()*100/n_voter) 
+issues_top5 <- important_props[order(important_props$prop_important, decreasing = TRUE),][1:5,]
+```
+
+```{r, out.width = "60%", fig.align = "center", fig.cap = "COVID-19 was the most important issues on voters' minds"}
+
+# top 5 issues graph 
+
+issues_top5 %>% ggplot(aes(x = prop_important, y = reorder(name, prop_important))) + geom_bar(stat = "identity", fill = mycols[1:5]) + theme_minimal() + labs(x = "Percentage of Respondents (%)", y = "Issues", title = "Top 5 Most Important Issues to Voters" ) + theme(plot.title = element_text(hjust = 0.5), panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95"), panel.grid.minor = element_blank()) + geom_text(aes(label = paste(round(prop_important), "%", sep = ""), hjust = -0.3), size = 4) + scale_x_continuous(limits = c(0,50))
+
+```
+In the wake of the COVID-19 pandemic that has dominated global headlines for the better part of the last year, it is unsurprising that it is the issue deemed most important by voters, with 39% of them identifying it as "Very" or "Extremely" important. It was followed closely by climate with 29%, which coincides with the surge in climate change activism and of Greta Thunberg. The affordability of housing, which has been a looming issue in Toronto, was echoed by 26% of voters. Debt was the fourth most important issues, with 26% as well.  Rounding out the top 5, in conjunction with COVID-19, health care was important to 23% of voters.
+
+
+```{r, include = FALSE}
+
+# satisfation with important issues
+n_climate <- (important_props %>% filter(name == "Climate"))$n
+n_covid <- (important_props %>% filter(name == "COVID19"))$n
+n_housing <- (important_props %>% filter(name == "Housing"))$n
+n_debt <- (important_props %>% filter(name == "Debt"))$n
+n_healthcare <- (important_props %>% filter(name == "Healthcare"))$n
+satisfied_scale <- c("Extremely Satisfied", "Somewhat Satisfied", "Neither", "Somewhat Dissatisfied", "Extremely Dissatisfied") 
+
+# simulating satisfaction with top 5 important issues
+satisfied_issues <- important_issues %>% mutate(satisfied = ifelse(name == "Climate", sample(satisfied_scale, prob = c(0.05, 0.1, 0.20, 0.15, 0.5), replace = TRUE, size = n_climate),  "NA")) %>% mutate(satisfied = ifelse(name == "COVID19", sample(satisfied_scale, prob = c(0.25, 0.45, 0.15, 0.20, 0.05), replace = TRUE, size = n_covid),  satisfied)) %>% mutate(satisfied = ifelse(name == "Healthcare", sample(satisfied_scale, prob = c(0.05, 0.15, 0.25, 0.25, 0.3), replace = TRUE, size = n_healthcare), satisfied)) %>% mutate(satisfied = ifelse(name == "Debt", sample(satisfied_scale, prob = c(0.02, 0.03, 0.15, 0.30, 0.5), replace = TRUE, size = n_debt), satisfied)) %>% mutate(satisfied = ifelse(name == "Housing", sample(satisfied_scale, prob = c(0.05, 0.1, 0.15, 0.1, 0.6), replace = TRUE, size = n_housing), satisfied)) 
+```
+
+```{r, fig.cap = "Voters expressed dissatisfaction with most important issues", fig.align= "center", out.width = "60%"}
+
+# comparing dissatisfaction and satisfcation on top 5 issues
+
+satisfied_issues %>% filter(satisfied != "NA", satisfied != "Neither") %>% mutate(satisfied = ifelse(satisfied == "Extremely Satisfied" | satisfied == "Somewhat Satisfied", "Satisfied", satisfied)) %>% mutate(satisfied = ifelse(satisfied == "Extremely Dissatisfied" | satisfied == "Somewhat Dissatisfied", "Dissatisfied", satisfied)) %>% group_by(name, satisfied) %>% count() %>% mutate(prop = case_when(name == "Climate" ~ n/n_climate, name == "COVID19" ~ n/n_covid, name == "Housing" ~ n/n_housing, name == "Debt" ~ n/n_debt, name == "Healthcare" ~ n/n_healthcare), prop = prop * 100) %>% ggplot(aes(y=name, x = prop, fill = satisfied)) + geom_bar(stat = "identity", position = "dodge") + geom_text(aes(label = paste(round(prop), "%", sep = ""), x = prop, group = satisfied), position = position_dodge(width = 0.9), hjust = -0.2, size = 3.5) + scale_x_continuous(limits = c(0,90)) + labs(fill = "", title = "Satisfaction on Top 5 Most Important Issues", x = "Percentage (%)", y = "Issue") + theme_minimal() + theme(plot.title = element_text(hjust = 0.5), panel.grid.minor= element_blank(), panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95")) + scale_fill_manual(values = mycols[c(8,6)])
+
+
+```
+It appears the importance of these issues was a function of voters' dissatisfaction with the government's current handling of them. The overwhelming majority expressed dissatisfaction with the government's actions on their debt, with a whopping 77% of respondents. Seventy percent (68%) of voters were dissatisfied with the current state of climate change action. On a slightly more positive note, 65% of voters were satisfied with the government's response to the COVID19 pandemic. As the most important issue to voters, this bodes well for the Liberal party. 
+
+Finally, what is the best way for the Liberal party to reach the electorate? 
+
+```{r, fig.cap = "Online ads reach the most voters", fig.align= "center", out.width = "60%"}
+
+# bar graph comparing ads
+
+voter_data %>% group_by(ads) %>%  summarise(prop = 100*n()/n_voter) %>% ggplot(aes(x = prop, y = reorder(ads, prop))) + geom_bar(stat = "identity", fill = mycols[1:7]) + geom_text(aes(label = paste(round(prop), "%", sep = ""), hjust = -0.2)) + theme_minimal() + scale_x_continuous(limits = c(0, 45)) + labs(x = "Percentage of Voters (%)", y = "Type of Ad", title = "Which Ads Reach Voters the Most?") + theme(plot.title = element_text(hjust = 0.5), panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95"), panel.grid.minor = element_blank())
+```
+In the digital age, online ads unsurprisingly reached the largest audience, followed by television ads, which had a little more than half the reach. While people may be seeing these ads, are they really doing anything to influence voters? Among decided voters (voters who identified a party they would vote for today), 94% responded that they had little to no effect on their decision. For undecided voters, they were a little more subject to influence, with 17% responding that ads carried some to a lot of influence. These results are largely consistent with multiple studies done about the efficacy of campaign ads in the US (Mercier, 2020). It found that ads had no affect whatsoever in the general election, where people are committed to a party. But, they did have more sway in primary elections, where the candidates are all of the same party and less known to the voters. The Canadian context bears more similarities to the former situation, as voters are voting for a party, and the leader of that party is decided internally. 
+```{r, fig.cap = "Undecided voters more likely to be swayed by ads", fig.align= "center", out.width = "60%", message = FALSE}
+
+# comparing ad effectiveness on decided and undecided voters
+ads_n <- voter_data %>% group_by(ads) %>% count()
+affect_n <- voter_data %>% filter(ad_affect == "a great deal" | ad_affect == "a lot") %>%  group_by(ads) %>%  count()
+
+decided_n <- (voter_data %>% group_by(decided) %>% count() %>% filter(decided == "Decided"))$n
+undecided_n <- (voter_data %>% group_by(decided) %>% count() %>% filter(decided == "Undecided"))$n
+
+voter_data %>% group_by(decided, ad_affect) %>% count() %>% mutate(prop = ifelse(decided == "Decided", 100*n/decided_n, 100*n/undecided_n))  %>% ggplot(aes(x=ad_affect, y = prop, fill = ad_affect)) + geom_bar(stat = "identity") + scale_x_discrete(limits=c("not at all", "a little", "somewhat", "a lot", "a great deal")) + facet_wrap(~decided) + theme_minimal() + scale_fill_manual(values = mycols[1:5]) + labs(x=" ",  y = "Percentage of Responses (%)", title = "Are Undecided Voters Affected Differently by Campaign Ads?") + scale_x_discrete(limits=c("not at all", "a little", "somewhat", "a lot", "a great deal")) + theme(panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95"), legend.position = "none", plot.title = element_text(hjust = 0.5)) + geom_text(aes(label = paste(round(prop), "%", sep = ""), vjust = -0.3), size = 3) 
+```
+
+
+## Weaknesses and Limitations
+
+The survey also had a non-response rate of approximately 40%. The important factor to consider regarding non-response is whether or not it renders the sample unrepresentative of the population. If certain groups are overrepresented or underrepresented, weighting is a common practice used to address this issue. However, this requires knowing what the target representation of each group should be. Ideally, the National Electoral Register could inform these targets; however, as previously mentioned, it was not available as a resource. While demographic data for the riding is available from the 2016 census, it encompasses all people, not just eligible voters. Similarly, Elections Canada has released information by voter turnout by age and gender, but only at a provincial level, not for individual ridings. Without this information, it is hard to say assess the representation of the sample. 
+
+In the same vein, the frame was not perfect as it included ineligible voters. This means that while the sample might have represented the population of residents in the riding, it may not have represented the eligible voters in the riding, which was the population of interest.
+
+Surveys about voting also deal with social desirability bias. While in an ideal world, all citizens show up at the polls on election day, ready to carry out their civic duty and uphold the ideals of democracy, it is not the case in reality. However, given this expectation, respondents who do not vote are subject to feel self-conscious and judged for their actions. As such, respondents are likely to over-report their intentions to vote. An Elections Canada study of the 2019 election found that about 90% of people said they had voted, whereas in reality the figure was only 67% (Elections Canada). As a result, it is possible that not everyone who said they would vote for the Liberals (or the other parties) is actually going to vote in the election at all. But, there is no way of knowing which results this affects.
+
+There is also response bias to consider, which means that certain groups are more likely than other to respond to surveys. In this case, people who are more politically engaged with stronger opinions might be more willing to take the time to fill out a political survey. Less politically minded voters may have different feelings and opinions than those represented in these results. 
+
+## Future Work - What's Next? 
+
+As alluded to earlier, a future survey that utilizes the National Register of Electors (which is available to the parties to communicate with their voters) as a frame could greatly aid in ensuring a representative sample and improve the quality of the results. Steps could also be taken to encourage response, such as reminders and follow ups for those selected, although this would increase costs. Given their healthy lead, the party should redirect their focus to curbing the dissatisfaction in the electorate. For example, what exactly do they want to see from the government regarding health care or housing? Is Policy A more popular or Policy B? Future work about policies that benefit people the best and align with their ideals could help the party stave off opposition and remain strong in years to come.
+
+## Appendix
+
+### Survey Questions
+
+The survey is accessible at https://tinyurl.com/PetitPoll and via the QR code below. 
+
+```{r ,  echo=FALSE,out.width="40%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "The survey was accessible by QR code for convenience"}
+include_graphics('qr_code.png')
+``` 
+
+
+```{r , out.width=".5\\linewidth", fig.align="center", echo = FALSE, fig.cap = "The most important question was asked first"}
+include_graphics('q1.png')
+```
+
+```{r , echo=FALSE,out.width="40%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "If respondents said they voted in the last election, they were asked which party they voted for"}
+include_graphics(c("q2.png","q2b.png"))
+``` 
+
+```{r , echo=FALSE,out.width=".5\\linewidth",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Respondents were ask to rate the importance of 13 issues"}
+include_graphics('q_issues.png')
+``` 
+
+```{r , echo=FALSE,out.width=".5\\linewidth",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Respondents were ask to rate their satisfaction with the issues they identified as important"}
+include_graphics('q_sat.png')
+``` 
+
+```{r ,  echo=FALSE,out.width=".5\\linewidth",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Respondents were asked about their experiences with campaign ads"}
+include_graphics('q_ads.png')
+``` 
+
+```{r ,  echo=FALSE,out.width="40%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Demographic questions were asked at the end"}
+include_graphics(c("dem1.png","dem2.png"))
+``` 
+### Error calculation details
+
+Under simple random sampling without replacement, the margin of error ($e$) for our estimate of the population proportion ($P$) of responses is given by the following formula, where $n$ is the sample size, $N$ is the population size, $z$ is the z-score, and $\sigma^2$ is the variance of the population proportion (Wu and Thompson, 2020):
+$$e^2 = \frac{z^2_{a/2}\sigma^2}{n}\left(1-\frac{n}{N}\right) $$
+For population proportion $P$, $\sigma^2$ is the variance of a Bernoulli random variable, and its variance and upper bound is known:
+$$ \sigma^2 = P(1-P) \leq (0.5)(0.5) = 0.25$$
+Additionally, since the sample size is obviously smaller than the population size:
+$$ \left(1-\frac{n}{N}\right) \leq 1$$ 
+Which gives us:
+$$e^2 = \frac{z^2_{a/2}\sigma^2}{n}\left(1-\frac{n}{N}\right) \leq  \frac{z^2_{a/2}0.25}{n} $$
+$$e \leq  \sqrt{\frac{z^2_{a/2}0.25}{n}} $$
+Plugging in the numbers gives us the margin of error for our estimates:
+$$e \leq 3.334 $$
+
+### Cost Details
+
+```{r ,  echo=FALSE,out.width="40%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Estimated printing costs"}
+include_graphics(c("printing1.png","printing2.png"))
+``` 
+```{r ,  echo=FALSE,out.width="50%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Mail costs"}
+include_graphics("mailprice.png")
+``` 
+
+## Citations
+
+- Angus Reid (2020, September 2). Federal Politics: Election speculation season begins with main contenders in dead heat. http://angusreid.org/federal-politics-september-2020/.
+- Canada Post (January 13, 2020). Smartmail Marketing Customer Guide. https://www.canadapost.ca/tools/pg/1_Customer_Guide/SMM_Guide-e.pdf#page=1.
+- Elections Canada (2020). National Electors Study on the 43rd Canadian Federal General Election: Report on Voter Experience. https://www.elections.ca/content.aspx?section=res&dir=rec/eval/pes2019/nes/nesve&document=p2&lang=e#sec3
+- Elections Canada. Description of the National Register of Electors.  https://www.elections.ca/content.aspx?section=vot&dir=reg/des&document=index&lang=e
+- Elections Canada (October 25, 2019). October 21, 2019 Federal Election Results.  https://enr.elections.ca/ElectoralDistricts.aspx?lang=e.
+- Hadley Wickham, Romain François, Lionel Henry and Kirill Müller (2020). dplyr: A Grammar of Data Manipulation.
+  R package version 1.0.2. https://CRAN.R-project.org/package=dplyr
+- JJ Allaire and Yihui Xie and Jonathan McPherson and Javier Luraschi and Kevin Ushey and Aron Atkins and Hadley
+  Wickham and Joe Cheng and Winston Chang and Richard Iannone (2020). rmarkdown: Dynamic Documents for R. R
+  package version 2.3. URL https://rmarkdown.rstudio.com.
+- Mercier, H. (2020, January 17). Do Political Campaigns Change Voters' Minds? https://www.wsj.com/articles/do-political-campaigns-change-voters-minds-11579282258. 
+- Qualtrics (2020). Qualtrics. Version October 2020. Qualtrics, Provo, Utah. https://www.qualtrics.com. 
+- Nowosad, J. (2018). 'CARTOColors' Palettes. R package version 1.0.0. https://nowosad.github.io/rcartocolor
+- R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical
+  Computing, Vienna, Austria. URL https://www.R-project.org/.
+- TinyURL (2020). TinyURL. https://tinyurl.com/
+- University Rosedale Boundaries description. Elections Canada. map. 
+- Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686,
+  https://doi.org/10.21105/joss.01686
+- Wu,C., and Thompson, M. E. (2020). 2.5 Sample Size Calculation. In Sampling Theory and Practice (pp. 25–26). Springer International Publishing. 
+  
+
+
+
+
+
+
+

@@ -1,0 +1,2501 @@
+ID,gender,age_group,citizen,vismin,immigrant,responded
+1,Female,25-34,yes,Yes,No,no
+2,Female,55-64,yes,Yes,No,yes
+3,Male,25-34,yes,Yes,Yes,no
+4,Female,45-54,yes,No,Yes,no
+5,Male,25-34,yes,No,Yes,no
+6,Male,45-54,yes,Yes,Yes,no
+7,Male,45-54,yes,No,No,yes
+8,Female,25-34,yes,Yes,Yes,no
+9,Female,45-54,yes,No,No,no
+10,Female,45-54,yes,No,No,no
+11,Female,55-64,yes,No,No,yes
+12,Male,45-54,no,No,Yes,yes
+13,Male,25-34,no,No,Yes,no
+14,Female,45-54,yes,Yes,No,yes
+15,Male,45-54,yes,No,No,yes
+16,Female,25-34,yes,Yes,No,yes
+17,Male,18-24,yes,No,No,yes
+18,Male,18-24,yes,No,No,yes
+19,Male,25-34,yes,Yes,No,no
+20,Female,65 and over,yes,No,No,no
+21,Female,45-54,yes,No,No,yes
+22,Male,55-64,yes,No,Yes,no
+23,Male,45-54,yes,Yes,Yes,no
+24,Male,45-54,yes,Yes,Yes,no
+25,Female,25-34,no,No,No,yes
+26,Female,65 and over,yes,Yes,Yes,yes
+27,Male,under 18,yes,No,Yes,no
+28,Male,25-34,no,Yes,No,no
+29,Male,18-24,yes,Yes,Yes,no
+30,Male,55-64,no,No,No,yes
+31,Female,18-24,yes,No,No,yes
+32,Female,18-24,yes,No,No,no
+33,Female,55-64,yes,No,No,yes
+34,Female,18-24,yes,Yes,Yes,yes
+35,Male,18-24,yes,No,Yes,no
+36,Female,65 and over,no,No,No,no
+37,Female,18-24,yes,No,Yes,no
+38,Female,35-44,yes,No,No,no
+39,Female,35-44,yes,No,No,yes
+40,Male,65 and over,yes,No,No,no
+41,Male,25-34,yes,No,Yes,yes
+42,Female,18-24,yes,No,No,no
+43,Female,25-34,yes,Yes,Yes,no
+44,Male,55-64,yes,Yes,Yes,yes
+45,Female,45-54,yes,No,Yes,no
+46,Female,45-54,yes,No,No,yes
+47,Female,65 and over,yes,No,No,no
+48,Female,55-64,yes,No,No,no
+49,Female,65 and over,yes,Yes,No,yes
+50,Female,25-34,yes,No,Yes,no
+51,Male,65 and over,yes,Yes,Yes,yes
+52,Male,35-44,yes,No,No,no
+53,Male,18-24,yes,No,No,no
+54,Female,35-44,yes,No,No,no
+55,Male,25-34,yes,Yes,Yes,no
+56,Male,25-34,yes,No,No,yes
+57,Male,35-44,yes,No,Yes,no
+58,Female,18-24,yes,No,No,no
+59,Male,65 and over,yes,No,Yes,no
+60,Male,18-24,yes,No,No,yes
+61,Female,45-54,yes,Yes,No,yes
+62,Male,35-44,yes,No,No,no
+63,Male,18-24,no,Yes,No,no
+64,Female,55-64,yes,No,No,no
+65,Female,35-44,yes,Yes,No,yes
+66,Male,55-64,yes,No,Yes,no
+67,Male,65 and over,no,No,No,no
+68,Female,25-34,no,Yes,Prefer not to say,no
+69,Male,35-44,yes,No,No,yes
+70,Male,18-24,yes,No,Yes,no
+71,Female,18-24,no,No,No,no
+72,Male,65 and over,yes,Yes,No,yes
+73,Male,18-24,yes,Yes,No,yes
+74,Male,under 18,yes,No,Yes,no
+75,Male,65 and over,yes,Yes,No,no
+76,Male,35-44,yes,No,No,no
+77,Female,18-24,yes,No,No,yes
+78,Female,25-34,yes,No,No,no
+79,Female,65 and over,yes,Yes,Yes,no
+80,Male,18-24,yes,No,No,yes
+81,Female,45-54,yes,No,No,yes
+82,Female,18-24,yes,No,No,no
+83,Female,65 and over,yes,No,No,no
+84,Male,55-64,yes,Yes,Yes,yes
+85,Female,65 and over,yes,Yes,No,no
+86,Male,25-34,yes,No,No,yes
+87,Female,35-44,yes,No,No,yes
+88,Female,65 and over,yes,No,Yes,yes
+89,Male,35-44,yes,Yes,Prefer not to say,no
+90,Female,25-34,yes,Yes,No,no
+91,Male,45-54,yes,No,No,yes
+92,Male,55-64,no,Yes,No,no
+93,Female,55-64,yes,Yes,No,no
+94,Male,25-34,yes,No,No,yes
+95,Female,55-64,no,Yes,No,no
+96,Male,18-24,yes,No,No,yes
+97,Male,65 and over,yes,No,No,no
+98,Female,45-54,yes,No,Yes,yes
+99,Female,35-44,yes,Yes,No,yes
+100,Female,25-34,yes,No,No,yes
+101,Male,45-54,yes,No,No,yes
+102,Male,35-44,yes,Yes,No,yes
+103,Female,45-54,yes,No,Yes,no
+104,Male,18-24,yes,No,No,yes
+105,Female,65 and over,yes,No,Yes,no
+106,Female,55-64,yes,No,No,yes
+107,Female,65 and over,yes,No,No,no
+108,Female,35-44,yes,No,No,no
+109,Female,35-44,yes,No,No,no
+110,Female,55-64,yes,Yes,Yes,yes
+111,Female,45-54,yes,Yes,Yes,no
+112,Female,55-64,yes,No,No,no
+113,Female,25-34,yes,No,No,yes
+114,Female,under 18,yes,No,Yes,yes
+115,Female,55-64,yes,Yes,Yes,no
+116,Female,18-24,yes,Yes,Yes,yes
+117,Male,45-54,yes,Yes,No,no
+118,Male,25-34,yes,No,Yes,no
+119,Female,35-44,no,Yes,Yes,no
+120,Male,55-64,yes,No,No,yes
+121,Female,45-54,yes,Yes,Yes,no
+122,Female,25-34,yes,No,No,no
+123,Male,55-64,no,No,No,yes
+124,Female,35-44,yes,Yes,No,yes
+125,Female,25-34,yes,No,No,no
+126,Male,25-34,yes,No,No,yes
+127,Female,18-24,no,No,No,no
+128,Female,55-64,yes,No,No,no
+129,Female,35-44,yes,No,No,yes
+130,Male,45-54,yes,No,No,no
+131,Male,25-34,yes,Yes,No,no
+132,Female,18-24,yes,No,No,yes
+133,Male,25-34,yes,No,No,no
+134,Female,25-34,no,Yes,No,no
+135,Male,45-54,yes,No,No,yes
+136,Male,65 and over,no,No,Yes,no
+137,Female,55-64,yes,No,Yes,yes
+138,Female,35-44,no,No,No,yes
+139,Male,55-64,yes,No,Yes,yes
+140,Male,55-64,yes,No,Yes,no
+141,Male,25-34,no,Yes,No,no
+142,Female,65 and over,yes,No,Yes,no
+143,Male,65 and over,yes,No,No,no
+144,Male,65 and over,yes,Yes,No,no
+145,Female,65 and over,no,Yes,Yes,yes
+146,Female,35-44,yes,Yes,Yes,no
+147,Male,18-24,yes,No,Yes,no
+148,Female,18-24,yes,No,No,no
+149,Female,18-24,yes,No,No,no
+150,Male,25-34,yes,No,Yes,no
+151,Male,18-24,yes,Yes,No,yes
+152,Male,45-54,no,No,Yes,no
+153,Male,45-54,no,No,No,no
+154,Female,25-34,yes,Yes,No,no
+155,Male,45-54,no,Yes,Yes,no
+156,Male,45-54,yes,No,No,yes
+157,Male,35-44,no,No,No,no
+158,Female,35-44,yes,No,No,yes
+159,Female,25-34,yes,No,No,yes
+160,Female,18-24,yes,No,No,no
+161,Male,45-54,yes,No,No,yes
+162,Female,35-44,yes,Yes,No,yes
+163,Male,18-24,yes,No,Yes,no
+164,Female,25-34,yes,No,No,yes
+165,Female,25-34,yes,No,No,no
+166,Female,18-24,yes,No,No,no
+167,Female,18-24,no,No,Yes,yes
+168,Male,35-44,yes,No,No,no
+169,Female,45-54,yes,No,Yes,no
+170,Female,25-34,yes,No,No,no
+171,Male,55-64,yes,No,Yes,no
+172,Male,45-54,yes,Prefer not to say,No,no
+173,Male,55-64,yes,Yes,Yes,no
+174,Female,35-44,yes,No,No,no
+175,Female,under 18,yes,Yes,No,yes
+176,Female,65 and over,yes,Yes,Yes,yes
+177,Female,65 and over,yes,No,No,yes
+178,Male,45-54,yes,No,No,yes
+179,Male,65 and over,yes,No,No,no
+180,Female,45-54,yes,Yes,Yes,no
+181,Male,25-34,yes,No,No,no
+182,Female,25-34,yes,No,Yes,yes
+183,Female,65 and over,yes,Yes,Yes,no
+184,Male,65 and over,yes,No,No,no
+185,Male,25-34,yes,No,No,yes
+186,Male,18-24,no,No,No,no
+187,Male,18-24,no,Yes,Prefer not to say,yes
+188,Male,55-64,yes,Yes,No,yes
+189,Female,35-44,yes,No,No,yes
+190,Female,18-24,yes,No,No,no
+191,Female,55-64,no,Yes,Yes,yes
+192,Male,55-64,yes,No,No,no
+193,Male,35-44,yes,Yes,No,no
+194,Male,65 and over,yes,Yes,No,yes
+195,Female,35-44,no,No,No,yes
+196,Female,18-24,yes,Yes,No,yes
+197,Female,55-64,yes,No,No,no
+198,Female,25-34,no,No,No,no
+199,Male,45-54,yes,No,No,no
+200,Female,18-24,yes,Yes,Yes,no
+201,Female,65 and over,no,No,No,no
+202,Female,25-34,no,No,No,yes
+203,Male,45-54,yes,No,No,no
+204,Female,65 and over,yes,No,No,no
+205,Female,45-54,yes,No,No,yes
+206,Female,25-34,yes,No,No,no
+207,Female,35-44,yes,No,No,no
+208,Female,65 and over,yes,Yes,No,yes
+209,Female,25-34,yes,No,No,no
+210,Female,45-54,yes,Yes,No,yes
+211,Female,35-44,no,Yes,No,no
+212,Male,35-44,no,No,No,no
+213,Male,25-34,yes,No,Yes,yes
+214,Female,55-64,yes,No,No,no
+215,Male,35-44,yes,No,Yes,no
+216,Male,25-34,yes,No,No,no
+217,Female,25-34,yes,Yes,Yes,no
+218,Male,25-34,yes,No,Yes,no
+219,Female,25-34,yes,Yes,Yes,yes
+220,Male,25-34,yes,No,No,yes
+221,Female,25-34,yes,Yes,Yes,no
+222,Female,under 18,yes,No,Yes,yes
+223,Male,65 and over,yes,No,No,yes
+224,Female,25-34,yes,Yes,No,yes
+225,Male,45-54,no,No,Yes,yes
+226,Female,18-24,yes,No,No,no
+227,Female,55-64,yes,Yes,Yes,no
+228,Female,25-34,yes,No,Yes,yes
+229,Male,25-34,yes,No,No,yes
+230,Female,45-54,yes,Yes,No,yes
+231,Female,25-34,yes,Yes,No,yes
+232,Male,25-34,yes,No,Yes,no
+233,Female,35-44,yes,No,No,yes
+234,Female,65 and over,no,Yes,No,yes
+235,Male,35-44,yes,No,No,yes
+236,Female,55-64,yes,No,No,no
+237,Male,25-34,yes,Yes,Yes,yes
+238,Female,18-24,yes,Yes,Prefer not to say,no
+239,Female,25-34,yes,No,Yes,yes
+240,Male,55-64,yes,Yes,Yes,no
+241,Male,35-44,yes,No,No,no
+242,Female,18-24,yes,No,No,no
+243,Female,55-64,yes,No,No,yes
+244,Female,18-24,yes,Yes,No,yes
+245,Female,35-44,yes,No,No,yes
+246,Female,45-54,yes,Yes,No,no
+247,Female,35-44,yes,No,No,no
+248,Female,under 18,yes,No,No,yes
+249,Female,18-24,yes,Yes,Yes,no
+250,Male,45-54,yes,No,No,no
+251,Male,65 and over,yes,No,No,no
+252,Female,25-34,yes,No,No,yes
+253,Female,45-54,yes,No,No,no
+254,Male,45-54,yes,Yes,No,no
+255,Male,35-44,yes,No,No,no
+256,Male,65 and over,yes,No,No,yes
+257,Female,25-34,yes,No,No,yes
+258,Male,45-54,yes,Yes,No,yes
+259,Male,55-64,yes,No,No,no
+260,Male,35-44,yes,No,Yes,no
+261,Female,25-34,no,Yes,Yes,no
+262,Female,45-54,no,No,Yes,no
+263,Male,18-24,yes,No,Yes,yes
+264,Male,45-54,yes,Yes,Yes,no
+265,Male,35-44,yes,Yes,No,yes
+266,Female,35-44,yes,Yes,Yes,no
+267,Female,65 and over,yes,No,No,no
+268,Male,35-44,yes,Yes,No,yes
+269,Male,65 and over,yes,No,No,yes
+270,Female,65 and over,no,No,No,yes
+271,Male,65 and over,yes,No,No,yes
+272,Male,18-24,yes,No,Yes,yes
+273,Female,25-34,yes,No,Yes,no
+274,Female,25-34,yes,No,Yes,no
+275,Male,25-34,yes,Yes,No,no
+276,Male,55-64,yes,No,Yes,no
+277,Female,55-64,yes,No,No,no
+278,Male,18-24,no,Yes,Yes,yes
+279,Male,25-34,yes,Yes,No,yes
+280,Female,25-34,no,No,No,no
+281,Female,65 and over,yes,No,Yes,yes
+282,Female,18-24,yes,Yes,No,no
+283,Male,65 and over,yes,Yes,Yes,yes
+284,Male,25-34,yes,Yes,Yes,no
+285,Male,18-24,yes,No,No,no
+286,Female,25-34,no,No,No,yes
+287,Female,25-34,yes,Yes,Yes,yes
+288,Male,35-44,no,Yes,No,yes
+289,Male,25-34,no,No,No,yes
+290,Female,55-64,yes,No,Yes,no
+291,Female,35-44,no,No,No,no
+292,Female,45-54,no,Yes,Yes,no
+293,Female,18-24,yes,No,No,yes
+294,Female,18-24,yes,No,Yes,yes
+295,Female,45-54,yes,No,No,yes
+296,Male,18-24,yes,No,Yes,no
+297,Female,18-24,yes,No,No,no
+298,Female,55-64,yes,No,No,no
+299,Female,18-24,yes,No,Yes,no
+300,Female,25-34,yes,Yes,No,yes
+301,Male,18-24,yes,Yes,No,yes
+302,Male,45-54,yes,No,No,yes
+303,Female,45-54,yes,No,No,yes
+304,Female,55-64,yes,Yes,No,no
+305,Male,65 and over,yes,No,Yes,no
+306,Female,25-34,yes,Yes,Yes,no
+307,Male,25-34,yes,No,Yes,no
+308,Female,25-34,yes,No,Yes,yes
+309,Female,25-34,no,Yes,No,yes
+310,Male,55-64,yes,No,Yes,no
+311,Male,35-44,yes,No,No,no
+312,Male,35-44,yes,No,No,no
+313,Male,35-44,no,No,No,yes
+314,Female,65 and over,yes,Yes,No,no
+315,Female,55-64,yes,No,Yes,no
+316,Male,55-64,yes,No,No,no
+317,Male,55-64,yes,Yes,No,yes
+318,Male,35-44,no,Yes,No,yes
+319,Female,35-44,no,No,Yes,no
+320,Male,18-24,yes,Yes,No,yes
+321,Male,35-44,no,Yes,Yes,no
+322,Female,35-44,yes,No,Yes,yes
+323,Male,under 18,yes,Yes,No,yes
+324,Male,under 18,yes,No,No,no
+325,Male,18-24,yes,No,No,no
+326,Male,18-24,yes,No,Yes,yes
+327,Male,45-54,yes,Yes,No,no
+328,Male,55-64,yes,Yes,No,no
+329,Female,18-24,yes,Yes,Yes,yes
+330,Male,55-64,yes,No,No,no
+331,Female,55-64,yes,Yes,No,no
+332,Male,55-64,yes,Prefer not to say,No,yes
+333,Male,55-64,no,No,No,no
+334,Female,25-34,yes,No,Yes,no
+335,Male,35-44,yes,No,No,no
+336,Male,18-24,yes,No,No,no
+337,Female,55-64,yes,Yes,No,no
+338,Female,45-54,yes,No,No,no
+339,Female,65 and over,yes,No,No,no
+340,Female,55-64,yes,No,No,no
+341,Female,35-44,yes,Yes,No,no
+342,Male,25-34,yes,No,No,yes
+343,Male,18-24,yes,No,No,yes
+344,Female,25-34,yes,Yes,No,no
+345,Male,65 and over,yes,No,Yes,yes
+346,Male,45-54,no,No,No,no
+347,Male,25-34,yes,No,No,no
+348,Male,55-64,yes,Yes,Yes,yes
+349,Female,25-34,yes,No,No,yes
+350,Male,35-44,yes,No,No,no
+351,Male,35-44,yes,No,No,yes
+352,Male,65 and over,no,No,No,no
+353,Female,35-44,no,No,Yes,no
+354,Male,18-24,yes,No,No,yes
+355,Male,55-64,yes,Yes,Yes,no
+356,Female,35-44,yes,Yes,No,yes
+357,Female,55-64,yes,No,No,no
+358,Male,18-24,yes,No,No,no
+359,Male,25-34,yes,No,No,yes
+360,Female,18-24,no,No,No,yes
+361,Female,65 and over,yes,Yes,No,yes
+362,Male,55-64,yes,No,Yes,no
+363,Female,35-44,yes,Yes,No,no
+364,Male,55-64,yes,No,No,no
+365,Female,55-64,no,No,No,no
+366,Female,25-34,yes,No,No,yes
+367,Female,65 and over,yes,Yes,Yes,yes
+368,Female,65 and over,no,No,No,yes
+369,Male,45-54,yes,No,No,yes
+370,Male,18-24,no,Yes,Yes,no
+371,Female,45-54,yes,No,Yes,no
+372,Male,45-54,yes,No,Yes,yes
+373,Female,35-44,yes,Yes,No,yes
+374,Female,25-34,yes,No,No,no
+375,Female,25-34,yes,Yes,No,no
+376,Female,45-54,yes,No,No,no
+377,Female,18-24,yes,Yes,Yes,no
+378,Male,35-44,no,No,No,yes
+379,Male,45-54,yes,Yes,No,yes
+380,Male,25-34,yes,No,No,yes
+381,Female,65 and over,yes,No,Yes,no
+382,Male,18-24,yes,No,No,yes
+383,Female,25-34,yes,No,Yes,no
+384,Male,35-44,no,Yes,No,yes
+385,Female,65 and over,yes,Yes,Yes,no
+386,Male,45-54,yes,No,No,no
+387,Female,65 and over,yes,No,No,no
+388,Female,45-54,no,No,No,no
+389,Male,45-54,yes,No,No,no
+390,Male,45-54,yes,Yes,No,no
+391,Male,18-24,yes,No,Yes,no
+392,Female,55-64,yes,No,Yes,no
+393,Male,25-34,yes,Yes,Yes,yes
+394,Male,25-34,yes,No,No,yes
+395,Female,65 and over,yes,No,No,yes
+396,Female,18-24,yes,No,No,no
+397,Male,45-54,yes,No,Yes,no
+398,Male,18-24,yes,Yes,No,no
+399,Male,18-24,yes,No,No,no
+400,Male,18-24,yes,No,Yes,yes
+401,Female,35-44,yes,Yes,Yes,no
+402,Female,55-64,no,No,No,yes
+403,Female,25-34,no,No,No,no
+404,Female,35-44,no,No,Yes,no
+405,Female,65 and over,yes,No,Yes,yes
+406,Male,18-24,yes,Yes,No,no
+407,Male,25-34,yes,No,Yes,yes
+408,Female,under 18,no,Yes,No,no
+409,Female,25-34,yes,No,Yes,no
+410,Male,55-64,yes,No,No,yes
+411,Female,18-24,yes,Yes,No,no
+412,Female,55-64,yes,Yes,No,no
+413,Female,35-44,yes,Yes,Yes,no
+414,Male,18-24,no,Yes,No,no
+415,Female,18-24,yes,No,No,yes
+416,Female,35-44,no,No,No,yes
+417,Female,18-24,yes,No,Yes,yes
+418,Female,under 18,yes,No,Yes,no
+419,Female,45-54,yes,No,Yes,no
+420,Male,25-34,yes,No,No,no
+421,Female,55-64,yes,No,No,yes
+422,Male,55-64,yes,No,No,yes
+423,Female,18-24,yes,No,No,no
+424,Female,25-34,yes,No,Yes,no
+425,Male,45-54,yes,No,Yes,yes
+426,Female,45-54,yes,No,No,no
+427,Female,25-34,yes,No,No,yes
+428,Female,45-54,yes,No,No,no
+429,Male,65 and over,yes,No,Yes,yes
+430,Male,18-24,yes,No,Yes,no
+431,Female,25-34,no,Yes,No,no
+432,Female,65 and over,yes,Yes,No,yes
+433,Female,18-24,yes,No,No,no
+434,Male,55-64,yes,Yes,Yes,yes
+435,Male,25-34,yes,No,No,yes
+436,Female,55-64,yes,Yes,Yes,no
+437,Female,25-34,yes,Yes,No,no
+438,Male,25-34,no,No,No,yes
+439,Male,65 and over,yes,No,Yes,yes
+440,Female,65 and over,yes,Yes,Yes,no
+441,Male,25-34,yes,No,No,no
+442,Male,65 and over,yes,No,No,yes
+443,Female,18-24,yes,Yes,No,yes
+444,Male,35-44,yes,No,No,no
+445,Male,18-24,yes,Yes,No,no
+446,Female,55-64,yes,Yes,No,no
+447,Male,25-34,no,No,No,no
+448,Male,35-44,no,No,No,yes
+449,Female,25-34,yes,No,No,no
+450,Male,65 and over,yes,Yes,Yes,yes
+451,Male,65 and over,no,No,No,yes
+452,Female,45-54,yes,No,No,no
+453,Male,18-24,yes,Yes,Yes,no
+454,Female,65 and over,yes,No,Yes,yes
+455,Male,18-24,yes,Yes,Yes,no
+456,Female,65 and over,yes,No,No,no
+457,Female,45-54,yes,Yes,Yes,no
+458,Male,25-34,no,No,No,no
+459,Female,45-54,yes,No,No,no
+460,Female,55-64,no,No,No,yes
+461,Male,18-24,yes,No,Yes,no
+462,Male,65 and over,yes,Yes,Yes,no
+463,Female,18-24,yes,Yes,Yes,yes
+464,Female,35-44,yes,No,Yes,no
+465,Female,35-44,yes,No,No,no
+466,Female,65 and over,no,Yes,Yes,yes
+467,Male,55-64,yes,No,No,yes
+468,Male,45-54,yes,Yes,No,no
+469,Female,25-34,yes,No,No,yes
+470,Male,65 and over,yes,Yes,Yes,yes
+471,Female,under 18,yes,No,No,yes
+472,Female,65 and over,yes,Yes,No,no
+473,Female,35-44,yes,Yes,No,no
+474,Female,25-34,no,Yes,Yes,yes
+475,Male,65 and over,yes,No,No,no
+476,Male,45-54,no,No,Yes,no
+477,Female,18-24,yes,No,No,yes
+478,Female,65 and over,no,No,No,yes
+479,Female,45-54,yes,No,Yes,no
+480,Female,25-34,no,No,Yes,yes
+481,Male,35-44,yes,No,Yes,no
+482,Male,45-54,yes,No,No,yes
+483,Male,25-34,yes,No,Yes,no
+484,Female,35-44,yes,Yes,Yes,no
+485,Male,55-64,yes,No,No,yes
+486,Female,25-34,yes,No,Yes,no
+487,Male,25-34,no,No,Yes,no
+488,Female,35-44,no,No,No,no
+489,Male,65 and over,yes,Yes,No,no
+490,Male,35-44,yes,No,No,no
+491,Male,65 and over,yes,Yes,Yes,no
+492,Male,65 and over,yes,Yes,No,yes
+493,Female,45-54,no,No,No,no
+494,Male,45-54,yes,No,No,yes
+495,Female,35-44,yes,Yes,No,yes
+496,Female,18-24,yes,No,Yes,yes
+497,Female,18-24,yes,Yes,Yes,yes
+498,Male,35-44,yes,No,No,no
+499,Male,65 and over,yes,Yes,No,yes
+500,Female,35-44,yes,Yes,No,no
+501,Male,25-34,yes,Yes,No,no
+502,Male,18-24,yes,Yes,No,yes
+503,Female,18-24,yes,No,No,yes
+504,Male,35-44,yes,Yes,No,yes
+505,Male,18-24,yes,Yes,Yes,no
+506,Male,25-34,yes,Yes,Yes,no
+507,Female,45-54,yes,Yes,No,yes
+508,Female,18-24,yes,Yes,No,yes
+509,Female,25-34,yes,Yes,No,no
+510,Male,45-54,yes,No,No,yes
+511,Female,55-64,yes,Yes,No,yes
+512,Female,18-24,no,No,No,yes
+513,Male,25-34,yes,No,No,no
+514,Male,25-34,yes,No,No,yes
+515,Male,55-64,no,Yes,No,no
+516,Male,18-24,yes,No,No,no
+517,Male,18-24,yes,No,Yes,no
+518,Female,18-24,yes,Yes,Yes,no
+519,Female,55-64,yes,Yes,No,no
+520,Male,35-44,yes,No,No,no
+521,Male,55-64,no,Yes,No,yes
+522,Female,18-24,yes,No,Yes,no
+523,Male,18-24,yes,Yes,Yes,no
+524,Male,65 and over,yes,No,No,yes
+525,Female,45-54,yes,No,Yes,no
+526,Male,25-34,yes,No,No,no
+527,Female,65 and over,no,No,No,no
+528,Male,35-44,yes,No,Yes,no
+529,Male,55-64,yes,Yes,Yes,no
+530,Female,25-34,yes,No,No,yes
+531,Male,35-44,yes,No,Yes,yes
+532,Male,65 and over,yes,Yes,No,no
+533,Female,65 and over,yes,No,No,no
+534,Female,55-64,yes,Yes,No,yes
+535,Female,65 and over,yes,No,No,no
+536,Male,45-54,yes,No,No,yes
+537,Female,55-64,no,Yes,No,yes
+538,Male,65 and over,yes,No,No,no
+539,Male,18-24,no,Yes,No,yes
+540,Male,18-24,yes,No,Yes,yes
+541,Male,65 and over,no,No,Yes,no
+542,Female,35-44,yes,Yes,No,no
+543,Female,65 and over,yes,No,No,no
+544,Female,35-44,yes,Yes,Yes,yes
+545,Female,65 and over,yes,No,Yes,no
+546,Female,18-24,no,Yes,No,yes
+547,Female,45-54,no,Yes,No,no
+548,Female,45-54,yes,No,No,yes
+549,Female,35-44,yes,No,No,no
+550,Male,25-34,no,Yes,No,yes
+551,Male,45-54,yes,No,Yes,yes
+552,Female,35-44,no,No,Yes,yes
+553,Male,35-44,yes,No,No,no
+554,Female,25-34,yes,Yes,No,no
+555,Female,65 and over,yes,Prefer not to say,No,yes
+556,Female,55-64,yes,No,No,no
+557,Male,35-44,no,No,No,no
+558,Female,18-24,yes,Yes,No,yes
+559,Male,45-54,yes,Yes,No,no
+560,Female,25-34,yes,No,No,no
+561,Female,18-24,no,Yes,No,yes
+562,Female,45-54,yes,No,No,yes
+563,Female,45-54,yes,Yes,No,no
+564,Female,18-24,yes,Yes,No,no
+565,Male,18-24,yes,No,No,no
+566,Male,35-44,yes,No,Yes,no
+567,Female,45-54,yes,Prefer not to say,Yes,no
+568,Male,65 and over,yes,No,Yes,no
+569,Male,45-54,no,No,No,no
+570,Female,55-64,yes,No,Yes,no
+571,Male,25-34,yes,No,No,yes
+572,Female,25-34,yes,Yes,No,yes
+573,Female,55-64,yes,No,Yes,no
+574,Male,65 and over,yes,No,No,no
+575,Male,25-34,yes,Yes,Yes,yes
+576,Male,35-44,yes,Yes,No,yes
+577,Female,45-54,yes,No,No,yes
+578,Male,45-54,no,Yes,No,no
+579,Female,25-34,yes,No,Yes,yes
+580,Male,25-34,no,Yes,Yes,no
+581,Female,25-34,yes,No,Yes,no
+582,Male,55-64,yes,No,No,yes
+583,Female,55-64,yes,No,Prefer not to say,no
+584,Male,25-34,yes,Yes,No,no
+585,Male,under 18,yes,No,Yes,no
+586,Male,35-44,yes,Yes,No,yes
+587,Male,45-54,yes,No,Yes,no
+588,Female,65 and over,yes,Yes,No,yes
+589,Male,45-54,yes,Prefer not to say,No,yes
+590,Male,45-54,yes,No,No,no
+591,Male,25-34,yes,No,Yes,no
+592,Female,45-54,yes,No,Yes,no
+593,Male,65 and over,yes,Yes,No,yes
+594,Male,65 and over,yes,No,No,yes
+595,Male,18-24,yes,No,No,yes
+596,Male,18-24,yes,No,Yes,no
+597,Female,18-24,yes,No,No,yes
+598,Female,25-34,yes,No,No,no
+599,Female,25-34,yes,Yes,Yes,no
+600,Male,55-64,yes,No,No,no
+601,Male,25-34,yes,Yes,No,no
+602,Female,35-44,yes,No,No,yes
+603,Male,55-64,yes,Yes,Yes,no
+604,Male,65 and over,yes,No,No,no
+605,Male,25-34,yes,No,Yes,yes
+606,Female,25-34,yes,No,No,no
+607,Female,25-34,no,Yes,No,no
+608,Female,25-34,yes,No,No,yes
+609,Male,18-24,yes,No,No,yes
+610,Female,under 18,yes,No,No,yes
+611,Male,25-34,yes,Prefer not to say,No,no
+612,Male,18-24,no,No,Yes,no
+613,Female,55-64,yes,No,Yes,yes
+614,Male,65 and over,yes,No,No,yes
+615,Female,55-64,yes,Yes,No,no
+616,Male,18-24,no,No,No,yes
+617,Female,45-54,yes,No,No,no
+618,Female,25-34,yes,No,No,no
+619,Male,18-24,yes,Yes,No,no
+620,Male,45-54,yes,No,No,yes
+621,Male,35-44,yes,No,No,no
+622,Female,25-34,yes,No,No,no
+623,Male,under 18,yes,No,Prefer not to say,yes
+624,Male,25-34,yes,No,No,yes
+625,Female,55-64,yes,No,Yes,no
+626,Female,45-54,yes,Yes,No,no
+627,Male,25-34,no,No,Yes,no
+628,Male,45-54,yes,No,No,no
+629,Female,35-44,yes,No,No,yes
+630,Male,45-54,yes,No,No,yes
+631,Male,25-34,yes,Yes,No,no
+632,Female,18-24,no,No,No,yes
+633,Female,55-64,yes,No,Yes,yes
+634,Female,45-54,yes,No,No,yes
+635,Female,55-64,yes,No,No,yes
+636,Female,25-34,yes,Yes,No,yes
+637,Female,25-34,yes,Yes,No,yes
+638,Female,35-44,yes,No,Yes,yes
+639,Female,45-54,yes,No,Yes,no
+640,Male,25-34,no,No,No,no
+641,Female,35-44,no,Yes,No,no
+642,Male,55-64,no,No,Yes,yes
+643,Female,65 and over,yes,No,Yes,no
+644,Female,18-24,yes,No,No,yes
+645,Male,under 18,yes,No,Yes,no
+646,Female,18-24,yes,No,Yes,yes
+647,Female,35-44,yes,No,Yes,no
+648,Female,under 18,no,No,No,yes
+649,Male,55-64,yes,Yes,No,yes
+650,Male,55-64,no,No,No,no
+651,Female,65 and over,yes,Yes,Yes,no
+652,Female,65 and over,yes,No,No,no
+653,Female,18-24,yes,Yes,No,yes
+654,Female,55-64,yes,Yes,Yes,no
+655,Female,35-44,yes,No,No,yes
+656,Male,25-34,no,No,No,yes
+657,Female,25-34,yes,No,Yes,yes
+658,Female,65 and over,no,Yes,No,yes
+659,Male,45-54,yes,No,No,no
+660,Male,55-64,yes,Yes,No,yes
+661,Female,under 18,yes,No,No,yes
+662,Female,35-44,yes,No,No,no
+663,Female,45-54,yes,No,Yes,no
+664,Female,25-34,no,No,No,no
+665,Female,35-44,no,No,Yes,no
+666,Female,18-24,yes,No,Yes,no
+667,Male,35-44,yes,No,Yes,no
+668,Male,65 and over,yes,No,No,no
+669,Male,65 and over,yes,Yes,No,no
+670,Male,45-54,no,Yes,Yes,no
+671,Female,65 and over,yes,Yes,Yes,yes
+672,Female,18-24,no,Yes,No,no
+673,Male,65 and over,yes,Yes,No,yes
+674,Male,65 and over,yes,Yes,No,no
+675,Male,25-34,yes,No,Yes,no
+676,Male,55-64,yes,No,No,no
+677,Male,35-44,no,Yes,No,no
+678,Female,25-34,yes,No,Yes,yes
+679,Male,65 and over,yes,No,No,yes
+680,Female,18-24,yes,No,No,no
+681,Male,18-24,yes,Yes,Yes,no
+682,Male,65 and over,yes,No,No,no
+683,Male,25-34,yes,No,No,no
+684,Female,65 and over,yes,No,Yes,no
+685,Male,45-54,yes,No,No,yes
+686,Male,55-64,yes,No,Yes,no
+687,Male,25-34,yes,Yes,No,no
+688,Male,35-44,yes,No,No,yes
+689,Female,25-34,no,No,No,no
+690,Female,45-54,yes,No,Yes,no
+691,Male,25-34,yes,Yes,Yes,no
+692,Male,35-44,yes,Yes,No,yes
+693,Female,65 and over,yes,No,No,yes
+694,Male,18-24,no,No,No,yes
+695,Male,55-64,no,No,No,yes
+696,Male,45-54,yes,No,No,no
+697,Male,65 and over,yes,No,No,no
+698,Male,35-44,yes,Yes,No,no
+699,Male,under 18,yes,No,Yes,yes
+700,Male,65 and over,yes,Yes,No,yes
+701,Male,25-34,yes,No,No,yes
+702,Female,18-24,yes,No,Yes,no
+703,Female,65 and over,yes,Yes,Yes,no
+704,Male,35-44,yes,No,No,yes
+705,Male,25-34,yes,No,No,no
+706,Male,35-44,yes,Yes,Yes,no
+707,Female,35-44,yes,No,No,no
+708,Female,55-64,no,No,No,yes
+709,Male,45-54,yes,Yes,No,no
+710,Male,35-44,yes,Yes,Yes,yes
+711,Female,35-44,yes,Yes,Yes,no
+712,Male,35-44,yes,Yes,Yes,no
+713,Female,18-24,yes,No,No,no
+714,Male,55-64,yes,Yes,No,no
+715,Male,65 and over,yes,Yes,No,yes
+716,Female,35-44,yes,No,No,no
+717,Male,25-34,yes,Yes,No,no
+718,Male,25-34,yes,No,No,yes
+719,Male,55-64,yes,Yes,No,no
+720,Female,45-54,yes,Yes,Yes,no
+721,Female,35-44,yes,No,Yes,yes
+722,Female,18-24,yes,Yes,No,yes
+723,Female,35-44,yes,Yes,No,no
+724,Female,45-54,yes,No,Yes,no
+725,Female,18-24,yes,No,No,yes
+726,Female,35-44,yes,No,Yes,no
+727,Female,25-34,no,No,No,yes
+728,Female,25-34,yes,Yes,No,no
+729,Female,65 and over,yes,Yes,Yes,yes
+730,Male,45-54,yes,Yes,Yes,yes
+731,Male,65 and over,yes,No,No,no
+732,Female,45-54,yes,No,Yes,yes
+733,Male,65 and over,yes,Prefer not to say,Yes,yes
+734,Female,25-34,yes,Yes,No,no
+735,Female,55-64,yes,No,Yes,no
+736,Male,35-44,no,Yes,Yes,no
+737,Male,35-44,yes,No,No,yes
+738,Male,45-54,yes,No,Yes,no
+739,Male,55-64,yes,No,Yes,no
+740,Male,35-44,yes,No,Yes,yes
+741,Female,65 and over,yes,No,Yes,no
+742,Male,45-54,yes,No,Yes,no
+743,Female,18-24,yes,No,No,yes
+744,Female,18-24,yes,No,No,no
+745,Male,35-44,yes,No,No,no
+746,Male,25-34,yes,No,No,yes
+747,Female,25-34,yes,No,No,no
+748,Female,35-44,yes,No,Yes,yes
+749,Male,25-34,yes,Yes,Yes,no
+750,Female,25-34,yes,No,No,no
+751,Male,65 and over,yes,No,No,yes
+752,Male,45-54,yes,Yes,No,yes
+753,Male,55-64,yes,Yes,No,yes
+754,Male,45-54,yes,No,Yes,yes
+755,Female,45-54,yes,No,Yes,no
+756,Female,65 and over,yes,No,No,no
+757,Male,65 and over,yes,No,No,yes
+758,Female,25-34,yes,No,No,yes
+759,Female,45-54,yes,No,No,no
+760,Female,45-54,yes,No,No,yes
+761,Female,25-34,yes,Yes,No,no
+762,Female,65 and over,yes,No,No,yes
+763,Male,55-64,yes,No,No,yes
+764,Female,45-54,no,No,No,yes
+765,Male,18-24,no,No,No,no
+766,Male,35-44,yes,Yes,Yes,no
+767,Male,45-54,yes,Yes,No,yes
+768,Male,55-64,no,No,No,no
+769,Female,25-34,yes,No,No,yes
+770,Female,45-54,yes,Yes,No,no
+771,Female,45-54,yes,Yes,Yes,yes
+772,Male,65 and over,yes,No,Yes,no
+773,Male,45-54,yes,Yes,Yes,no
+774,Male,18-24,yes,Yes,Yes,no
+775,Male,45-54,no,Yes,Yes,no
+776,Female,45-54,yes,No,No,yes
+777,Female,35-44,yes,No,No,no
+778,Female,35-44,yes,Yes,No,yes
+779,Male,55-64,no,Yes,No,yes
+780,Male,65 and over,yes,No,Yes,yes
+781,Female,18-24,no,Yes,No,yes
+782,Female,18-24,yes,No,Yes,no
+783,Female,25-34,yes,No,No,yes
+784,Male,35-44,yes,No,No,yes
+785,Female,45-54,yes,No,Yes,no
+786,Male,65 and over,yes,Yes,Yes,yes
+787,Male,65 and over,yes,No,No,yes
+788,Female,45-54,yes,No,No,yes
+789,Male,45-54,no,Yes,No,no
+790,Female,25-34,yes,Yes,No,no
+791,Female,18-24,yes,No,No,yes
+792,Male,18-24,no,No,No,yes
+793,Male,35-44,yes,No,No,yes
+794,Female,45-54,yes,Yes,No,yes
+795,Female,65 and over,yes,No,No,yes
+796,Female,35-44,yes,No,No,no
+797,Female,45-54,yes,No,No,no
+798,Male,under 18,yes,No,No,no
+799,Female,25-34,yes,No,Yes,no
+800,Female,65 and over,no,Yes,No,no
+801,Female,55-64,yes,Yes,No,no
+802,Male,55-64,yes,No,No,no
+803,Female,25-34,yes,Yes,No,no
+804,Female,65 and over,yes,No,Yes,yes
+805,Male,65 and over,yes,No,Yes,no
+806,Male,25-34,yes,Yes,No,no
+807,Female,45-54,yes,No,No,no
+808,Female,55-64,yes,No,No,yes
+809,Female,65 and over,yes,No,No,no
+810,Male,18-24,yes,Yes,No,yes
+811,Male,35-44,yes,No,Yes,no
+812,Female,25-34,no,Yes,No,no
+813,Male,18-24,yes,Yes,No,no
+814,Male,under 18,yes,No,Yes,yes
+815,Female,18-24,yes,No,No,no
+816,Female,55-64,yes,No,Yes,no
+817,Female,55-64,yes,Yes,No,no
+818,Male,25-34,yes,No,No,yes
+819,Male,55-64,no,No,No,yes
+820,Female,65 and over,yes,No,Yes,yes
+821,Female,65 and over,yes,Yes,No,no
+822,Female,25-34,yes,Yes,No,yes
+823,Male,25-34,no,No,Yes,yes
+824,Male,25-34,yes,No,Yes,no
+825,Female,65 and over,yes,No,Yes,no
+826,Female,65 and over,no,No,Yes,no
+827,Female,45-54,yes,No,No,no
+828,Female,45-54,yes,Yes,No,no
+829,Female,45-54,yes,No,No,no
+830,Male,45-54,yes,No,No,no
+831,Male,45-54,yes,No,No,no
+832,Female,18-24,yes,No,No,no
+833,Male,25-34,yes,Yes,Yes,no
+834,Male,55-64,yes,No,No,no
+835,Male,25-34,yes,No,No,yes
+836,Male,35-44,yes,Yes,Yes,no
+837,Female,35-44,yes,No,No,no
+838,Female,25-34,yes,No,Yes,yes
+839,Male,18-24,no,Yes,No,yes
+840,Female,35-44,no,No,No,no
+841,Female,25-34,yes,Yes,Yes,no
+842,Male,65 and over,yes,Yes,No,no
+843,Male,18-24,yes,No,Yes,no
+844,Male,25-34,yes,No,Yes,yes
+845,Female,25-34,yes,Yes,Yes,no
+846,Female,25-34,yes,No,No,yes
+847,Female,18-24,yes,No,Yes,no
+848,Female,55-64,yes,No,No,yes
+849,Male,25-34,no,No,No,yes
+850,Female,65 and over,yes,No,No,yes
+851,Female,35-44,yes,No,Yes,yes
+852,Female,18-24,yes,No,No,yes
+853,Male,55-64,yes,Yes,Yes,yes
+854,Male,45-54,yes,No,No,no
+855,Male,18-24,no,No,No,yes
+856,Male,25-34,yes,No,No,no
+857,Male,65 and over,no,No,Yes,no
+858,Male,18-24,no,No,No,yes
+859,Male,35-44,yes,No,No,yes
+860,Female,25-34,yes,Yes,Yes,yes
+861,Female,25-34,yes,No,Yes,yes
+862,Male,65 and over,yes,No,Yes,yes
+863,Female,65 and over,yes,Yes,No,no
+864,Female,35-44,yes,No,No,yes
+865,Male,25-34,yes,Yes,Yes,no
+866,Female,45-54,yes,No,No,yes
+867,Female,35-44,yes,Yes,No,no
+868,Female,18-24,yes,Yes,No,yes
+869,Male,18-24,yes,Yes,No,no
+870,Male,35-44,yes,No,No,yes
+871,Female,45-54,yes,Yes,Yes,yes
+872,Male,18-24,yes,No,No,yes
+873,Female,65 and over,yes,Yes,No,yes
+874,Female,45-54,yes,No,No,yes
+875,Female,35-44,yes,No,Yes,no
+876,Female,45-54,yes,Yes,No,yes
+877,Female,55-64,yes,No,No,no
+878,Male,18-24,yes,No,No,no
+879,Male,35-44,yes,No,No,no
+880,Female,45-54,yes,Yes,No,yes
+881,Female,18-24,yes,No,No,no
+882,Female,35-44,yes,Yes,No,yes
+883,Female,65 and over,no,Yes,Yes,no
+884,Female,65 and over,yes,Yes,No,no
+885,Male,55-64,yes,No,No,yes
+886,Female,65 and over,yes,Yes,No,yes
+887,Female,18-24,yes,No,No,no
+888,Male,25-34,yes,No,No,no
+889,Male,35-44,yes,Yes,No,no
+890,Male,25-34,yes,No,Yes,no
+891,Female,18-24,yes,Yes,Yes,no
+892,Female,35-44,yes,No,Yes,yes
+893,Male,55-64,yes,Yes,No,yes
+894,Female,25-34,yes,Yes,No,no
+895,Male,18-24,no,Yes,Yes,no
+896,Female,35-44,yes,Yes,No,no
+897,Male,18-24,yes,No,Yes,yes
+898,Male,35-44,yes,Yes,No,yes
+899,Male,35-44,yes,No,No,no
+900,Female,65 and over,yes,Yes,No,no
+901,Female,18-24,yes,Yes,No,no
+902,Female,35-44,yes,No,No,yes
+903,Male,65 and over,yes,No,Prefer not to say,no
+904,Male,35-44,yes,No,Prefer not to say,no
+905,Male,25-34,yes,Yes,Yes,no
+906,Male,25-34,yes,No,No,no
+907,Male,25-34,yes,Yes,Yes,yes
+908,Male,65 and over,yes,No,No,no
+909,Female,35-44,yes,No,No,yes
+910,Male,25-34,yes,No,No,yes
+911,Female,18-24,yes,Yes,No,no
+912,Female,25-34,yes,No,No,no
+913,Male,25-34,yes,No,No,no
+914,Female,45-54,yes,No,Yes,no
+915,Male,55-64,yes,No,Yes,yes
+916,Female,65 and over,yes,Yes,No,no
+917,Male,65 and over,yes,No,No,yes
+918,Male,25-34,yes,No,Yes,no
+919,Male,35-44,yes,Yes,No,no
+920,Male,18-24,yes,No,No,no
+921,Female,25-34,yes,No,No,no
+922,Female,25-34,yes,Yes,Yes,no
+923,Male,25-34,yes,Yes,Yes,no
+924,Female,25-34,yes,Yes,Yes,no
+925,Female,45-54,yes,No,No,no
+926,Female,55-64,yes,No,No,no
+927,Male,45-54,yes,Yes,No,no
+928,Female,45-54,yes,Yes,Yes,yes
+929,Female,55-64,yes,Yes,No,no
+930,Male,65 and over,no,No,No,yes
+931,Female,65 and over,yes,No,No,no
+932,Male,55-64,yes,No,No,yes
+933,Male,25-34,yes,Yes,Yes,no
+934,Male,35-44,yes,No,No,yes
+935,Female,25-34,no,No,No,no
+936,Female,65 and over,yes,No,Yes,no
+937,Male,65 and over,no,No,No,no
+938,Male,55-64,yes,Yes,Yes,yes
+939,Female,35-44,yes,Yes,Yes,yes
+940,Male,25-34,yes,No,No,no
+941,Female,35-44,yes,Yes,No,no
+942,Male,25-34,no,No,Yes,no
+943,Male,18-24,no,Yes,No,yes
+944,Male,55-64,yes,Yes,No,no
+945,Male,45-54,yes,No,No,no
+946,Female,45-54,yes,No,No,yes
+947,Male,35-44,yes,No,Yes,yes
+948,Male,18-24,yes,No,No,yes
+949,Male,45-54,yes,No,No,yes
+950,Male,25-34,yes,No,No,yes
+951,Male,25-34,yes,Yes,No,yes
+952,Male,25-34,yes,No,Yes,no
+953,Female,18-24,yes,No,No,yes
+954,Male,18-24,yes,No,Yes,no
+955,Male,18-24,yes,No,Yes,yes
+956,Female,65 and over,yes,No,No,no
+957,Female,55-64,yes,No,No,no
+958,Male,25-34,yes,Yes,Yes,yes
+959,Male,under 18,yes,No,No,yes
+960,Female,45-54,yes,Yes,Yes,no
+961,Male,65 and over,no,Yes,No,no
+962,Female,25-34,yes,No,Yes,yes
+963,Female,18-24,yes,No,No,no
+964,Male,25-34,no,No,Yes,yes
+965,Male,25-34,yes,No,Prefer not to say,no
+966,Male,55-64,yes,No,No,yes
+967,Male,35-44,yes,No,No,no
+968,Female,55-64,yes,No,Yes,no
+969,Female,25-34,yes,Yes,Yes,no
+970,Female,55-64,no,No,No,yes
+971,Male,25-34,yes,No,No,yes
+972,Female,65 and over,yes,No,No,no
+973,Female,25-34,no,No,No,no
+974,Male,25-34,yes,Yes,No,no
+975,Female,65 and over,yes,Yes,No,yes
+976,Female,35-44,no,Yes,No,no
+977,Female,55-64,yes,Yes,Yes,no
+978,Female,25-34,yes,Prefer not to say,No,no
+979,Female,35-44,yes,No,No,no
+980,Female,18-24,yes,Yes,No,no
+981,Male,18-24,yes,No,No,no
+982,Male,35-44,no,No,No,yes
+983,Male,25-34,yes,No,No,no
+984,Male,25-34,yes,No,Yes,no
+985,Female,55-64,no,Yes,No,no
+986,Male,35-44,yes,Yes,Yes,no
+987,Male,25-34,yes,No,No,yes
+988,Female,18-24,no,No,No,no
+989,Male,65 and over,yes,Yes,No,no
+990,Male,65 and over,yes,No,No,no
+991,Female,65 and over,yes,No,No,no
+992,Male,65 and over,yes,Yes,No,yes
+993,Male,45-54,yes,No,No,yes
+994,Male,55-64,no,No,Yes,no
+995,Female,65 and over,yes,No,Yes,no
+996,Female,18-24,yes,Yes,No,no
+997,Male,35-44,yes,Yes,No,no
+998,Female,65 and over,no,No,No,no
+999,Female,55-64,yes,Yes,No,no
+1000,Male,65 and over,yes,Yes,No,no
+1001,Female,18-24,yes,No,Yes,no
+1002,Male,35-44,no,No,No,yes
+1003,Female,25-34,yes,No,No,yes
+1004,Male,65 and over,yes,Yes,No,yes
+1005,Male,35-44,yes,No,Yes,yes
+1006,Male,35-44,yes,No,No,no
+1007,Male,45-54,yes,No,No,no
+1008,Female,45-54,no,Yes,No,no
+1009,Female,45-54,no,Yes,Yes,yes
+1010,Female,25-34,yes,Yes,Yes,no
+1011,Female,55-64,yes,No,No,yes
+1012,Male,35-44,yes,Yes,Yes,no
+1013,Female,25-34,no,Yes,Yes,no
+1014,Female,18-24,yes,No,Yes,yes
+1015,Female,25-34,yes,Yes,Yes,no
+1016,Female,25-34,yes,Yes,No,no
+1017,Female,35-44,yes,No,Yes,yes
+1018,Female,25-34,yes,No,Yes,yes
+1019,Female,35-44,no,No,No,no
+1020,Male,35-44,yes,Yes,Yes,no
+1021,Female,65 and over,yes,No,No,yes
+1022,Male,25-34,yes,Yes,Yes,yes
+1023,Male,55-64,yes,No,No,yes
+1024,Female,35-44,yes,No,No,yes
+1025,Male,55-64,yes,No,Yes,no
+1026,Female,35-44,no,Yes,No,no
+1027,Male,55-64,no,No,No,yes
+1028,Male,45-54,yes,No,No,no
+1029,Male,45-54,yes,No,No,no
+1030,Female,55-64,yes,Yes,No,no
+1031,Male,25-34,yes,Yes,No,no
+1032,Female,65 and over,yes,Yes,No,no
+1033,Female,45-54,yes,No,No,yes
+1034,Female,25-34,no,No,No,no
+1035,Female,18-24,no,No,No,no
+1036,Male,25-34,no,No,No,no
+1037,Male,45-54,yes,No,No,yes
+1038,Female,25-34,yes,No,No,yes
+1039,Male,18-24,yes,No,Yes,no
+1040,Female,65 and over,yes,No,No,no
+1041,Female,25-34,yes,Prefer not to say,No,no
+1042,Female,25-34,yes,Yes,No,yes
+1043,Male,35-44,yes,No,No,no
+1044,Male,25-34,yes,No,No,yes
+1045,Male,18-24,yes,Yes,Yes,no
+1046,Female,65 and over,yes,Yes,No,no
+1047,Female,under 18,no,No,Yes,yes
+1048,Male,45-54,yes,No,No,yes
+1049,Male,45-54,yes,No,No,no
+1050,Female,18-24,yes,No,Yes,yes
+1051,Male,35-44,yes,Yes,Yes,yes
+1052,Female,25-34,yes,No,No,yes
+1053,Male,65 and over,yes,No,No,yes
+1054,Female,25-34,no,Yes,No,yes
+1055,Female,45-54,yes,No,No,yes
+1056,Male,55-64,no,No,No,no
+1057,Male,25-34,yes,Yes,No,yes
+1058,Female,65 and over,yes,No,No,no
+1059,Female,55-64,yes,Yes,No,no
+1060,Female,18-24,yes,Yes,Yes,yes
+1061,Female,18-24,no,No,No,no
+1062,Male,18-24,yes,No,No,yes
+1063,Female,25-34,yes,No,No,no
+1064,Male,35-44,yes,Yes,No,yes
+1065,Male,25-34,yes,No,Yes,yes
+1066,Male,45-54,yes,No,No,yes
+1067,Male,35-44,yes,No,No,no
+1068,Male,25-34,yes,Yes,No,yes
+1069,Female,25-34,yes,No,No,no
+1070,Female,45-54,yes,No,Yes,no
+1071,Female,55-64,yes,No,No,no
+1072,Female,25-34,yes,Yes,No,no
+1073,Female,25-34,yes,Yes,Yes,yes
+1074,Female,18-24,yes,No,Prefer not to say,no
+1075,Female,18-24,yes,Yes,No,no
+1076,Male,55-64,yes,Yes,No,yes
+1077,Female,25-34,no,No,Yes,yes
+1078,Male,35-44,yes,Yes,No,no
+1079,Female,18-24,yes,No,No,no
+1080,Female,45-54,yes,No,No,yes
+1081,Female,18-24,yes,Yes,No,no
+1082,Female,45-54,yes,Yes,Yes,no
+1083,Female,65 and over,yes,No,No,no
+1084,Female,18-24,yes,No,Yes,yes
+1085,Female,45-54,yes,No,Yes,no
+1086,Female,65 and over,yes,Yes,No,no
+1087,Male,35-44,no,No,No,yes
+1088,Female,25-34,yes,No,No,no
+1089,Female,18-24,yes,No,No,no
+1090,Female,45-54,yes,Yes,Yes,yes
+1091,Female,65 and over,yes,No,Yes,yes
+1092,Female,25-34,no,No,No,no
+1093,Female,55-64,no,No,No,yes
+1094,Female,under 18,yes,No,No,no
+1095,Male,18-24,yes,No,No,yes
+1096,Female,65 and over,yes,No,No,no
+1097,Male,under 18,yes,Yes,No,yes
+1098,Female,35-44,yes,No,No,yes
+1099,Female,35-44,yes,Yes,No,yes
+1100,Male,55-64,yes,No,Yes,no
+1101,Female,25-34,yes,No,No,no
+1102,Male,65 and over,yes,No,No,no
+1103,Male,45-54,yes,No,No,no
+1104,Female,25-34,yes,No,Yes,yes
+1105,Male,25-34,yes,Yes,No,yes
+1106,Female,55-64,yes,No,Yes,yes
+1107,Male,65 and over,no,No,Yes,yes
+1108,Female,under 18,yes,Yes,Yes,yes
+1109,Female,65 and over,no,No,No,yes
+1110,Female,25-34,no,No,No,yes
+1111,Female,65 and over,yes,No,No,no
+1112,Female,18-24,yes,Yes,No,yes
+1113,Male,18-24,yes,No,Yes,no
+1114,Female,65 and over,yes,No,No,yes
+1115,Female,65 and over,yes,Yes,No,no
+1116,Female,35-44,yes,No,No,yes
+1117,Female,25-34,yes,No,No,yes
+1118,Male,65 and over,no,No,Yes,yes
+1119,Female,35-44,yes,No,Prefer not to say,yes
+1120,Female,25-34,yes,No,No,no
+1121,Female,18-24,yes,No,No,no
+1122,Male,18-24,yes,No,No,no
+1123,Male,55-64,yes,No,Yes,yes
+1124,Male,35-44,yes,No,No,no
+1125,Male,65 and over,no,Yes,Yes,yes
+1126,Male,25-34,yes,No,No,no
+1127,Male,35-44,yes,No,No,no
+1128,Male,55-64,yes,No,No,no
+1129,Male,18-24,yes,Yes,No,yes
+1130,Female,18-24,yes,No,No,no
+1131,Female,25-34,yes,Yes,Yes,no
+1132,Male,65 and over,yes,Yes,No,no
+1133,Male,18-24,yes,No,No,yes
+1134,Female,18-24,yes,Yes,Yes,no
+1135,Female,35-44,no,No,Yes,yes
+1136,Male,18-24,yes,No,No,yes
+1137,Female,25-34,yes,No,Yes,no
+1138,Female,55-64,no,No,Yes,no
+1139,Female,35-44,yes,No,No,no
+1140,Female,18-24,yes,No,No,yes
+1141,Female,65 and over,yes,No,Yes,yes
+1142,Female,65 and over,yes,Yes,Yes,yes
+1143,Male,35-44,yes,Yes,No,no
+1144,Female,25-34,yes,Yes,No,no
+1145,Female,65 and over,yes,Yes,No,no
+1146,Female,45-54,yes,No,No,no
+1147,Male,35-44,yes,No,Yes,yes
+1148,Female,25-34,yes,Yes,No,no
+1149,Female,45-54,yes,No,No,no
+1150,Female,35-44,yes,No,No,no
+1151,Male,45-54,yes,No,No,no
+1152,Female,55-64,yes,No,No,no
+1153,Female,25-34,yes,Yes,No,no
+1154,Male,35-44,yes,Yes,Yes,no
+1155,Female,65 and over,yes,Yes,Yes,no
+1156,Male,18-24,yes,No,No,yes
+1157,Female,45-54,no,No,Yes,no
+1158,Male,25-34,yes,No,No,yes
+1159,Male,65 and over,no,No,Yes,no
+1160,Female,25-34,yes,Yes,Yes,no
+1161,Male,35-44,yes,No,No,yes
+1162,Male,55-64,yes,No,Yes,no
+1163,Male,18-24,yes,Yes,No,yes
+1164,Female,25-34,yes,No,Yes,no
+1165,Male,25-34,yes,Yes,No,no
+1166,Male,18-24,yes,No,Yes,no
+1167,Female,65 and over,yes,Yes,Yes,no
+1168,Female,18-24,yes,No,No,yes
+1169,Female,18-24,yes,No,Yes,no
+1170,Female,55-64,yes,No,No,yes
+1171,Female,25-34,no,No,Yes,no
+1172,Female,45-54,yes,No,Prefer not to say,no
+1173,Female,35-44,yes,No,No,yes
+1174,Male,18-24,yes,No,Yes,yes
+1175,Male,25-34,yes,No,No,yes
+1176,Female,25-34,no,No,No,yes
+1177,Female,18-24,no,No,Yes,no
+1178,Male,45-54,yes,Yes,No,no
+1179,Female,55-64,yes,Yes,No,yes
+1180,Male,55-64,yes,No,Yes,no
+1181,Female,25-34,no,Yes,No,yes
+1182,Female,25-34,yes,No,No,no
+1183,Male,25-34,no,No,Yes,no
+1184,Female,25-34,yes,No,No,no
+1185,Male,35-44,no,No,Yes,no
+1186,Female,35-44,yes,No,Yes,no
+1187,Male,18-24,yes,No,No,no
+1188,Male,18-24,yes,Yes,No,yes
+1189,Female,55-64,yes,No,No,no
+1190,Male,35-44,yes,Yes,No,no
+1191,Female,55-64,yes,No,No,no
+1192,Male,45-54,yes,No,No,yes
+1193,Male,25-34,yes,Yes,No,no
+1194,Female,65 and over,yes,No,No,no
+1195,Female,45-54,yes,Yes,No,no
+1196,Male,55-64,yes,No,No,no
+1197,Male,18-24,yes,Yes,Yes,yes
+1198,Female,25-34,yes,Yes,No,yes
+1199,Female,55-64,yes,No,No,yes
+1200,Female,45-54,yes,Yes,Yes,yes
+1201,Female,45-54,yes,No,Yes,no
+1202,Female,25-34,yes,No,Yes,no
+1203,Female,25-34,yes,No,No,no
+1204,Male,65 and over,yes,No,Yes,yes
+1205,Male,45-54,yes,Yes,No,yes
+1206,Male,35-44,yes,No,No,yes
+1207,Female,25-34,yes,No,Yes,no
+1208,Female,25-34,yes,No,Yes,no
+1209,Male,25-34,yes,No,No,no
+1210,Female,35-44,yes,Yes,No,no
+1211,Male,18-24,yes,No,No,yes
+1212,Female,55-64,yes,Yes,No,no
+1213,Female,65 and over,no,Yes,No,yes
+1214,Female,65 and over,no,No,No,yes
+1215,Female,25-34,yes,Yes,Yes,no
+1216,Female,25-34,yes,Yes,No,no
+1217,Male,18-24,yes,No,Yes,yes
+1218,Male,18-24,yes,No,Yes,no
+1219,Male,25-34,yes,Yes,No,yes
+1220,Female,25-34,yes,No,No,no
+1221,Female,45-54,yes,Yes,Yes,no
+1222,Male,35-44,no,Yes,No,no
+1223,Male,35-44,yes,Yes,No,yes
+1224,Female,55-64,no,No,Yes,no
+1225,Female,55-64,yes,Yes,Yes,yes
+1226,Female,18-24,yes,No,No,no
+1227,Female,25-34,yes,No,No,no
+1228,Male,25-34,no,Yes,No,no
+1229,Female,35-44,yes,No,Yes,no
+1230,Male,45-54,yes,No,No,yes
+1231,Female,25-34,yes,No,No,no
+1232,Female,65 and over,yes,No,No,no
+1233,Male,55-64,yes,Yes,Yes,no
+1234,Male,35-44,yes,No,No,no
+1235,Male,35-44,yes,No,No,no
+1236,Male,35-44,yes,Yes,No,yes
+1237,Male,18-24,yes,No,No,no
+1238,Female,45-54,yes,Yes,Yes,yes
+1239,Female,25-34,yes,No,No,no
+1240,Female,65 and over,yes,No,No,yes
+1241,Male,65 and over,yes,No,No,no
+1242,Female,35-44,yes,No,No,no
+1243,Male,55-64,yes,Yes,Yes,yes
+1244,Female,under 18,yes,No,No,no
+1245,Male,25-34,yes,Yes,No,no
+1246,Female,35-44,yes,No,No,yes
+1247,Female,25-34,yes,Yes,No,no
+1248,Male,25-34,yes,Yes,No,yes
+1249,Female,18-24,yes,No,No,yes
+1250,Female,25-34,yes,No,No,yes
+1251,Male,25-34,no,Yes,No,no
+1252,Female,35-44,yes,Yes,Yes,no
+1253,Male,65 and over,yes,Yes,No,no
+1254,Female,18-24,yes,No,Yes,no
+1255,Male,45-54,no,No,No,no
+1256,Male,18-24,yes,No,Yes,no
+1257,Male,65 and over,yes,No,No,yes
+1258,Male,35-44,no,Yes,No,no
+1259,Male,18-24,yes,No,Yes,no
+1260,Male,45-54,no,Yes,No,no
+1261,Female,55-64,yes,Yes,No,yes
+1262,Female,18-24,yes,No,No,yes
+1263,Male,45-54,yes,Yes,Yes,no
+1264,Female,45-54,yes,Yes,No,yes
+1265,Male,55-64,yes,Yes,No,yes
+1266,Male,25-34,yes,No,Yes,yes
+1267,Female,18-24,yes,No,No,no
+1268,Female,35-44,yes,No,No,yes
+1269,Male,65 and over,yes,No,Yes,no
+1270,Female,45-54,yes,No,Yes,yes
+1271,Male,18-24,no,Yes,No,yes
+1272,Female,25-34,no,Yes,No,no
+1273,Male,35-44,no,Yes,Yes,no
+1274,Male,55-64,yes,Yes,No,yes
+1275,Male,45-54,yes,No,No,yes
+1276,Male,45-54,yes,No,No,no
+1277,Female,25-34,yes,No,No,yes
+1278,Female,18-24,yes,Yes,No,no
+1279,Female,25-34,yes,No,No,no
+1280,Female,55-64,yes,No,No,yes
+1281,Male,55-64,yes,No,No,no
+1282,Female,55-64,yes,No,No,no
+1283,Male,65 and over,yes,Prefer not to say,No,no
+1284,Female,under 18,yes,Yes,No,no
+1285,Male,18-24,no,No,Yes,no
+1286,Female,65 and over,yes,No,No,no
+1287,Female,18-24,yes,No,No,no
+1288,Female,55-64,yes,Yes,Yes,no
+1289,Female,35-44,yes,Yes,Yes,yes
+1290,Male,35-44,yes,Yes,No,no
+1291,Female,35-44,yes,No,No,no
+1292,Female,35-44,yes,No,No,no
+1293,Male,65 and over,no,Yes,No,yes
+1294,Female,65 and over,yes,No,Yes,no
+1295,Male,18-24,yes,Yes,Yes,no
+1296,Female,55-64,yes,No,No,no
+1297,Male,55-64,yes,Yes,Yes,no
+1298,Female,45-54,yes,Yes,No,yes
+1299,Male,35-44,yes,No,No,no
+1300,Male,65 and over,yes,Yes,No,no
+1301,Male,25-34,yes,No,No,no
+1302,Female,35-44,yes,No,Prefer not to say,no
+1303,Male,35-44,no,No,Yes,yes
+1304,Female,55-64,yes,No,Yes,yes
+1305,Female,25-34,yes,No,Prefer not to say,no
+1306,Female,65 and over,yes,Yes,No,no
+1307,Male,35-44,yes,Yes,No,yes
+1308,Female,45-54,yes,Yes,No,yes
+1309,Male,35-44,yes,Yes,No,no
+1310,Male,18-24,no,Yes,No,no
+1311,Female,55-64,yes,No,Yes,no
+1312,Male,25-34,yes,No,Yes,no
+1313,Female,65 and over,yes,Yes,No,yes
+1314,Male,35-44,yes,No,Yes,no
+1315,Male,65 and over,yes,No,No,no
+1316,Female,65 and over,yes,No,Yes,yes
+1317,Female,65 and over,no,Yes,No,no
+1318,Male,35-44,no,Yes,No,no
+1319,Female,25-34,yes,Yes,Yes,no
+1320,Female,35-44,yes,No,Yes,yes
+1321,Male,55-64,yes,Yes,Yes,yes
+1322,Female,18-24,yes,No,No,no
+1323,Male,65 and over,yes,Yes,Yes,yes
+1324,Female,25-34,yes,No,No,no
+1325,Male,55-64,yes,No,No,no
+1326,Female,35-44,yes,Yes,No,yes
+1327,Male,55-64,yes,No,No,yes
+1328,Male,65 and over,yes,Yes,No,yes
+1329,Female,25-34,yes,No,Yes,no
+1330,Female,65 and over,no,No,Yes,no
+1331,Female,35-44,yes,No,No,yes
+1332,Male,65 and over,yes,No,No,no
+1333,Male,55-64,yes,No,Yes,no
+1334,Male,45-54,yes,No,No,no
+1335,Male,65 and over,yes,No,Yes,no
+1336,Male,55-64,yes,No,No,yes
+1337,Male,65 and over,yes,Yes,No,no
+1338,Male,under 18,yes,No,Yes,yes
+1339,Male,18-24,yes,Yes,No,no
+1340,Male,55-64,yes,Yes,No,yes
+1341,Male,18-24,yes,Yes,No,yes
+1342,Male,25-34,no,No,Yes,no
+1343,Female,35-44,no,No,No,yes
+1344,Female,35-44,no,Yes,Yes,no
+1345,Female,65 and over,no,No,Yes,yes
+1346,Female,65 and over,yes,No,Yes,no
+1347,Male,25-34,yes,Yes,No,no
+1348,Male,18-24,yes,No,No,yes
+1349,Male,25-34,yes,No,Yes,no
+1350,Female,55-64,yes,No,No,yes
+1351,Male,55-64,yes,No,No,yes
+1352,Female,25-34,yes,No,No,yes
+1353,Female,25-34,yes,Yes,No,no
+1354,Female,35-44,yes,No,No,yes
+1355,Female,45-54,yes,No,Yes,no
+1356,Male,65 and over,yes,No,Yes,yes
+1357,Male,25-34,no,No,Yes,no
+1358,Female,55-64,yes,No,No,no
+1359,Male,45-54,yes,Yes,No,yes
+1360,Female,35-44,no,Yes,Yes,yes
+1361,Male,under 18,yes,Yes,No,yes
+1362,Male,under 18,yes,No,No,no
+1363,Female,65 and over,yes,No,No,no
+1364,Male,55-64,yes,Yes,Prefer not to say,no
+1365,Male,65 and over,no,No,No,no
+1366,Female,55-64,yes,No,Yes,yes
+1367,Male,18-24,yes,No,No,no
+1368,Female,35-44,yes,Yes,No,no
+1369,Female,65 and over,yes,Yes,Yes,no
+1370,Female,18-24,yes,Yes,No,yes
+1371,Female,25-34,yes,No,No,no
+1372,Male,65 and over,yes,No,No,yes
+1373,Male,65 and over,yes,No,No,yes
+1374,Male,25-34,no,No,No,yes
+1375,Male,25-34,yes,No,No,no
+1376,Male,25-34,yes,Yes,Yes,no
+1377,Male,65 and over,yes,No,No,no
+1378,Male,25-34,yes,Yes,Yes,yes
+1379,Male,25-34,yes,No,No,no
+1380,Female,25-34,yes,No,Yes,yes
+1381,Female,25-34,no,No,No,yes
+1382,Male,25-34,yes,No,Yes,no
+1383,Female,65 and over,yes,Yes,No,yes
+1384,Female,65 and over,yes,No,No,no
+1385,Female,25-34,yes,No,Yes,yes
+1386,Female,18-24,yes,No,Yes,no
+1387,Male,25-34,yes,Yes,No,no
+1388,Female,18-24,yes,No,No,no
+1389,Male,25-34,no,Yes,No,no
+1390,Male,25-34,yes,No,No,yes
+1391,Female,25-34,yes,Yes,No,yes
+1392,Male,55-64,yes,Yes,No,no
+1393,Female,35-44,yes,No,Yes,no
+1394,Male,45-54,no,No,No,no
+1395,Female,18-24,yes,Yes,No,no
+1396,Male,18-24,yes,No,Yes,yes
+1397,Female,65 and over,yes,Yes,No,no
+1398,Male,25-34,yes,Yes,Yes,no
+1399,Female,35-44,yes,Yes,No,yes
+1400,Male,65 and over,yes,No,No,no
+1401,Female,18-24,yes,Yes,No,yes
+1402,Male,55-64,no,Yes,No,no
+1403,Male,18-24,yes,No,No,no
+1404,Male,25-34,yes,Yes,No,yes
+1405,Male,25-34,no,No,Yes,no
+1406,Male,35-44,yes,No,Yes,no
+1407,Female,25-34,yes,Yes,No,no
+1408,Male,65 and over,yes,No,Yes,no
+1409,Male,45-54,yes,No,Yes,no
+1410,Male,35-44,yes,No,No,no
+1411,Male,35-44,yes,Yes,Yes,no
+1412,Male,35-44,yes,No,No,no
+1413,Female,65 and over,yes,Yes,Yes,no
+1414,Female,55-64,yes,Yes,No,no
+1415,Male,55-64,yes,No,No,no
+1416,Male,45-54,yes,No,No,yes
+1417,Male,65 and over,yes,No,No,no
+1418,Male,55-64,yes,No,Yes,yes
+1419,Female,under 18,yes,No,Yes,no
+1420,Female,25-34,yes,No,No,yes
+1421,Male,25-34,yes,No,No,yes
+1422,Male,25-34,yes,No,No,yes
+1423,Male,55-64,yes,No,No,no
+1424,Female,55-64,yes,No,No,yes
+1425,Female,35-44,yes,Prefer not to say,No,yes
+1426,Female,65 and over,yes,No,Yes,no
+1427,Male,65 and over,no,Yes,No,yes
+1428,Female,under 18,yes,Yes,Yes,no
+1429,Male,25-34,yes,No,No,yes
+1430,Male,25-34,yes,Yes,Yes,yes
+1431,Female,35-44,no,Yes,No,no
+1432,Female,25-34,yes,No,No,no
+1433,Male,18-24,no,No,No,no
+1434,Female,18-24,yes,No,Yes,no
+1435,Female,55-64,yes,Yes,No,no
+1436,Female,35-44,yes,No,Yes,no
+1437,Male,18-24,yes,Yes,No,yes
+1438,Male,65 and over,yes,Yes,No,no
+1439,Male,65 and over,yes,No,No,yes
+1440,Male,55-64,no,Yes,No,yes
+1441,Male,25-34,yes,Yes,Yes,no
+1442,Female,35-44,yes,Yes,Yes,no
+1443,Male,35-44,no,Yes,Yes,yes
+1444,Female,25-34,no,No,No,yes
+1445,Male,65 and over,yes,Yes,No,yes
+1446,Male,55-64,yes,Yes,No,no
+1447,Female,35-44,yes,Yes,No,no
+1448,Female,25-34,yes,No,Yes,no
+1449,Male,55-64,yes,No,Yes,yes
+1450,Female,25-34,yes,Yes,Yes,no
+1451,Male,45-54,yes,No,Yes,no
+1452,Female,18-24,yes,No,No,no
+1453,Female,45-54,yes,No,No,no
+1454,Male,45-54,yes,No,No,yes
+1455,Male,25-34,yes,No,No,yes
+1456,Female,25-34,yes,No,Yes,no
+1457,Female,18-24,no,Yes,No,yes
+1458,Female,65 and over,yes,Yes,Yes,yes
+1459,Female,55-64,yes,Yes,No,no
+1460,Male,35-44,yes,No,Yes,no
+1461,Female,18-24,yes,Yes,No,no
+1462,Female,18-24,yes,No,No,no
+1463,Female,45-54,no,No,No,yes
+1464,Female,18-24,yes,No,Yes,yes
+1465,Female,55-64,no,Yes,Yes,yes
+1466,Female,35-44,yes,No,No,yes
+1467,Male,35-44,yes,No,No,no
+1468,Male,65 and over,yes,No,No,yes
+1469,Female,25-34,yes,No,No,no
+1470,Female,25-34,yes,No,No,yes
+1471,Male,25-34,yes,Yes,Yes,yes
+1472,Female,55-64,yes,No,No,no
+1473,Male,25-34,no,No,No,no
+1474,Male,18-24,yes,No,No,no
+1475,Female,18-24,no,No,Yes,no
+1476,Female,55-64,yes,No,Yes,no
+1477,Female,35-44,yes,No,No,yes
+1478,Male,45-54,no,Yes,Yes,yes
+1479,Female,55-64,yes,Yes,No,no
+1480,Male,18-24,yes,Yes,No,no
+1481,Male,55-64,yes,No,No,no
+1482,Male,25-34,no,Yes,No,no
+1483,Male,18-24,yes,No,Yes,yes
+1484,Female,55-64,yes,Yes,No,yes
+1485,Female,35-44,yes,Yes,No,yes
+1486,Male,35-44,yes,Yes,No,no
+1487,Male,55-64,yes,No,Yes,yes
+1488,Female,18-24,yes,Yes,No,yes
+1489,Male,35-44,no,No,No,yes
+1490,Male,under 18,yes,Yes,No,no
+1491,Female,18-24,yes,Yes,No,no
+1492,Male,55-64,yes,No,No,no
+1493,Female,45-54,yes,No,Yes,no
+1494,Male,35-44,yes,No,No,yes
+1495,Male,65 and over,no,No,No,yes
+1496,Male,45-54,no,Yes,No,yes
+1497,Female,45-54,yes,Yes,Yes,yes
+1498,Male,25-34,no,Yes,No,no
+1499,Male,25-34,yes,Yes,Yes,yes
+1500,Male,35-44,yes,No,Yes,no
+1501,Male,55-64,yes,No,Yes,no
+1502,Female,18-24,yes,No,No,no
+1503,Male,18-24,yes,Yes,No,no
+1504,Male,55-64,yes,No,Yes,no
+1505,Male,55-64,yes,No,No,no
+1506,Male,55-64,no,Yes,No,yes
+1507,Male,18-24,yes,No,Yes,no
+1508,Female,25-34,yes,No,No,yes
+1509,Male,18-24,yes,Prefer not to say,No,no
+1510,Male,55-64,yes,Yes,Yes,yes
+1511,Male,65 and over,yes,No,Yes,no
+1512,Male,55-64,yes,No,No,yes
+1513,Male,35-44,no,No,No,yes
+1514,Male,45-54,yes,No,No,no
+1515,Male,45-54,yes,Yes,No,yes
+1516,Female,65 and over,no,Yes,Yes,no
+1517,Female,25-34,yes,No,No,yes
+1518,Male,35-44,yes,No,No,no
+1519,Female,18-24,yes,No,No,yes
+1520,Female,18-24,yes,No,Yes,no
+1521,Female,45-54,no,No,No,yes
+1522,Male,25-34,yes,Yes,Yes,no
+1523,Female,18-24,yes,No,No,yes
+1524,Female,25-34,yes,No,Yes,no
+1525,Male,25-34,yes,No,Yes,yes
+1526,Female,65 and over,yes,No,Yes,no
+1527,Female,65 and over,yes,Yes,Yes,no
+1528,Male,35-44,yes,No,No,no
+1529,Male,55-64,no,No,No,no
+1530,Male,under 18,yes,Yes,No,yes
+1531,Female,65 and over,no,No,Yes,no
+1532,Male,55-64,yes,Yes,Yes,no
+1533,Female,55-64,yes,Yes,Yes,yes
+1534,Female,35-44,no,No,Yes,no
+1535,Male,18-24,yes,No,Yes,yes
+1536,Male,35-44,no,No,Yes,yes
+1537,Male,45-54,yes,No,No,no
+1538,Female,18-24,yes,Yes,No,no
+1539,Male,18-24,yes,No,Yes,yes
+1540,Female,45-54,yes,No,No,no
+1541,Female,65 and over,yes,No,Yes,no
+1542,Female,35-44,yes,Yes,Yes,no
+1543,Male,65 and over,yes,Yes,No,yes
+1544,Female,45-54,yes,No,Yes,yes
+1545,Male,65 and over,no,No,Yes,yes
+1546,Female,55-64,yes,No,No,yes
+1547,Male,55-64,no,No,No,no
+1548,Female,25-34,yes,Yes,Yes,no
+1549,Female,45-54,yes,No,No,yes
+1550,Female,55-64,yes,No,Yes,yes
+1551,Male,18-24,yes,No,No,no
+1552,Female,25-34,yes,No,Yes,no
+1553,Female,25-34,yes,No,No,no
+1554,Female,65 and over,yes,No,Yes,yes
+1555,Female,25-34,no,Yes,No,no
+1556,Female,65 and over,no,No,Yes,no
+1557,Female,55-64,yes,No,Prefer not to say,yes
+1558,Male,18-24,yes,No,No,yes
+1559,Female,45-54,yes,No,Yes,yes
+1560,Male,45-54,yes,No,No,yes
+1561,Female,45-54,no,No,No,yes
+1562,Female,25-34,yes,No,Yes,no
+1563,Female,35-44,yes,No,No,no
+1564,Female,35-44,yes,Yes,Yes,no
+1565,Female,35-44,yes,No,No,yes
+1566,Male,45-54,yes,No,No,no
+1567,Male,18-24,yes,No,Yes,no
+1568,Female,45-54,yes,Yes,No,no
+1569,Male,25-34,yes,No,No,no
+1570,Female,45-54,yes,No,Yes,no
+1571,Male,45-54,yes,Yes,No,yes
+1572,Male,65 and over,yes,No,No,no
+1573,Female,25-34,yes,No,Yes,yes
+1574,Male,55-64,yes,Yes,No,no
+1575,Female,25-34,yes,Yes,No,no
+1576,Female,65 and over,yes,Yes,Yes,yes
+1577,Female,35-44,no,Yes,No,yes
+1578,Female,65 and over,yes,Yes,No,yes
+1579,Male,18-24,no,No,Yes,no
+1580,Female,65 and over,yes,Yes,No,yes
+1581,Female,65 and over,yes,No,Yes,no
+1582,Female,65 and over,no,No,No,no
+1583,Female,45-54,yes,Yes,No,no
+1584,Female,25-34,yes,No,Yes,yes
+1585,Female,25-34,yes,Yes,No,yes
+1586,Female,55-64,yes,No,No,no
+1587,Male,65 and over,yes,Yes,Yes,yes
+1588,Male,55-64,yes,Yes,Yes,no
+1589,Female,45-54,yes,No,No,no
+1590,Male,under 18,yes,Yes,No,no
+1591,Female,65 and over,yes,No,No,yes
+1592,Female,55-64,yes,Yes,No,no
+1593,Male,45-54,yes,No,No,no
+1594,Female,25-34,yes,No,No,yes
+1595,Female,35-44,yes,No,No,yes
+1596,Male,35-44,no,No,No,no
+1597,Male,25-34,yes,No,No,yes
+1598,Male,35-44,yes,No,No,no
+1599,Male,18-24,yes,No,No,yes
+1600,Male,45-54,no,No,No,yes
+1601,Female,55-64,yes,No,Yes,yes
+1602,Male,25-34,no,Yes,No,yes
+1603,Male,35-44,yes,No,No,yes
+1604,Female,25-34,yes,No,No,no
+1605,Male,65 and over,yes,No,Yes,yes
+1606,Female,65 and over,no,No,Yes,yes
+1607,Male,25-34,yes,No,No,no
+1608,Male,65 and over,yes,Yes,No,no
+1609,Male,45-54,yes,No,No,no
+1610,Female,45-54,yes,No,No,yes
+1611,Female,18-24,yes,Yes,No,no
+1612,Female,45-54,yes,No,Yes,yes
+1613,Male,55-64,yes,No,Yes,no
+1614,Female,45-54,yes,No,No,no
+1615,Male,25-34,yes,Yes,No,no
+1616,Female,25-34,no,No,Yes,no
+1617,Male,65 and over,no,No,No,no
+1618,Male,35-44,yes,Yes,No,yes
+1619,Female,45-54,no,No,No,yes
+1620,Female,35-44,yes,No,No,no
+1621,Female,25-34,yes,No,No,yes
+1622,Female,45-54,yes,No,No,no
+1623,Male,35-44,yes,No,No,yes
+1624,Female,65 and over,yes,Prefer not to say,No,no
+1625,Male,65 and over,yes,Yes,No,no
+1626,Female,18-24,yes,No,No,no
+1627,Male,18-24,yes,No,Yes,no
+1628,Female,55-64,yes,Yes,No,no
+1629,Male,55-64,yes,No,Yes,yes
+1630,Male,25-34,yes,No,No,no
+1631,Female,55-64,yes,No,Yes,no
+1632,Female,25-34,yes,No,No,no
+1633,Female,25-34,yes,No,Yes,no
+1634,Female,65 and over,yes,No,No,no
+1635,Female,18-24,yes,No,Yes,no
+1636,Female,25-34,yes,No,No,yes
+1637,Male,55-64,yes,No,No,yes
+1638,Male,25-34,no,No,No,no
+1639,Male,55-64,yes,Prefer not to say,No,yes
+1640,Female,65 and over,yes,No,No,yes
+1641,Female,25-34,yes,No,No,yes
+1642,Male,65 and over,no,Yes,Yes,yes
+1643,Female,55-64,yes,No,No,no
+1644,Male,25-34,no,Yes,No,no
+1645,Male,25-34,yes,No,No,yes
+1646,Male,55-64,yes,Yes,No,yes
+1647,Female,45-54,yes,Yes,Yes,yes
+1648,Male,45-54,no,Yes,No,yes
+1649,Female,25-34,yes,No,No,no
+1650,Female,45-54,yes,Yes,Yes,yes
+1651,Male,45-54,yes,Yes,Yes,no
+1652,Male,25-34,yes,Yes,No,yes
+1653,Female,25-34,yes,No,No,no
+1654,Male,18-24,yes,Yes,Yes,no
+1655,Female,65 and over,yes,Yes,No,no
+1656,Male,55-64,yes,No,Yes,no
+1657,Male,55-64,yes,No,Yes,no
+1658,Male,65 and over,no,No,No,yes
+1659,Male,65 and over,yes,No,No,no
+1660,Female,65 and over,yes,No,Yes,yes
+1661,Female,18-24,yes,No,No,no
+1662,Female,65 and over,yes,Yes,No,yes
+1663,Female,55-64,yes,No,No,yes
+1664,Male,45-54,yes,No,No,no
+1665,Female,25-34,yes,No,No,no
+1666,Male,18-24,yes,No,No,no
+1667,Male,55-64,yes,No,No,no
+1668,Female,25-34,yes,Prefer not to say,No,yes
+1669,Female,25-34,yes,No,Yes,no
+1670,Male,25-34,yes,No,No,yes
+1671,Male,25-34,yes,No,Yes,no
+1672,Female,65 and over,yes,No,Yes,no
+1673,Male,18-24,yes,No,Yes,no
+1674,Male,65 and over,yes,No,No,no
+1675,Female,35-44,yes,No,No,yes
+1676,Male,45-54,yes,No,Yes,no
+1677,Female,65 and over,yes,Yes,No,no
+1678,Male,18-24,yes,No,No,no
+1679,Female,25-34,yes,Yes,Yes,yes
+1680,Female,25-34,yes,Yes,Yes,yes
+1681,Female,35-44,yes,No,No,yes
+1682,Female,65 and over,yes,No,Yes,no
+1683,Male,25-34,yes,No,Prefer not to say,no
+1684,Male,55-64,yes,No,No,no
+1685,Male,35-44,yes,Yes,No,yes
+1686,Male,25-34,yes,No,No,yes
+1687,Female,25-34,yes,No,No,no
+1688,Female,18-24,yes,No,Yes,no
+1689,Male,45-54,yes,No,No,no
+1690,Female,35-44,yes,Yes,No,yes
+1691,Female,65 and over,yes,No,Yes,no
+1692,Male,18-24,yes,No,No,yes
+1693,Male,25-34,yes,No,No,no
+1694,Female,45-54,yes,No,No,yes
+1695,Female,35-44,yes,Yes,No,no
+1696,Female,55-64,yes,Yes,No,yes
+1697,Female,45-54,yes,No,No,yes
+1698,Female,18-24,yes,Yes,Yes,no
+1699,Female,65 and over,yes,No,No,yes
+1700,Female,55-64,yes,No,No,no
+1701,Female,45-54,yes,Yes,Yes,yes
+1702,Male,35-44,yes,No,Yes,yes
+1703,Male,18-24,no,No,Yes,no
+1704,Male,18-24,yes,No,No,no
+1705,Female,55-64,yes,Yes,No,yes
+1706,Female,35-44,yes,No,Yes,yes
+1707,Female,35-44,no,No,No,no
+1708,Male,25-34,yes,Yes,No,yes
+1709,Female,under 18,yes,No,Yes,yes
+1710,Male,25-34,yes,Yes,No,no
+1711,Female,45-54,yes,Yes,No,yes
+1712,Male,35-44,yes,No,Prefer not to say,yes
+1713,Female,65 and over,yes,No,Yes,yes
+1714,Male,45-54,yes,Yes,No,no
+1715,Female,25-34,yes,No,No,yes
+1716,Male,18-24,no,No,No,no
+1717,Male,55-64,no,Yes,No,no
+1718,Male,18-24,yes,No,No,yes
+1719,Male,35-44,yes,Yes,No,yes
+1720,Female,35-44,yes,Yes,No,yes
+1721,Female,55-64,yes,Yes,Yes,no
+1722,Female,under 18,yes,Yes,No,no
+1723,Female,25-34,no,No,Yes,no
+1724,Male,55-64,yes,No,No,yes
+1725,Female,65 and over,yes,Yes,No,yes
+1726,Male,45-54,yes,Yes,No,no
+1727,Male,65 and over,yes,No,Yes,yes
+1728,Male,45-54,yes,Yes,No,no
+1729,Female,55-64,yes,No,No,yes
+1730,Male,55-64,yes,No,Yes,no
+1731,Female,65 and over,no,No,Yes,yes
+1732,Male,25-34,yes,Yes,No,yes
+1733,Female,25-34,yes,No,No,no
+1734,Male,35-44,yes,No,No,no
+1735,Female,25-34,no,No,No,yes
+1736,Male,45-54,yes,Yes,No,yes
+1737,Female,65 and over,yes,No,No,no
+1738,Male,65 and over,yes,Yes,No,yes
+1739,Male,35-44,yes,No,Yes,yes
+1740,Female,25-34,no,Yes,No,no
+1741,Female,65 and over,yes,Yes,No,no
+1742,Male,35-44,yes,No,No,yes
+1743,Male,35-44,yes,Yes,Yes,no
+1744,Female,18-24,yes,Yes,No,no
+1745,Female,55-64,no,Yes,No,no
+1746,Male,18-24,yes,No,Yes,no
+1747,Male,65 and over,yes,No,Yes,no
+1748,Male,25-34,yes,No,Yes,yes
+1749,Female,65 and over,yes,No,Yes,no
+1750,Female,55-64,yes,Yes,No,yes
+1751,Female,18-24,yes,No,Yes,no
+1752,Female,18-24,no,Yes,No,no
+1753,Female,45-54,yes,Yes,No,yes
+1754,Male,45-54,yes,Yes,No,yes
+1755,Male,18-24,yes,No,Yes,no
+1756,Female,18-24,yes,Yes,Yes,no
+1757,Female,35-44,yes,Yes,No,no
+1758,Male,35-44,yes,Yes,Yes,no
+1759,Male,55-64,yes,No,Yes,yes
+1760,Female,35-44,yes,Yes,Yes,yes
+1761,Female,55-64,yes,No,Yes,no
+1762,Male,25-34,yes,No,No,no
+1763,Male,65 and over,yes,No,No,no
+1764,Male,25-34,yes,Yes,No,no
+1765,Female,65 and over,yes,No,Yes,no
+1766,Female,55-64,no,Yes,No,no
+1767,Female,55-64,yes,No,Yes,yes
+1768,Female,45-54,no,No,No,yes
+1769,Female,55-64,yes,No,Yes,no
+1770,Male,25-34,yes,Yes,Yes,no
+1771,Female,65 and over,yes,No,No,no
+1772,Female,25-34,yes,No,No,no
+1773,Female,35-44,yes,No,No,no
+1774,Female,45-54,yes,No,Yes,yes
+1775,Female,18-24,yes,No,No,no
+1776,Female,18-24,yes,No,No,no
+1777,Male,55-64,yes,No,Yes,yes
+1778,Male,65 and over,yes,Yes,No,no
+1779,Female,25-34,yes,Yes,No,no
+1780,Male,45-54,yes,No,Prefer not to say,no
+1781,Female,65 and over,no,No,Yes,no
+1782,Female,25-34,yes,No,No,no
+1783,Female,18-24,yes,Yes,Yes,no
+1784,Male,35-44,yes,No,Yes,yes
+1785,Male,35-44,yes,No,No,yes
+1786,Female,25-34,yes,Yes,No,no
+1787,Male,55-64,yes,No,Yes,no
+1788,Female,25-34,yes,No,Yes,no
+1789,Female,35-44,yes,No,No,yes
+1790,Female,55-64,yes,Yes,No,no
+1791,Male,25-34,yes,No,No,no
+1792,Female,18-24,yes,Yes,No,yes
+1793,Male,25-34,yes,Yes,Yes,no
+1794,Female,35-44,yes,No,No,no
+1795,Male,65 and over,yes,Yes,No,no
+1796,Male,65 and over,yes,Yes,Yes,no
+1797,Female,65 and over,no,No,Yes,no
+1798,Female,65 and over,yes,No,No,no
+1799,Male,45-54,no,Yes,No,no
+1800,Male,45-54,yes,Yes,Yes,yes
+1801,Male,45-54,yes,Yes,Yes,no
+1802,Male,45-54,yes,Yes,Yes,no
+1803,Male,55-64,yes,Yes,No,no
+1804,Female,35-44,yes,No,No,no
+1805,Female,45-54,yes,No,No,no
+1806,Male,25-34,yes,Yes,No,yes
+1807,Male,25-34,yes,Yes,Yes,no
+1808,Female,18-24,yes,Yes,Yes,yes
+1809,Female,45-54,yes,No,No,yes
+1810,Female,35-44,yes,No,No,yes
+1811,Female,25-34,yes,Yes,No,yes
+1812,Female,18-24,yes,Yes,Yes,no
+1813,Female,25-34,yes,No,No,yes
+1814,Female,45-54,yes,No,Yes,no
+1815,Female,35-44,yes,No,No,no
+1816,Female,45-54,yes,No,No,yes
+1817,Male,25-34,no,No,No,no
+1818,Female,18-24,yes,No,Yes,yes
+1819,Female,65 and over,yes,No,No,no
+1820,Female,55-64,yes,No,No,no
+1821,Female,25-34,no,Yes,No,yes
+1822,Female,18-24,yes,No,No,yes
+1823,Male,45-54,yes,Yes,No,yes
+1824,Male,65 and over,yes,Yes,No,no
+1825,Male,25-34,yes,No,No,no
+1826,Female,55-64,yes,No,Yes,no
+1827,Female,18-24,yes,No,Yes,no
+1828,Female,55-64,yes,No,No,no
+1829,Female,45-54,yes,No,No,no
+1830,Female,25-34,yes,No,No,no
+1831,Female,18-24,yes,No,Yes,no
+1832,Male,25-34,yes,No,Yes,no
+1833,Female,45-54,yes,Yes,No,yes
+1834,Male,18-24,yes,No,Yes,no
+1835,Male,45-54,yes,Prefer not to say,No,yes
+1836,Female,45-54,yes,No,Yes,no
+1837,Female,55-64,yes,Yes,No,no
+1838,Female,45-54,yes,Yes,No,yes
+1839,Male,35-44,yes,Yes,No,yes
+1840,Female,under 18,yes,No,Yes,yes
+1841,Male,25-34,yes,No,No,yes
+1842,Female,55-64,yes,No,No,yes
+1843,Male,25-34,no,No,No,no
+1844,Male,45-54,yes,Yes,No,yes
+1845,Female,25-34,yes,Yes,Yes,yes
+1846,Male,35-44,no,No,No,no
+1847,Female,55-64,yes,No,No,no
+1848,Male,25-34,yes,No,No,no
+1849,Male,45-54,no,No,Yes,yes
+1850,Male,55-64,yes,No,No,no
+1851,Female,45-54,yes,Yes,Yes,no
+1852,Male,18-24,yes,No,No,yes
+1853,Female,35-44,yes,No,No,no
+1854,Male,35-44,yes,No,Yes,no
+1855,Female,25-34,yes,Yes,No,no
+1856,Male,25-34,yes,Yes,No,no
+1857,Female,65 and over,yes,No,Yes,no
+1858,Male,25-34,yes,No,Yes,no
+1859,Male,45-54,yes,No,No,no
+1860,Male,45-54,yes,No,Yes,no
+1861,Female,25-34,yes,No,Yes,no
+1862,Female,18-24,yes,No,No,no
+1863,Female,25-34,yes,No,No,no
+1864,Male,45-54,yes,No,Yes,yes
+1865,Female,55-64,yes,Yes,Yes,no
+1866,Female,55-64,yes,No,No,no
+1867,Male,18-24,yes,No,Yes,no
+1868,Male,18-24,yes,Yes,No,yes
+1869,Male,55-64,yes,No,No,yes
+1870,Male,35-44,yes,No,No,no
+1871,Female,45-54,yes,No,No,no
+1872,Female,55-64,yes,Yes,Yes,yes
+1873,Female,18-24,yes,No,No,yes
+1874,Female,55-64,yes,Yes,Yes,yes
+1875,Male,55-64,yes,Yes,No,no
+1876,Female,65 and over,yes,Yes,No,no
+1877,Male,55-64,yes,No,No,no
+1878,Female,45-54,yes,Yes,No,no
+1879,Female,65 and over,yes,Yes,Yes,no
+1880,Female,55-64,yes,Yes,Yes,no
+1881,Male,55-64,yes,Yes,Prefer not to say,no
+1882,Male,35-44,no,No,No,yes
+1883,Female,55-64,yes,No,Yes,no
+1884,Female,35-44,no,No,No,yes
+1885,Female,55-64,no,No,No,no
+1886,Male,45-54,yes,No,No,no
+1887,Male,25-34,yes,No,Yes,yes
+1888,Female,65 and over,no,No,No,no
+1889,Female,65 and over,yes,No,No,no
+1890,Male,under 18,no,No,Yes,no
+1891,Female,25-34,no,Yes,No,yes
+1892,Male,25-34,yes,No,Yes,no
+1893,Male,65 and over,yes,Yes,No,yes
+1894,Male,45-54,yes,Yes,No,no
+1895,Female,55-64,yes,Yes,No,no
+1896,Female,65 and over,yes,Yes,Yes,no
+1897,Female,35-44,yes,Yes,No,no
+1898,Female,55-64,yes,No,No,no
+1899,Male,65 and over,no,No,Yes,yes
+1900,Female,65 and over,yes,No,Yes,no
+1901,Male,45-54,yes,No,No,no
+1902,Male,55-64,yes,Yes,No,no
+1903,Female,under 18,yes,Yes,No,no
+1904,Female,18-24,yes,No,No,no
+1905,Male,35-44,no,No,Yes,yes
+1906,Female,18-24,yes,No,Yes,no
+1907,Female,45-54,no,No,No,yes
+1908,Male,25-34,no,Yes,No,no
+1909,Female,65 and over,no,No,No,no
+1910,Male,18-24,yes,No,No,yes
+1911,Male,35-44,yes,No,No,yes
+1912,Male,35-44,yes,Yes,No,yes
+1913,Female,45-54,yes,Yes,No,no
+1914,Female,65 and over,yes,No,Yes,yes
+1915,Male,25-34,yes,Yes,Yes,no
+1916,Male,35-44,no,No,No,yes
+1917,Female,65 and over,yes,Yes,No,no
+1918,Male,35-44,yes,No,No,no
+1919,Male,65 and over,yes,No,No,yes
+1920,Female,65 and over,yes,No,No,yes
+1921,Male,25-34,yes,Yes,No,no
+1922,Female,35-44,yes,Yes,Yes,yes
+1923,Female,25-34,yes,No,Yes,yes
+1924,Male,25-34,yes,Yes,No,yes
+1925,Female,35-44,yes,No,Yes,no
+1926,Female,25-34,yes,No,No,no
+1927,Male,45-54,yes,Yes,No,no
+1928,Female,45-54,yes,Yes,No,no
+1929,Male,65 and over,no,No,Yes,no
+1930,Male,65 and over,yes,Yes,No,no
+1931,Male,45-54,yes,Yes,No,no
+1932,Female,18-24,yes,No,No,no
+1933,Male,25-34,yes,No,No,yes
+1934,Male,18-24,yes,No,No,yes
+1935,Male,45-54,yes,No,No,yes
+1936,Male,25-34,yes,Yes,No,no
+1937,Male,55-64,yes,No,No,yes
+1938,Female,18-24,yes,Yes,No,yes
+1939,Female,25-34,yes,No,Yes,yes
+1940,Male,65 and over,yes,No,Yes,no
+1941,Female,35-44,yes,No,No,no
+1942,Male,35-44,yes,No,Yes,yes
+1943,Male,55-64,yes,Yes,Yes,no
+1944,Male,18-24,yes,No,No,no
+1945,Male,25-34,yes,Yes,Yes,no
+1946,Male,55-64,yes,Yes,Yes,yes
+1947,Male,25-34,yes,Yes,Yes,no
+1948,Male,18-24,yes,No,No,no
+1949,Female,55-64,yes,No,No,no
+1950,Male,25-34,yes,Yes,Yes,yes
+1951,Male,25-34,no,No,Yes,yes
+1952,Female,25-34,yes,Yes,No,yes
+1953,Male,18-24,yes,No,Yes,yes
+1954,Female,35-44,yes,No,No,no
+1955,Male,35-44,yes,No,Yes,yes
+1956,Female,35-44,yes,Yes,Yes,no
+1957,Female,18-24,yes,Yes,Yes,no
+1958,Female,18-24,yes,No,No,yes
+1959,Male,45-54,yes,No,Yes,yes
+1960,Female,65 and over,yes,No,No,no
+1961,Male,55-64,yes,No,No,no
+1962,Female,45-54,yes,No,No,no
+1963,Male,18-24,yes,No,No,no
+1964,Female,25-34,no,No,No,no
+1965,Female,45-54,yes,No,Yes,no
+1966,Male,55-64,yes,No,No,no
+1967,Male,25-34,yes,Yes,Yes,no
+1968,Female,25-34,yes,No,No,no
+1969,Female,25-34,yes,Yes,No,no
+1970,Male,65 and over,yes,No,No,yes
+1971,Female,45-54,yes,No,Yes,no
+1972,Male,65 and over,yes,No,No,yes
+1973,Male,25-34,yes,Yes,No,no
+1974,Male,18-24,yes,Yes,No,yes
+1975,Male,45-54,yes,Yes,No,no
+1976,Female,55-64,no,No,No,no
+1977,Male,65 and over,yes,Yes,Yes,no
+1978,Male,25-34,yes,No,No,yes
+1979,Female,55-64,yes,No,No,no
+1980,Male,25-34,yes,Yes,Yes,yes
+1981,Female,65 and over,yes,No,Yes,yes
+1982,Male,18-24,yes,Yes,No,yes
+1983,Female,35-44,no,Yes,No,no
+1984,Female,35-44,yes,Yes,Yes,no
+1985,Male,65 and over,yes,Yes,No,no
+1986,Female,45-54,yes,No,No,no
+1987,Male,65 and over,yes,Yes,Yes,no
+1988,Male,65 and over,no,No,No,yes
+1989,Female,55-64,yes,No,Yes,no
+1990,Female,25-34,yes,No,No,no
+1991,Female,45-54,yes,Yes,No,yes
+1992,Female,35-44,no,No,Yes,yes
+1993,Female,25-34,yes,Yes,No,yes
+1994,Male,18-24,yes,Yes,Yes,no
+1995,Female,18-24,yes,No,Yes,no
+1996,Male,18-24,yes,Yes,Yes,no
+1997,Female,55-64,yes,No,No,no
+1998,Female,35-44,yes,No,Yes,yes
+1999,Female,45-54,yes,No,Yes,yes
+2000,Female,25-34,yes,No,No,yes
+2001,Male,25-34,yes,Yes,No,no
+2002,Male,35-44,yes,No,Yes,yes
+2003,Male,65 and over,yes,No,No,no
+2004,Female,55-64,yes,No,Yes,no
+2005,Male,45-54,yes,No,No,yes
+2006,Female,25-34,yes,No,No,yes
+2007,Female,35-44,yes,Yes,No,no
+2008,Female,65 and over,yes,No,No,yes
+2009,Male,65 and over,yes,No,No,yes
+2010,Male,25-34,no,Yes,No,yes
+2011,Female,35-44,yes,Yes,No,no
+2012,Male,25-34,yes,No,No,no
+2013,Female,55-64,yes,Yes,Yes,no
+2014,Male,25-34,yes,No,No,yes
+2015,Male,18-24,yes,No,Yes,yes
+2016,Female,55-64,yes,No,No,yes
+2017,Male,65 and over,yes,Yes,Yes,yes
+2018,Female,18-24,yes,No,No,yes
+2019,Male,18-24,yes,No,No,no
+2020,Female,55-64,yes,Yes,No,no
+2021,Male,18-24,yes,No,No,no
+2022,Female,25-34,yes,No,No,yes
+2023,Female,under 18,yes,No,Yes,no
+2024,Female,25-34,yes,No,No,no
+2025,Female,35-44,yes,No,Yes,no
+2026,Male,18-24,yes,No,No,no
+2027,Female,65 and over,yes,No,Yes,no
+2028,Male,45-54,yes,No,No,no
+2029,Female,45-54,yes,No,No,yes
+2030,Female,18-24,no,No,No,yes
+2031,Male,18-24,yes,No,No,no
+2032,Female,25-34,yes,No,No,yes
+2033,Male,35-44,yes,Yes,Yes,no
+2034,Female,45-54,yes,No,Yes,no
+2035,Female,55-64,yes,No,No,yes
+2036,Female,55-64,yes,Yes,No,no
+2037,Female,25-34,yes,No,No,no
+2038,Female,25-34,yes,No,Yes,no
+2039,Female,35-44,no,No,No,no
+2040,Male,25-34,yes,Yes,No,yes
+2041,Female,65 and over,yes,No,Yes,no
+2042,Male,25-34,yes,No,No,no
+2043,Female,35-44,yes,No,Yes,yes
+2044,Male,18-24,yes,No,No,no
+2045,Male,45-54,yes,No,No,no
+2046,Male,25-34,yes,No,No,yes
+2047,Male,45-54,yes,Yes,No,no
+2048,Female,55-64,yes,Yes,No,no
+2049,Female,35-44,yes,Yes,No,no
+2050,Male,55-64,yes,No,Yes,no
+2051,Female,65 and over,yes,No,Yes,no
+2052,Male,55-64,yes,No,No,no
+2053,Male,35-44,no,Yes,No,no
+2054,Male,25-34,yes,No,No,yes
+2055,Female,45-54,yes,No,No,no
+2056,Female,45-54,yes,No,No,yes
+2057,Female,35-44,yes,No,No,yes
+2058,Female,35-44,yes,Yes,No,yes
+2059,Male,18-24,yes,No,No,yes
+2060,Female,25-34,yes,No,Yes,yes
+2061,Female,18-24,no,Yes,Yes,yes
+2062,Male,18-24,yes,No,No,yes
+2063,Male,45-54,yes,No,Yes,yes
+2064,Female,18-24,yes,No,Yes,yes
+2065,Male,under 18,yes,No,No,yes
+2066,Female,18-24,yes,Yes,No,no
+2067,Male,25-34,yes,No,Yes,yes
+2068,Female,18-24,yes,No,Yes,no
+2069,Male,65 and over,yes,Yes,Yes,no
+2070,Male,25-34,yes,Yes,No,no
+2071,Male,55-64,yes,No,No,no
+2072,Male,65 and over,yes,Yes,No,yes
+2073,Male,65 and over,no,No,No,no
+2074,Male,25-34,yes,Yes,No,no
+2075,Male,45-54,yes,Yes,No,no
+2076,Female,25-34,yes,No,No,yes
+2077,Female,25-34,yes,No,Yes,no
+2078,Female,25-34,yes,No,No,yes
+2079,Female,45-54,yes,Yes,No,no
+2080,Female,25-34,yes,Yes,No,no
+2081,Female,under 18,yes,Yes,No,yes
+2082,Male,45-54,yes,No,No,yes
+2083,Female,55-64,yes,Yes,No,yes
+2084,Male,55-64,yes,No,No,yes
+2085,Male,65 and over,yes,Yes,No,yes
+2086,Male,55-64,yes,No,Yes,no
+2087,Female,35-44,yes,Yes,Yes,no
+2088,Female,25-34,yes,Yes,Yes,no
+2089,Male,35-44,no,No,No,no
+2090,Male,18-24,no,No,Yes,yes
+2091,Female,18-24,yes,No,No,yes
+2092,Female,45-54,yes,No,No,no
+2093,Male,65 and over,yes,Yes,No,yes
+2094,Male,25-34,yes,No,Yes,no
+2095,Male,35-44,yes,Yes,No,no
+2096,Female,25-34,yes,No,No,no
+2097,Male,18-24,yes,No,Yes,yes
+2098,Female,25-34,yes,Yes,No,yes
+2099,Male,55-64,yes,Yes,No,no
+2100,Female,25-34,no,No,No,no
+2101,Female,25-34,yes,No,No,yes
+2102,Male,35-44,yes,Yes,No,no
+2103,Male,45-54,yes,Yes,No,no
+2104,Male,25-34,yes,No,Yes,no
+2105,Male,55-64,no,No,No,no
+2106,Male,25-34,no,No,No,no
+2107,Female,45-54,yes,No,No,no
+2108,Male,25-34,no,Yes,No,yes
+2109,Male,45-54,no,No,No,no
+2110,Female,45-54,yes,No,No,yes
+2111,Male,25-34,yes,Yes,No,no
+2112,Female,25-34,yes,No,Yes,no
+2113,Male,35-44,yes,No,No,yes
+2114,Female,25-34,yes,Yes,Yes,no
+2115,Male,45-54,no,No,No,no
+2116,Female,25-34,no,No,No,no
+2117,Male,35-44,yes,No,No,yes
+2118,Male,55-64,yes,No,No,no
+2119,Male,18-24,yes,Yes,Yes,yes
+2120,Female,18-24,yes,No,No,yes
+2121,Female,35-44,yes,No,No,no
+2122,Male,35-44,yes,No,No,no
+2123,Female,18-24,yes,No,No,yes
+2124,Male,55-64,yes,No,Yes,no
+2125,Male,25-34,yes,No,Yes,yes
+2126,Male,18-24,yes,No,No,yes
+2127,Male,55-64,yes,Yes,Yes,no
+2128,Male,35-44,no,No,No,no
+2129,Female,35-44,yes,No,No,no
+2130,Male,45-54,yes,No,Yes,no
+2131,Male,45-54,yes,No,Yes,no
+2132,Female,25-34,yes,No,No,no
+2133,Male,65 and over,no,Yes,No,no
+2134,Male,55-64,yes,Yes,Yes,no
+2135,Male,65 and over,yes,No,Yes,yes
+2136,Female,55-64,yes,Yes,Prefer not to say,no
+2137,Male,18-24,yes,No,No,yes
+2138,Female,55-64,yes,Yes,Yes,no
+2139,Female,65 and over,no,No,No,yes
+2140,Female,18-24,yes,Yes,Yes,no
+2141,Male,18-24,yes,No,No,yes
+2142,Female,45-54,no,No,No,no
+2143,Female,25-34,yes,No,No,no
+2144,Female,45-54,yes,No,Yes,yes
+2145,Female,45-54,yes,No,Yes,no
+2146,Female,18-24,yes,Yes,Yes,no
+2147,Female,35-44,yes,Yes,Yes,yes
+2148,Female,35-44,yes,No,No,yes
+2149,Male,55-64,yes,No,Yes,no
+2150,Female,35-44,yes,No,Yes,yes
+2151,Female,18-24,no,No,Yes,no
+2152,Female,18-24,yes,No,No,yes
+2153,Female,55-64,yes,Yes,Yes,no
+2154,Male,45-54,yes,No,No,yes
+2155,Male,18-24,yes,No,Yes,no
+2156,Male,18-24,no,No,No,yes
+2157,Male,65 and over,yes,Yes,Yes,yes
+2158,Female,35-44,yes,Yes,Yes,no
+2159,Female,25-34,yes,Yes,No,no
+2160,Male,55-64,yes,Yes,No,no
+2161,Female,45-54,yes,No,No,no
+2162,Female,35-44,yes,No,No,yes
+2163,Male,18-24,no,No,No,no
+2164,Female,65 and over,yes,No,No,yes
+2165,Male,25-34,yes,Yes,Yes,no
+2166,Male,35-44,yes,Yes,No,no
+2167,Male,35-44,yes,No,No,no
+2168,Male,55-64,yes,Yes,No,yes
+2169,Male,65 and over,yes,No,No,yes
+2170,Male,18-24,no,No,Yes,yes
+2171,Male,55-64,yes,Yes,Yes,no
+2172,Male,35-44,yes,Yes,Yes,yes
+2173,Female,25-34,yes,No,Yes,yes
+2174,Female,55-64,yes,No,No,no
+2175,Male,55-64,no,No,No,no
+2176,Female,45-54,yes,Yes,No,no
+2177,Female,65 and over,no,No,No,yes
+2178,Male,35-44,yes,Yes,No,yes
+2179,Female,65 and over,yes,Yes,No,no
+2180,Female,25-34,no,No,No,yes
+2181,Male,25-34,yes,Yes,Yes,yes
+2182,Male,45-54,no,No,No,yes
+2183,Female,45-54,yes,No,Yes,yes
+2184,Female,65 and over,yes,No,Yes,no
+2185,Female,55-64,yes,Yes,No,yes
+2186,Female,45-54,no,No,No,no
+2187,Male,18-24,no,No,No,yes
+2188,Male,35-44,yes,No,No,yes
+2189,Male,65 and over,yes,No,Yes,yes
+2190,Male,35-44,yes,Yes,No,no
+2191,Female,35-44,yes,No,Yes,no
+2192,Male,25-34,no,No,No,yes
+2193,Female,35-44,yes,No,No,no
+2194,Female,25-34,yes,No,No,no
+2195,Male,55-64,yes,Yes,No,no
+2196,Female,65 and over,yes,No,Yes,no
+2197,Male,18-24,no,Prefer not to say,Yes,yes
+2198,Female,35-44,no,Yes,No,no
+2199,Female,55-64,yes,No,Yes,no
+2200,Male,25-34,yes,No,No,no
+2201,Male,65 and over,yes,Yes,No,yes
+2202,Female,45-54,yes,No,No,no
+2203,Female,45-54,no,No,No,yes
+2204,Male,18-24,yes,No,No,no
+2205,Male,under 18,no,Yes,No,no
+2206,Female,25-34,yes,No,Yes,yes
+2207,Female,35-44,yes,No,Yes,yes
+2208,Male,35-44,yes,Yes,No,yes
+2209,Male,65 and over,yes,No,No,yes
+2210,Male,55-64,yes,Yes,No,no
+2211,Male,25-34,yes,Yes,No,no
+2212,Male,25-34,yes,No,Yes,no
+2213,Male,18-24,yes,No,No,yes
+2214,Male,65 and over,yes,No,Yes,no
+2215,Female,65 and over,yes,No,No,yes
+2216,Male,35-44,yes,No,No,no
+2217,Female,65 and over,yes,No,No,no
+2218,Female,45-54,no,No,Yes,yes
+2219,Male,25-34,yes,No,No,yes
+2220,Male,65 and over,yes,No,Yes,no
+2221,Female,35-44,yes,No,No,yes
+2222,Female,35-44,no,Yes,Yes,no
+2223,Female,65 and over,yes,No,No,yes
+2224,Female,25-34,yes,No,No,yes
+2225,Female,35-44,yes,No,No,yes
+2226,Female,45-54,yes,No,No,no
+2227,Male,25-34,yes,No,Yes,yes
+2228,Male,55-64,yes,Yes,Yes,yes
+2229,Female,18-24,yes,No,No,no
+2230,Male,55-64,yes,No,Yes,yes
+2231,Female,65 and over,yes,Yes,Yes,no
+2232,Male,18-24,yes,Yes,Yes,no
+2233,Female,25-34,yes,No,No,yes
+2234,Female,25-34,yes,No,Yes,yes
+2235,Female,18-24,no,Yes,Yes,no
+2236,Female,45-54,yes,Yes,Yes,yes
+2237,Male,25-34,no,Yes,Yes,no
+2238,Male,65 and over,yes,Prefer not to say,No,no
+2239,Male,65 and over,yes,No,Yes,yes
+2240,Female,55-64,no,No,Yes,no
+2241,Female,45-54,yes,Yes,No,yes
+2242,Male,18-24,yes,No,Yes,no
+2243,Male,55-64,yes,Prefer not to say,No,no
+2244,Female,18-24,yes,Yes,No,no
+2245,Male,65 and over,no,No,No,yes
+2246,Male,35-44,yes,No,No,no
+2247,Male,18-24,yes,No,Yes,yes
+2248,Female,35-44,no,No,No,yes
+2249,Female,35-44,yes,No,Yes,no
+2250,Female,25-34,no,No,Yes,yes
+2251,Male,35-44,yes,Yes,No,yes
+2252,Male,35-44,yes,No,No,no
+2253,Male,65 and over,yes,No,No,yes
+2254,Male,45-54,yes,Yes,No,yes
+2255,Female,65 and over,yes,No,No,yes
+2256,Male,45-54,yes,No,No,no
+2257,Male,25-34,yes,No,Yes,no
+2258,Female,25-34,yes,No,Yes,no
+2259,Male,45-54,no,No,No,no
+2260,Female,35-44,yes,No,No,yes
+2261,Female,45-54,no,No,No,yes
+2262,Male,18-24,yes,Yes,No,no
+2263,Female,18-24,yes,Yes,Prefer not to say,yes
+2264,Female,18-24,no,No,Yes,yes
+2265,Female,55-64,yes,No,No,yes
+2266,Female,35-44,no,No,No,no
+2267,Male,65 and over,no,Yes,No,no
+2268,Male,65 and over,yes,No,No,yes
+2269,Male,25-34,yes,No,No,no
+2270,Female,65 and over,yes,Yes,Yes,no
+2271,Male,65 and over,yes,No,Yes,yes
+2272,Female,45-54,yes,Yes,Yes,no
+2273,Male,35-44,yes,No,No,yes
+2274,Female,45-54,yes,No,No,yes
+2275,Male,45-54,yes,Yes,No,no
+2276,Female,18-24,yes,Yes,No,yes
+2277,Male,35-44,yes,No,Yes,no
+2278,Female,45-54,yes,Yes,No,yes
+2279,Female,55-64,yes,No,No,no
+2280,Male,45-54,no,No,Yes,no
+2281,Male,65 and over,yes,Yes,Yes,yes
+2282,Female,65 and over,yes,Yes,No,no
+2283,Female,25-34,yes,No,No,yes
+2284,Female,under 18,yes,No,No,yes
+2285,Female,55-64,yes,No,No,no
+2286,Male,45-54,yes,Yes,Yes,no
+2287,Female,25-34,yes,Yes,Yes,no
+2288,Female,45-54,yes,No,No,yes
+2289,Female,18-24,no,No,No,no
+2290,Female,25-34,no,Yes,Yes,no
+2291,Male,25-34,yes,No,Yes,yes
+2292,Male,25-34,yes,Yes,Yes,no
+2293,Male,55-64,no,No,Yes,no
+2294,Female,55-64,yes,No,Yes,no
+2295,Male,25-34,yes,Yes,No,no
+2296,Female,25-34,yes,No,Yes,no
+2297,Female,25-34,yes,No,No,yes
+2298,Male,35-44,yes,No,No,no
+2299,Female,45-54,yes,Yes,No,no
+2300,Male,55-64,yes,No,No,yes
+2301,Male,18-24,yes,Yes,Yes,no
+2302,Male,45-54,yes,Yes,No,no
+2303,Male,18-24,yes,No,Yes,no
+2304,Female,35-44,yes,Yes,Yes,no
+2305,Male,65 and over,yes,No,No,no
+2306,Male,55-64,yes,Yes,No,yes
+2307,Male,45-54,yes,No,No,yes
+2308,Female,45-54,yes,Yes,No,no
+2309,Male,25-34,yes,No,Prefer not to say,yes
+2310,Female,55-64,yes,No,Yes,yes
+2311,Female,45-54,yes,No,No,yes
+2312,Female,18-24,yes,No,Yes,yes
+2313,Male,55-64,yes,Yes,No,no
+2314,Female,55-64,yes,Yes,Yes,no
+2315,Male,55-64,yes,No,No,yes
+2316,Male,18-24,yes,No,No,no
+2317,Male,18-24,yes,No,Yes,yes
+2318,Female,45-54,yes,Yes,Yes,no
+2319,Male,55-64,no,No,No,yes
+2320,Female,45-54,yes,Yes,No,yes
+2321,Female,25-34,no,No,No,no
+2322,Female,35-44,yes,No,No,no
+2323,Male,18-24,yes,No,No,no
+2324,Female,55-64,yes,Yes,No,no
+2325,Male,18-24,yes,Yes,No,no
+2326,Male,35-44,yes,No,No,yes
+2327,Female,35-44,no,Yes,No,no
+2328,Female,25-34,yes,No,No,no
+2329,Female,25-34,yes,No,Yes,no
+2330,Male,25-34,yes,No,No,no
+2331,Female,18-24,yes,No,No,yes
+2332,Female,25-34,yes,No,No,yes
+2333,Female,25-34,yes,No,No,no
+2334,Female,65 and over,yes,No,No,yes
+2335,Male,25-34,yes,Yes,No,no
+2336,Male,35-44,no,Yes,No,yes
+2337,Male,35-44,yes,No,No,yes
+2338,Female,18-24,yes,No,No,yes
+2339,Female,25-34,yes,No,No,no
+2340,Female,25-34,yes,Yes,Prefer not to say,yes
+2341,Female,45-54,yes,No,No,no
+2342,Male,65 and over,yes,No,Yes,no
+2343,Male,35-44,yes,Yes,Yes,yes
+2344,Female,18-24,yes,No,Yes,no
+2345,Male,18-24,no,Yes,Yes,yes
+2346,Female,45-54,yes,No,No,no
+2347,Male,65 and over,yes,Prefer not to say,No,yes
+2348,Male,35-44,yes,Prefer not to say,Yes,yes
+2349,Male,35-44,yes,Yes,No,no
+2350,Male,under 18,yes,No,Yes,yes
+2351,Female,45-54,yes,No,No,yes
+2352,Male,65 and over,yes,No,No,no
+2353,Male,45-54,yes,No,No,no
+2354,Female,55-64,yes,No,No,no
+2355,Female,35-44,yes,No,Yes,no
+2356,Female,55-64,yes,No,No,no
+2357,Male,65 and over,yes,No,Yes,no
+2358,Male,65 and over,yes,No,Yes,no
+2359,Male,55-64,no,Yes,Yes,no
+2360,Female,65 and over,yes,No,No,yes
+2361,Male,25-34,yes,No,Yes,yes
+2362,Male,55-64,yes,No,Yes,no
+2363,Male,65 and over,yes,Yes,No,yes
+2364,Male,45-54,no,No,No,no
+2365,Female,45-54,yes,No,No,yes
+2366,Female,45-54,yes,No,No,yes
+2367,Male,18-24,yes,Yes,Yes,no
+2368,Female,18-24,yes,Yes,No,no
+2369,Female,18-24,yes,Yes,No,no
+2370,Male,65 and over,yes,No,No,no
+2371,Female,18-24,yes,No,No,yes
+2372,Male,65 and over,no,No,Yes,yes
+2373,Female,25-34,yes,No,No,no
+2374,Male,55-64,yes,No,No,yes
+2375,Female,25-34,yes,No,Yes,no
+2376,Male,35-44,no,No,No,yes
+2377,Male,18-24,yes,No,No,no
+2378,Female,25-34,no,No,No,no
+2379,Female,25-34,yes,No,No,no
+2380,Female,25-34,yes,No,Yes,yes
+2381,Male,55-64,yes,No,No,no
+2382,Female,45-54,yes,No,No,yes
+2383,Male,35-44,yes,No,No,no
+2384,Female,45-54,yes,No,Yes,no
+2385,Male,45-54,yes,No,No,no
+2386,Male,35-44,yes,No,Yes,yes
+2387,Female,25-34,no,Yes,Yes,yes
+2388,Female,25-34,yes,No,No,yes
+2389,Male,18-24,yes,No,Yes,yes
+2390,Male,18-24,yes,No,No,yes
+2391,Female,45-54,yes,Yes,Yes,yes
+2392,Female,65 and over,yes,No,No,no
+2393,Female,25-34,yes,No,No,no
+2394,Female,45-54,yes,Yes,No,yes
+2395,Male,18-24,yes,No,No,no
+2396,Female,45-54,yes,No,Yes,no
+2397,Female,55-64,yes,No,Yes,yes
+2398,Female,25-34,no,Yes,No,no
+2399,Male,25-34,yes,No,Yes,no
+2400,Female,18-24,yes,No,Yes,no
+2401,Male,65 and over,no,No,Yes,no
+2402,Female,65 and over,yes,Yes,Yes,yes
+2403,Female,35-44,no,No,No,yes
+2404,Male,18-24,yes,Yes,No,no
+2405,Female,25-34,yes,No,No,yes
+2406,Female,65 and over,yes,No,No,yes
+2407,Male,65 and over,yes,No,No,no
+2408,Female,65 and over,yes,No,Yes,no
+2409,Male,18-24,yes,Yes,No,no
+2410,Female,18-24,yes,No,No,yes
+2411,Female,25-34,yes,No,No,no
+2412,Female,under 18,yes,No,No,no
+2413,Female,55-64,yes,No,No,no
+2414,Female,45-54,yes,No,No,yes
+2415,Male,55-64,no,No,Yes,yes
+2416,Male,25-34,yes,No,No,no
+2417,Female,25-34,no,No,No,no
+2418,Male,18-24,yes,No,No,no
+2419,Male,35-44,no,No,No,no
+2420,Male,65 and over,yes,No,No,yes
+2421,Male,18-24,no,No,No,no
+2422,Male,45-54,yes,No,No,yes
+2423,Male,35-44,yes,No,Yes,no
+2424,Male,65 and over,yes,Yes,Yes,no
+2425,Male,45-54,yes,Yes,No,no
+2426,Female,55-64,yes,No,No,no
+2427,Male,45-54,no,No,No,no
+2428,Female,25-34,yes,Yes,No,no
+2429,Male,35-44,yes,Yes,No,yes
+2430,Male,25-34,no,No,No,yes
+2431,Female,35-44,no,Yes,No,no
+2432,Female,25-34,no,No,Yes,yes
+2433,Male,65 and over,no,Yes,No,no
+2434,Female,18-24,yes,Yes,No,no
+2435,Female,45-54,yes,Yes,Yes,yes
+2436,Male,25-34,no,Yes,No,no
+2437,Female,25-34,no,No,Yes,yes
+2438,Female,65 and over,yes,Yes,No,no
+2439,Female,18-24,yes,No,Yes,no
+2440,Male,35-44,yes,No,No,yes
+2441,Male,25-34,yes,No,No,yes
+2442,Female,35-44,yes,No,No,yes
+2443,Female,35-44,yes,Yes,No,yes
+2444,Female,25-34,yes,No,No,no
+2445,Female,35-44,yes,No,Yes,no
+2446,Male,18-24,yes,No,No,no
+2447,Male,25-34,yes,No,No,yes
+2448,Male,25-34,no,No,No,no
+2449,Female,65 and over,yes,Yes,No,yes
+2450,Female,under 18,yes,Prefer not to say,Yes,yes
+2451,Female,45-54,yes,No,No,no
+2452,Male,18-24,yes,No,No,yes
+2453,Female,45-54,yes,No,No,yes
+2454,Female,55-64,yes,No,No,yes
+2455,Female,35-44,yes,No,Yes,yes
+2456,Female,65 and over,yes,No,No,no
+2457,Female,55-64,yes,No,Yes,no
+2458,Male,45-54,yes,No,No,yes
+2459,Female,under 18,yes,Yes,Yes,yes
+2460,Male,45-54,yes,No,No,no
+2461,Male,55-64,yes,No,Yes,yes
+2462,Female,45-54,yes,No,No,yes
+2463,Female,55-64,yes,Yes,Yes,yes
+2464,Male,25-34,yes,No,No,yes
+2465,Female,25-34,yes,Yes,Yes,yes
+2466,Female,25-34,no,Prefer not to say,Yes,no
+2467,Male,65 and over,yes,No,No,yes
+2468,Female,35-44,yes,Yes,No,yes
+2469,Female,25-34,yes,No,Yes,yes
+2470,Female,25-34,yes,Yes,No,no
+2471,Female,65 and over,yes,No,Yes,yes
+2472,Male,65 and over,yes,No,No,no
+2473,Female,35-44,yes,No,No,yes
+2474,Female,45-54,yes,No,Yes,yes
+2475,Female,55-64,yes,Yes,Yes,yes
+2476,Female,55-64,yes,Yes,No,no
+2477,Female,45-54,no,No,No,no
+2478,Female,45-54,no,Yes,Yes,yes
+2479,Female,35-44,yes,Yes,Yes,no
+2480,Male,55-64,yes,No,No,no
+2481,Male,65 and over,yes,Yes,Yes,no
+2482,Female,35-44,yes,No,No,yes
+2483,Female,18-24,no,Yes,No,no
+2484,Female,55-64,yes,No,Yes,yes
+2485,Female,65 and over,yes,No,No,yes
+2486,Female,55-64,no,Yes,No,no
+2487,Male,35-44,yes,No,No,no
+2488,Male,18-24,no,Yes,No,yes
+2489,Male,45-54,yes,No,Yes,yes
+2490,Female,65 and over,yes,No,Yes,yes
+2491,Female,35-44,yes,No,No,no
+2492,Male,under 18,yes,Yes,No,no
+2493,Female,65 and over,yes,No,Yes,yes
+2494,Male,65 and over,yes,Yes,No,yes
+2495,Male,55-64,yes,No,Yes,yes
+2496,Female,65 and over,yes,Yes,No,no
+2497,Female,55-64,yes,Yes,Yes,yes
+2498,Female,65 and over,yes,No,Yes,yes
+2499,Female,65 and over,yes,Yes,No,yes
+2500,Male,55-64,yes,No,No,yes

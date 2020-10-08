@@ -1,0 +1,865 @@
+ID,gender,age_group,citizen,vismin,immigrant,responded,voted_2019,past_vote,plan_to_vote,likely_party,Healthcare,Education,Taxes,Climate,Jobs,Housing,Indigenous,Immigration,Racial,Seniors,Childcare,COVID19,Debt,ads,decided,ad_affect
+2,Female,55-64,yes,Yes,No,yes,no,Did not vote,No,Don't plan to vote,Moderately,Slightly,Moderately,Very,Moderately,Not,Not,Moderately,Slightly,Not,Not,Extremely,Moderately,TV,Decided,not at all
+7,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Moderately,Moderately,Very,Very,Moderately,Don't know,Not,Slightly,Moderately,Moderately,Extremely,Signs/Billboards,Decided,not at all
+11,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Moderately,Moderately,Moderately,Extremely,Slightly,Slightly,Slightly,Moderately,Don't know,Moderately,Moderately,Print,Decided,not at all
+14,Female,45-54,yes,Yes,No,yes,yes,Conservative,Yes,Green,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Don't know,Not,Not,Not,Moderately,Very,Moderately,Online,Decided,not at all
+15,Male,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Not,Moderately,Moderately,Moderately,Extremely,Very,Not,Slightly,Don't know,Not,Extremely,Moderately,TV,Decided,not at all
+16,Female,25-34,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Slightly,Extremely,Slightly,Not,Moderately,Moderately,Slightly,Slightly,Not,Not,Slightly,Extremely,Extremely,Online,Decided,not at all
+17,Male,18-24,yes,No,No,yes,yes,Conservative,Yes,Liberal,Moderately,Moderately,Slightly,Moderately,Moderately,Not,Slightly,Moderately,Not,Not,Slightly,Moderately,Moderately,Online,Decided,not at all
+18,Male,18-24,yes,No,No,yes,yes,NDP,Yes,NDP,Extremely,Moderately,Moderately,Slightly,Extremely,Extremely,Not,Moderately,Very,Not,Don't know,Moderately,Moderately,TV,Decided,not at all
+21,Female,45-54,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Not,Moderately,Not,Moderately,Moderately,Moderately,Not,Moderately,Moderately,Not,Moderately,Extremely,Online,Decided,not at all
+26,Female,65 and over,yes,Yes,Yes,yes,yes,Liberal,Yes,Conservative,Slightly,Moderately,Moderately,Moderately,Extremely,Not,Not,Slightly,Moderately,Moderately,Slightly,Moderately,Moderately,TV,Decided,not at all
+31,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,Conservative,Extremely,Very,Slightly,Moderately,Slightly,Moderately,Slightly,Extremely,Moderately,Not,Moderately,Moderately,Moderately,TV,Decided,not at all
+33,Female,55-64,yes,No,No,yes,yes,NDP,Yes,Liberal,Extremely,Moderately,Extremely,Slightly,Moderately,Don't know,Not,Not,Slightly,Moderately,Not,Extremely,Very,TV,Decided,not at all
+34,Female,18-24,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Moderately,Not,Very,Don't know,Slightly,Moderately,Moderately,Not,Moderately,Not,Moderately,Moderately,Slightly,None,Decided,not at all
+39,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Moderately,Slightly,Moderately,Moderately,Not,Not,Slightly,Moderately,Moderately,Moderately,Moderately,Online,Decided,not at all
+41,Male,25-34,yes,No,Yes,yes,yes,NDP,Yes,NDP,Moderately,Not,Extremely,Moderately,Moderately,Not,Moderately,Slightly,Not,Moderately,Slightly,Moderately,Moderately,Online,Decided,not at all
+44,Male,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Moderately,Slightly,Don't know,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Moderately,Very,Moderately,Moderately,None,Decided,not at all
+46,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Don't know,Moderately,Moderately,Slightly,Slightly,Not,Moderately,Not,Not,Extremely,Moderately,Online,Decided,not at all
+49,Female,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Extremely,Not,Moderately,Slightly,Moderately,Not,Not,Not,Moderately,Not,Not,Moderately,Moderately,Online,Decided,not at all
+51,Male,65 and over,yes,Yes,Yes,yes,no,Did not vote,No,Don't plan to vote,Slightly,Not,Don't know,Not,Moderately,Moderately,Moderately,Very,Moderately,Moderately,Moderately,Don't know,Moderately,TV,Decided,not at all
+56,Male,25-34,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Slightly,Not,Moderately,Extremely,Very,Not,Moderately,Moderately,Not,Slightly,Slightly,Moderately,Slightly,Online,Decided,not at all
+60,Male,18-24,yes,No,No,yes,yes,NDP,Yes,Conservative,Not,Slightly,Moderately,Very,Moderately,Moderately,Not,Slightly,Moderately,Slightly,Not,Extremely,Very,Signs/Billboards,Decided,not at all
+61,Female,45-54,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Slightly,Not,Don't know,Moderately,Moderately,Extremely,Moderately,Slightly,Moderately,Not,Not,Extremely,Slightly,Radio,Decided,not at all
+65,Female,35-44,yes,Yes,No,yes,no,Did not vote,Yes,Liberal,Extremely,Moderately,Slightly,Very,Slightly,Don't know,Not,Slightly,Not,Don't know,Not,Very,Moderately,None,Decided,not at all
+69,Male,35-44,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Moderately,Very,Very,Slightly,Moderately,Moderately,Extremely,Moderately,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+72,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Don't know,Liberal,Not,Not,Moderately,Moderately,Moderately,Not,Not,Very,Don't know,Slightly,Moderately,Moderately,Very,TV,Decided,not at all
+73,Male,18-24,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Very,Slightly,Moderately,Slightly,Moderately,Not,Slightly,Not,Not,Slightly,Slightly,Moderately,Extremely,Mail,Decided,not at all
+77,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Not,Not,Moderately,Very,Moderately,Moderately,Print,Decided,not at all
+80,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Undecided,Very,Not,Slightly,Slightly,Moderately,Extremely,Moderately,Not,Moderately,Extremely,Not,Extremely,Moderately,Signs/Billboards,Undecided,a little
+81,Female,45-54,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Slightly,Don't know,Moderately,Extremely,Moderately,Moderately,Don't know,Not,Not,Slightly,Slightly,Moderately,Extremely,Online,Decided,not at all
+84,Male,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Slightly,Moderately,Slightly,Moderately,Slightly,Moderately,Not,Not,Don't know,Not,Moderately,Online,Decided,not at all
+86,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Green,Moderately,Moderately,Slightly,Moderately,Moderately,Very,Not,Not,Slightly,Not,Not,Moderately,Moderately,Mail,Decided,not at all
+87,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Moderately,Moderately,Slightly,Slightly,Not,Moderately,Moderately,Not,Extremely,Slightly,TV,Decided,not at all
+88,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Not,Slightly,Extremely,Moderately,Slightly,Slightly,Not,Slightly,Don't know,Moderately,Extremely,Slightly,Online,Decided,not at all
+91,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Undecided,Not,Not,Not,Not,Moderately,Moderately,Moderately,Not,Moderately,Not,Not,Very,Moderately,Print,Undecided,not at all
+94,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Not,Very,Moderately,Very,Extremely,Not,Slightly,Not,Slightly,Moderately,Moderately,Moderately,Online,Decided,not at all
+96,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Undecided,Not,Very,Moderately,Very,Moderately,Extremely,Don't know,Don't know,Moderately,Moderately,Not,Very,Extremely,Online,Undecided,not at all
+98,Female,45-54,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Extremely,Not,Slightly,Slightly,Extremely,Moderately,Not,Slightly,Not,Moderately,Not,Extremely,Moderately,TV,Decided,not at all
+99,Female,35-44,yes,Yes,No,yes,no,Did not vote,No,Don't plan to vote,Not,Slightly,Moderately,Slightly,Moderately,Slightly,Slightly,Very,Moderately,Moderately,Don't know,Extremely,Moderately,Online,Decided,not at all
+100,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Moderately,Extremely,Moderately,Moderately,Moderately,Moderately,Not,Slightly,Not,Don't know,Moderately,Moderately,TV,Decided,not at all
+101,Male,45-54,yes,No,No,yes,yes,NDP,Yes,NDP,Very,Not,Moderately,Slightly,Extremely,Very,Extremely,Moderately,Moderately,Slightly,Moderately,Extremely,Slightly,TV,Decided,not at all
+102,Male,35-44,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Slightly,Moderately,Slightly,Moderately,Moderately,Moderately,Don't know,Moderately,Not,Not,Slightly,Moderately,Slightly,Online,Decided,not at all
+104,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Not,Slightly,Very,Not,Slightly,Slightly,Moderately,Not,Extremely,Extremely,TV,Decided,not at all
+106,Female,55-64,yes,No,No,yes,yes,Green,Yes,Conservative,Extremely,Slightly,Moderately,Extremely,Slightly,Moderately,Slightly,Slightly,Not,Slightly,Slightly,Extremely,Don't know,Mail,Decided,not at all
+110,Female,55-64,yes,Yes,Yes,yes,yes,Conservative,Yes,Liberal,Extremely,Very,Moderately,Don't know,Moderately,Very,Don't know,Moderately,Slightly,Moderately,Not,Extremely,Extremely,Mail,Decided,not at all
+113,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Extremely,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Moderately,Slightly,Extremely,Moderately,Slightly,Mail,Decided,not at all
+116,Female,18-24,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Not,Don't know,Extremely,Slightly,Moderately,Extremely,Very,Not,Don't know,Not,Not,Moderately,Extremely,Signs/Billboards,Decided,not at all
+120,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Slightly,Moderately,Moderately,Not,Not,Moderately,Not,Moderately,Extremely,Very,Slightly,Print,Decided,a lot
+124,Female,35-44,yes,Yes,No,yes,no,Did not vote,Yes,NDP,Extremely,Slightly,Very,Moderately,Extremely,Slightly,Slightly,Not,Not,Moderately,Not,Slightly,Slightly,None,Decided,not at all
+126,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Conservative,Don't know,Moderately,Moderately,Moderately,Moderately,Very,Moderately,Not,Not,Slightly,Moderately,Slightly,Slightly,Online,Decided,not at all
+129,Female,35-44,yes,No,No,yes,no,Did not vote,Yes,Liberal,Extremely,Not,Moderately,Don't know,Very,Slightly,Moderately,Not,Moderately,Slightly,Moderately,Moderately,Slightly,Radio,Decided,not at all
+132,Female,18-24,yes,No,No,yes,yes,Conservative,Yes,NDP,Slightly,Don't know,Moderately,Not,Moderately,Extremely,Don't know,Slightly,Very,Moderately,Not,Very,Slightly,TV,Decided,not at all
+135,Male,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Slightly,Moderately,Moderately,Moderately,Extremely,Not,Not,Not,Moderately,Moderately,Slightly,Slightly,None,Decided,not at all
+137,Female,55-64,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Don't know,Slightly,Slightly,Not,Very,Moderately,Moderately,Moderately,Online,Decided,not at all
+139,Male,55-64,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Not,Moderately,Moderately,Extremely,Moderately,Moderately,Not,Not,Slightly,Not,Extremely,Extremely,Very,Online,Decided,not at all
+151,Male,18-24,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Extremely,Moderately,Very,Moderately,Moderately,Extremely,Moderately,Not,Very,Slightly,Slightly,Extremely,Moderately,Online,Decided,not at all
+156,Male,45-54,yes,No,No,yes,yes,Conservative,Yes,Conservative,Not,Not,Very,Very,Slightly,Extremely,Very,Moderately,Not,Not,Very,Extremely,Extremely,TV,Decided,not at all
+158,Female,35-44,yes,No,No,yes,yes,Green,Yes,Liberal,Slightly,Moderately,Slightly,Extremely,Extremely,Slightly,Not,Not,Not,Moderately,Extremely,Moderately,Extremely,Print,Decided,not at all
+159,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Very,Moderately,Moderately,Not,Very,Moderately,Slightly,Very,Moderately,Moderately,Signs/Billboards,Decided,not at all
+161,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,NDP,Extremely,Not,Extremely,Moderately,Moderately,Don't know,Slightly,Moderately,Very,Not,Not,Moderately,Moderately,None,Decided,not at all
+162,Female,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Moderately,Moderately,Moderately,Moderately,Moderately,Very,Not,Moderately,Not,Not,Not,Moderately,Moderately,Online,Decided,not at all
+164,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Slightly,Moderately,Moderately,Moderately,Not,Moderately,Not,Slightly,Moderately,Moderately,Moderately,Online,Decided,not at all
+176,Female,65 and over,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Very,Slightly,Moderately,Slightly,Moderately,Moderately,Slightly,Moderately,Not,Extremely,Slightly,Moderately,Slightly,None,Decided,not at all
+177,Female,65 and over,yes,No,No,yes,no,Did not vote,Yes,Liberal,Not,Moderately,Slightly,Not,Moderately,Very,Very,Slightly,Moderately,Slightly,Not,Very,Very,Print,Decided,not at all
+178,Male,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Moderately,Moderately,Moderately,Extremely,Not,Not,Slightly,Not,Slightly,Don't know,Moderately,Moderately,Online,Decided,not at all
+182,Female,25-34,yes,No,Yes,yes,yes,Liberal,Don't know,Liberal,Slightly,Very,Moderately,Moderately,Moderately,Not,Moderately,Not,Not,Slightly,Moderately,Moderately,Very,Online,Decided,not at all
+185,Male,25-34,yes,No,No,yes,yes,Green,Yes,Undecided,Moderately,Not,Moderately,Moderately,Moderately,Slightly,Moderately,Don't know,Not,Moderately,Not,Slightly,Moderately,Mail,Undecided,not at all
+188,Male,55-64,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Extremely,Slightly,Very,Moderately,Moderately,Not,Slightly,Moderately,Moderately,Moderately,Slightly,Moderately,Not,Signs/Billboards,Decided,not at all
+189,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Moderately,Extremely,Moderately,Moderately,Don't know,Not,Extremely,Not,Moderately,Moderately,Moderately,Online,Decided,not at all
+194,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Extremely,Moderately,Don't know,Very,Moderately,Moderately,Moderately,Not,Don't know,Not,Moderately,Moderately,Slightly,Online,Decided,not at all
+196,Female,18-24,yes,Yes,No,yes,yes,Liberal,Yes,Green,Not,Moderately,Slightly,Moderately,Slightly,Slightly,Slightly,Not,Slightly,Moderately,Not,Moderately,Moderately,Online,Decided,somewhat
+205,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Moderately,Moderately,Moderately,Extremely,Slightly,Not,Not,Moderately,Moderately,Moderately,Slightly,TV,Decided,not at all
+208,Female,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Moderately,Not,Slightly,Extremely,Moderately,Extremely,Not,Moderately,Moderately,Not,Not,Very,Slightly,Mail,Decided,not at all
+210,Female,45-54,yes,Yes,No,yes,yes,Other/Prefer not to answer,Yes,Liberal,Not,Extremely,Moderately,Moderately,Moderately,Slightly,Slightly,Very,Slightly,Moderately,Moderately,Very,Moderately,Online,Decided,a little
+213,Male,25-34,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Not,Slightly,Slightly,Don't know,Moderately,Very,Not,Not,Very,Not,Extremely,Extremely,Extremely,Online,Decided,not at all
+219,Female,25-34,yes,Yes,Yes,yes,no,Did not vote,Yes,Conservative,Slightly,Not,Moderately,Not,Moderately,Moderately,Not,Not,Moderately,Not,Moderately,Moderately,Extremely,Online,Decided,a lot
+220,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Undecided,Very,Moderately,Very,Moderately,Extremely,Moderately,Extremely,Slightly,Not,Moderately,Not,Extremely,Slightly,Online,Undecided,not at all
+223,Male,65 and over,yes,No,No,yes,no,Did not vote,Yes,Liberal,Very,Slightly,Not,Slightly,Moderately,Slightly,Not,Moderately,Not,Slightly,Moderately,Moderately,Extremely,Online,Decided,not at all
+224,Female,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Don't know,Very,Moderately,Very,Don't know,Not,Moderately,Moderately,Slightly,Moderately,Moderately,Print,Decided,not at all
+228,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Very,Not,Moderately,Extremely,Moderately,Moderately,Very,Not,Very,Not,Extremely,Moderately,Moderately,Print,Decided,not at all
+229,Male,25-34,yes,No,No,yes,yes,Conservative,Yes,NDP,Not,Moderately,Slightly,Slightly,Moderately,Moderately,Not,Not,Very,Not,Not,Very,Moderately,Online,Decided,not at all
+230,Female,45-54,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Don't know,Not,Not,Not,Moderately,Moderately,Not,Moderately,Don't know,Extremely,Moderately,Moderately,Moderately,TV,Decided,not at all
+231,Female,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Green,Not,Not,Extremely,Moderately,Moderately,Moderately,Moderately,Extremely,Moderately,Not,Slightly,Moderately,Slightly,None,Decided,not at all
+233,Female,35-44,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Slightly,Moderately,Extremely,Moderately,Moderately,Moderately,Very,Don't know,Very,Not,Moderately,Very,Signs/Billboards,Decided,not at all
+235,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Very,Moderately,Extremely,Slightly,Not,Moderately,Slightly,Moderately,Moderately,Moderately,Online,Decided,not at all
+237,Male,25-34,yes,Yes,Yes,yes,yes,Conservative,Yes,Liberal,Slightly,Slightly,Slightly,Moderately,Moderately,Not,Not,Moderately,Don't know,Not,Extremely,Moderately,Moderately,None,Decided,not at all
+239,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Slightly,Not,Don't know,Very,Moderately,Don't know,Slightly,Moderately,Slightly,Moderately,Not,Moderately,Slightly,Mail,Decided,not at all
+243,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Don't know,Moderately,Moderately,Moderately,Not,Moderately,Not,Not,Not,Don't know,Moderately,Very,Online,Decided,not at all
+244,Female,18-24,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Moderately,Not,Slightly,Moderately,Moderately,Moderately,Not,Slightly,Not,Moderately,Slightly,Moderately,Slightly,Mail,Decided,somewhat
+245,Female,35-44,yes,No,No,yes,yes,NDP,Yes,NDP,Extremely,Moderately,Moderately,Very,Not,Moderately,Not,Moderately,Slightly,Slightly,Not,Moderately,Moderately,Signs/Billboards,Decided,not at all
+252,Female,25-34,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Very,Very,Very,Moderately,Very,Not,Moderately,Not,Not,Moderately,Not,Moderately,Signs/Billboards,Decided,not at all
+256,Male,65 and over,yes,No,No,yes,yes,NDP,Yes,NDP,Slightly,Not,Extremely,Moderately,Moderately,Not,Slightly,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Mail,Decided,not at all
+257,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Conservative,Moderately,Slightly,Moderately,Very,Moderately,Not,Not,Not,Not,Not,Moderately,Very,Extremely,Online,Decided,not at all
+258,Male,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Moderately,Moderately,Not,Not,Slightly,Don't know,Not,Don't know,Not,Not,Not,Moderately,Moderately,Mail,Decided,not at all
+263,Male,18-24,yes,No,Yes,yes,yes,Other/Prefer not to answer,Yes,Conservative,Not,Extremely,Moderately,Very,Very,Slightly,Moderately,Moderately,Not,Moderately,Moderately,Extremely,Slightly,Online,Decided,not at all
+265,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Don't know,Very,Very,Moderately,Extremely,Slightly,Very,Don't know,Not,Very,Extremely,Very,TV,Decided,a little
+268,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Not,Not,Slightly,Don't know,Moderately,Don't know,Not,Slightly,Not,Not,Not,Moderately,Very,Online,Decided,not at all
+269,Male,65 and over,yes,No,No,yes,yes,Other/Prefer not to answer,Yes,Liberal,Moderately,Not,Moderately,Not,Moderately,Very,Extremely,Moderately,Not,Moderately,Slightly,Extremely,Very,Radio,Decided,not at all
+271,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Moderately,Moderately,Very,Moderately,Don't know,Moderately,Not,Not,Moderately,Moderately,Extremely,Moderately,TV,Decided,not at all
+272,Male,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Green,Not,Not,Moderately,Slightly,Moderately,Moderately,Not,Don't know,Not,Not,Not,Moderately,Not,Online,Decided,not at all
+279,Male,25-34,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Very,Not,Very,Not,Moderately,Moderately,Not,Moderately,Moderately,Not,Don't know,Very,Extremely,TV,Decided,a little
+281,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Don't know,Liberal,Extremely,Moderately,Moderately,Slightly,Moderately,Very,Extremely,Slightly,Don't know,Moderately,Very,Extremely,Extremely,Online,Decided,a little
+283,Male,65 and over,yes,Yes,Yes,yes,no,Did not vote,Yes,Green,Very,Slightly,Moderately,Not,Moderately,Moderately,Not,Moderately,Not,Moderately,Slightly,Extremely,Not,None,Decided,not at all
+287,Female,25-34,yes,Yes,Yes,yes,yes,NDP,Yes,Green,Moderately,Slightly,Very,Very,Moderately,Moderately,Not,Not,Very,Not,Moderately,Moderately,Slightly,TV,Decided,not at all
+293,Female,18-24,yes,No,No,yes,yes,Conservative,Yes,Conservative,Not,Not,Very,Not,Extremely,Very,Slightly,Not,Not,Not,Not,Not,Moderately,TV,Decided,a little
+294,Female,18-24,yes,No,Yes,yes,yes,Conservative,Yes,Conservative,Slightly,Not,Don't know,Slightly,Moderately,Very,Slightly,Not,Very,Slightly,Moderately,Moderately,Slightly,Mail,Decided,not at all
+295,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Very,Moderately,Extremely,Moderately,Moderately,Moderately,Not,Moderately,Not,Extremely,Slightly,None,Decided,not at all
+300,Female,25-34,yes,Yes,No,yes,yes,Green,Yes,NDP,Slightly,Not,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Moderately,Don't know,Not,Extremely,Slightly,Signs/Billboards,Decided,not at all
+301,Male,18-24,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Slightly,Very,Moderately,Extremely,Moderately,Moderately,Not,Slightly,Moderately,Extremely,Slightly,Signs/Billboards,Decided,not at all
+302,Male,45-54,yes,No,No,yes,yes,Green,Yes,NDP,Not,Slightly,Slightly,Slightly,Moderately,Extremely,Moderately,Not,Slightly,Moderately,Very,Slightly,Very,TV,Decided,not at all
+303,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Not,Slightly,Very,Not,Very,Not,Moderately,Extremely,Not,Moderately,Moderately,Moderately,Online,Decided,not at all
+308,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Extremely,Not,Very,Not,Moderately,Moderately,Not,Moderately,Extremely,Moderately,Moderately,Moderately,Extremely,Online,Decided,not at all
+317,Male,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Extremely,Moderately,Don't know,Not,Moderately,Very,Moderately,Slightly,Moderately,Slightly,Moderately,Moderately,Slightly,Signs/Billboards,Decided,not at all
+320,Male,18-24,yes,Yes,No,yes,no,Did not vote,No,Don't plan to vote,Very,Very,Very,Moderately,Not,Moderately,Not,Moderately,Moderately,Not,Very,Extremely,Very,Online,Decided,not at all
+322,Female,35-44,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Moderately,Moderately,Moderately,Very,Slightly,Slightly,Not,Not,Moderately,Moderately,Not,Very,Slightly,None,Decided,not at all
+326,Male,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Don't know,Slightly,Moderately,Extremely,Slightly,Moderately,Not,Moderately,Slightly,Not,Moderately,Signs/Billboards,Decided,somewhat
+329,Female,18-24,yes,Yes,Yes,yes,yes,NDP,Yes,Conservative,Slightly,Not,Don't know,Very,Extremely,Not,Not,Moderately,Moderately,Slightly,Not,Extremely,Moderately,Signs/Billboards,Decided,somewhat
+332,Male,55-64,yes,Prefer not to say,No,yes,yes,Liberal,Yes,NDP,Slightly,Don't know,Moderately,Very,Moderately,Extremely,Not,Not,Slightly,Extremely,Moderately,Extremely,Moderately,Online,Decided,not at all
+342,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Conservative,Not,Not,Very,Moderately,Moderately,Moderately,Extremely,Not,Moderately,Don't know,Slightly,Very,Moderately,Signs/Billboards,Decided,not at all
+343,Male,18-24,yes,No,No,yes,yes,Conservative,Yes,Conservative,Slightly,Moderately,Extremely,Very,Slightly,Moderately,Extremely,Moderately,Moderately,Slightly,Moderately,Not,Moderately,TV,Decided,not at all
+345,Male,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Don't know,Very,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Not,Moderately,Moderately,None,Decided,not at all
+348,Male,55-64,yes,Yes,Yes,yes,yes,Other/Prefer not to answer,Yes,Liberal,Not,Slightly,Not,Slightly,Extremely,Moderately,Not,Slightly,Moderately,Slightly,Extremely,Moderately,Extremely,TV,Decided,not at all
+349,Female,25-34,yes,No,No,yes,yes,NDP,Yes,Undecided,Not,Moderately,Moderately,Very,Moderately,Very,Not,Not,Extremely,Not,Not,Moderately,Moderately,Print,Undecided,not at all
+351,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Conservative,Extremely,Moderately,Moderately,Slightly,Moderately,Extremely,Not,Moderately,Moderately,Moderately,Not,Slightly,Extremely,Online,Decided,not at all
+354,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Green,Slightly,Moderately,Don't know,Moderately,Very,Not,Moderately,Moderately,Moderately,Not,Extremely,Extremely,Not,Mail,Decided,not at all
+356,Female,35-44,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Slightly,Extremely,Moderately,Moderately,Moderately,Moderately,Not,Not,Moderately,Moderately,Not,Extremely,Very,TV,Decided,not at all
+359,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Conservative,Very,Not,Extremely,Very,Slightly,Moderately,Moderately,Slightly,Extremely,Slightly,Slightly,Very,Don't know,None,Decided,not at all
+361,Female,65 and over,yes,Yes,No,yes,no,Did not vote,Yes,Liberal,Moderately,Slightly,Extremely,Very,Moderately,Moderately,Moderately,Not,Not,Moderately,Very,Moderately,Extremely,Mail,Decided,not at all
+366,Female,25-34,yes,No,No,yes,yes,NDP,Yes,Conservative,Slightly,Slightly,Moderately,Moderately,Moderately,Extremely,Not,Not,Not,Moderately,Slightly,Very,Slightly,Mail,Decided,not at all
+367,Female,65 and over,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Slightly,Not,Moderately,Very,Extremely,Not,Not,Slightly,Moderately,Moderately,Slightly,Online,Decided,not at all
+369,Male,45-54,yes,No,No,yes,yes,Other/Prefer not to answer,Yes,Green,Not,Not,Moderately,Don't know,Slightly,Very,Not,Not,Moderately,Slightly,Extremely,Moderately,Moderately,TV,Decided,a little
+372,Male,45-54,yes,No,Yes,yes,yes,NDP,No,Don't plan to vote,Moderately,Slightly,Slightly,Very,Moderately,Moderately,Not,Moderately,Not,Not,Not,Extremely,Extremely,Signs/Billboards,Decided,not at all
+373,Female,35-44,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Not,Slightly,Moderately,Moderately,Moderately,Moderately,Very,Moderately,Don't know,Extremely,Moderately,Very,Very,Signs/Billboards,Decided,not at all
+379,Male,45-54,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Not,Not,Moderately,Slightly,Moderately,Slightly,Not,Moderately,Not,Don't know,Moderately,Moderately,Moderately,None,Decided,not at all
+380,Male,25-34,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Extremely,Don't know,Not,Moderately,Moderately,Not,Slightly,Not,Moderately,Moderately,Moderately,Extremely,Online,Decided,a little
+382,Male,18-24,yes,No,No,yes,yes,Conservative,Yes,NDP,Moderately,Slightly,Very,Very,Moderately,Moderately,Moderately,Not,Not,Very,Not,Very,Moderately,Online,Decided,a little
+393,Male,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Slightly,Not,Moderately,Moderately,Moderately,Moderately,Slightly,Slightly,Don't know,Not,Slightly,Very,Slightly,Online,Decided,not at all
+394,Male,25-34,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Not,Moderately,Slightly,Moderately,Moderately,Very,Not,Not,Not,Not,Moderately,Moderately,Extremely,None,Decided,not at all
+395,Female,65 and over,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Extremely,Not,Slightly,Slightly,Moderately,Moderately,Moderately,Extremely,Online,Decided,not at all
+400,Male,18-24,yes,No,Yes,yes,yes,Conservative,Yes,Conservative,Not,Not,Moderately,Moderately,Very,Not,Not,Not,Not,Not,Not,Very,Moderately,TV,Decided,not at all
+405,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Don't know,Conservative,Slightly,Moderately,Moderately,Slightly,Moderately,Not,Slightly,Not,Moderately,Moderately,Not,Don't know,Moderately,TV,Decided,not at all
+407,Male,25-34,yes,No,Yes,yes,yes,Other/Prefer not to answer,Yes,NDP,Not,Not,Moderately,Moderately,Moderately,Very,Slightly,Not,Slightly,Moderately,Not,Extremely,Moderately,Online,Decided,not at all
+410,Male,55-64,yes,No,No,yes,idk,Did not vote,Yes,Conservative,Slightly,Moderately,Very,Very,Moderately,Moderately,Moderately,Not,Moderately,Slightly,Slightly,Very,Extremely,TV,Decided,a little
+415,Female,18-24,yes,No,No,yes,yes,NDP,Yes,Liberal,Extremely,Moderately,Extremely,Not,Moderately,Moderately,Not,Not,Moderately,Moderately,Not,Not,Slightly,Online,Decided,not at all
+417,Female,18-24,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Extremely,Moderately,Extremely,Moderately,Moderately,Slightly,Not,Not,Not,Not,Slightly,Very,Extremely,Online,Decided,not at all
+421,Female,55-64,yes,No,No,yes,yes,Conservative,Yes,Conservative,Not,Not,Not,Slightly,Moderately,Moderately,Moderately,Moderately,Don't know,Moderately,Not,Extremely,Very,Online,Decided,not at all
+422,Male,55-64,yes,No,No,yes,no,Did not vote,Don't know,Liberal,Extremely,Not,Don't know,Slightly,Moderately,Not,Not,Moderately,Not,Moderately,Don't know,Extremely,Moderately,TV,Decided,a lot
+425,Male,45-54,yes,No,Yes,yes,yes,Liberal,Yes,Green,Not,Extremely,Slightly,Very,Moderately,Not,Not,Not,Moderately,Not,Slightly,Moderately,Slightly,Online,Decided,not at all
+427,Female,25-34,yes,No,No,yes,yes,Conservative,Yes,NDP,Not,Moderately,Extremely,Don't know,Moderately,Moderately,Slightly,Not,Moderately,Very,Not,Moderately,Moderately,TV,Decided,not at all
+429,Male,65 and over,yes,No,Yes,yes,no,Did not vote,Yes,Liberal,Extremely,Slightly,Moderately,Moderately,Moderately,Moderately,Slightly,Not,Slightly,Slightly,Slightly,Moderately,Very,Mail,Decided,not at all
+432,Female,65 and over,yes,Yes,No,yes,yes,Conservative,Yes,Conservative,Not,Slightly,Moderately,Moderately,Moderately,Moderately,Slightly,Not,Slightly,Not,Not,Extremely,Moderately,TV,Decided,not at all
+434,Male,55-64,yes,Yes,Yes,yes,yes,Conservative,Yes,Conservative,Not,Not,Moderately,Moderately,Moderately,Moderately,Don't know,Not,Not,Not,Slightly,Moderately,Extremely,None,Decided,not at all
+435,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Don't know,Slightly,Very,Very,Moderately,Slightly,Moderately,Moderately,Very,Not,Moderately,Moderately,Moderately,TV,Decided,not at all
+439,Male,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Undecided,Not,Moderately,Very,Moderately,Moderately,Very,Not,Not,Slightly,Extremely,Very,Extremely,Moderately,TV,Undecided,not at all
+442,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Slightly,Very,Moderately,Moderately,Very,Not,Slightly,Not,Moderately,Not,Moderately,Very,Online,Decided,not at all
+443,Female,18-24,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Very,Moderately,Moderately,Slightly,Slightly,Not,Moderately,Moderately,Extremely,Very,Very,Online,Decided,not at all
+450,Male,65 and over,yes,Yes,Yes,yes,yes,Conservative,Yes,Liberal,Not,Not,Very,Moderately,Moderately,Extremely,Moderately,Not,Not,Not,Moderately,Moderately,Slightly,TV,Decided,not at all
+454,Female,65 and over,yes,No,Yes,yes,yes,Conservative,Yes,NDP,Slightly,Moderately,Very,Very,Moderately,Not,Don't know,Moderately,Not,Moderately,Slightly,Slightly,Very,Online,Decided,not at all
+463,Female,18-24,yes,Yes,Yes,yes,yes,Conservative,Yes,Conservative,Extremely,Not,Moderately,Slightly,Moderately,Very,Don't know,Don't know,Not,Don't know,Very,Very,Slightly,Online,Decided,not at all
+467,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Slightly,Not,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Not,Extremely,Moderately,Online,Decided,not at all
+469,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Very,Not,Moderately,Moderately,Moderately,Not,Not,Moderately,Slightly,Moderately,Don't know,Extremely,Moderately,Signs/Billboards,Decided,not at all
+470,Male,65 and over,yes,Yes,Yes,yes,no,Did not vote,Yes,Undecided,Moderately,Slightly,Slightly,Extremely,Moderately,Moderately,Don't know,Moderately,Not,Not,Not,Very,Slightly,Online,Undecided,a little
+477,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Moderately,Slightly,Moderately,Slightly,Slightly,Moderately,Not,Slightly,Extremely,Slightly,Slightly,Signs/Billboards,Decided,not at all
+482,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Moderately,Extremely,Moderately,Very,Moderately,Slightly,Moderately,Not,Slightly,Moderately,Not,Extremely,Don't know,TV,Decided,not at all
+485,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Undecided,Very,Moderately,Moderately,Moderately,Moderately,Moderately,Extremely,Moderately,Not,Very,Not,Moderately,Moderately,Online,Undecided,not at all
+492,Male,65 and over,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Slightly,Slightly,Don't know,Slightly,Moderately,Moderately,Not,Moderately,Not,Very,Not,Very,Moderately,Online,Decided,not at all
+494,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Moderately,Moderately,Slightly,Not,Very,Moderately,Not,Not,Moderately,Moderately,Extremely,Moderately,Online,Decided,not at all
+495,Female,35-44,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Slightly,Slightly,Moderately,Extremely,Moderately,Don't know,Don't know,Moderately,Not,Slightly,Very,Moderately,Moderately,TV,Decided,not at all
+496,Female,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Very,Moderately,Moderately,Not,Moderately,Not,Not,Not,Not,Extremely,Slightly,Moderately,Moderately,Signs/Billboards,Decided,not at all
+497,Female,18-24,yes,Yes,Yes,yes,yes,Liberal,Yes,Undecided,Extremely,Moderately,Moderately,Moderately,Moderately,Very,Not,Slightly,Moderately,Not,Moderately,Extremely,Moderately,Online,Undecided,not at all
+499,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Don't know,Moderately,Extremely,Moderately,Slightly,Moderately,Moderately,Slightly,Moderately,Very,Slightly,None,Decided,not at all
+502,Male,18-24,yes,Yes,No,yes,idk,Did not vote,No,Don't plan to vote,Extremely,Not,Not,Moderately,Moderately,Very,Very,Very,Not,Slightly,Not,Extremely,Extremely,TV,Decided,not at all
+503,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Moderately,Extremely,Very,Not,Slightly,Extremely,Slightly,Moderately,Very,Moderately,TV,Decided,a little
+504,Male,35-44,yes,Yes,No,yes,no,Did not vote,Yes,Undecided,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Not,Not,Not,Extremely,Moderately,Signs/Billboards,Undecided,a little
+507,Female,45-54,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Slightly,Not,Very,Moderately,Moderately,Slightly,Moderately,Not,Moderately,Not,Not,Extremely,Moderately,Mail,Decided,not at all
+508,Female,18-24,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Slightly,Slightly,Moderately,Not,Extremely,Not,Moderately,Moderately,Extremely,Moderately,Moderately,Moderately,Extremely,Online,Decided,not at all
+510,Male,45-54,yes,No,No,yes,yes,Conservative,Yes,Conservative,Not,Moderately,Moderately,Moderately,Extremely,Very,Slightly,Not,Very,Moderately,Not,Moderately,Slightly,TV,Decided,not at all
+511,Female,55-64,yes,Yes,No,yes,yes,Green,Yes,Liberal,Slightly,Moderately,Moderately,Moderately,Slightly,Slightly,Moderately,Not,Not,Slightly,Slightly,Extremely,Very,Mail,Decided,not at all
+514,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Moderately,Moderately,Don't know,Moderately,Not,Slightly,Extremely,Not,Moderately,Slightly,Signs/Billboards,Decided,not at all
+524,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Not,Don't know,Slightly,Moderately,Very,Not,Don't know,Slightly,Moderately,Not,Very,Moderately,TV,Decided,not at all
+530,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Not,Extremely,Moderately,Very,Very,Moderately,Moderately,Not,Don't know,Moderately,Slightly,Online,Decided,not at all
+531,Male,35-44,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Not,Very,Extremely,Not,Slightly,Very,Not,Not,Slightly,Don't know,Extremely,Online,Decided,not at all
+534,Female,55-64,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Don't know,Not,Moderately,Very,Moderately,Not,Moderately,Moderately,Not,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+536,Male,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Extremely,Don't know,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Don't know,Not,Extremely,Moderately,Moderately,TV,Decided,not at all
+540,Male,18-24,yes,No,Yes,yes,yes,Green,Yes,Conservative,Not,Slightly,Very,Moderately,Moderately,Very,Not,Not,Very,Not,Not,Moderately,Slightly,Mail,Decided,not at all
+544,Female,35-44,yes,Yes,Yes,yes,yes,NDP,Yes,Conservative,Slightly,Not,Moderately,Very,Moderately,Slightly,Slightly,Not,Slightly,Not,Slightly,Moderately,Moderately,Online,Decided,a little
+548,Female,45-54,yes,No,No,yes,yes,Green,Yes,Liberal,Slightly,Extremely,Very,Not,Moderately,Moderately,Moderately,Not,Moderately,Very,Not,Moderately,Moderately,TV,Decided,not at all
+551,Male,45-54,yes,No,Yes,yes,no,Did not vote,Yes,Liberal,Slightly,Not,Very,Slightly,Moderately,Don't know,Not,Moderately,Very,Slightly,Moderately,Moderately,Extremely,Online,Decided,not at all
+555,Female,65 and over,yes,Prefer not to say,No,yes,yes,Conservative,Yes,NDP,Not,Moderately,Slightly,Not,Moderately,Moderately,Extremely,Not,Slightly,Not,Not,Extremely,Moderately,TV,Decided,not at all
+558,Female,18-24,yes,Yes,No,yes,no,Did not vote,No,Don't plan to vote,Moderately,Not,Very,Extremely,Don't know,Moderately,Not,Moderately,Not,Moderately,Not,Slightly,Moderately,Online,Decided,not at all
+562,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Don't know,Don't know,Not,Moderately,Moderately,Not,Extremely,Moderately,Extremely,Very,Moderately,Moderately,Online,Decided,not at all
+571,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Moderately,Moderately,Slightly,Slightly,Moderately,Not,Moderately,Moderately,Not,Extremely,Moderately,Very,Very,Signs/Billboards,Decided,not at all
+572,Female,25-34,yes,Yes,No,yes,no,Did not vote,Yes,Conservative,Not,Moderately,Not,Moderately,Moderately,Very,Not,Slightly,Slightly,Not,Moderately,Moderately,Slightly,Radio,Decided,not at all
+575,Male,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Extremely,Not,Extremely,Slightly,Moderately,Moderately,Moderately,Not,Extremely,Not,Not,Extremely,Slightly,Mail,Decided,not at all
+576,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Slightly,Slightly,Moderately,Very,Not,Not,Moderately,Very,Not,Moderately,Moderately,Print,Decided,not at all
+577,Female,45-54,yes,No,No,yes,no,Did not vote,Yes,Green,Not,Not,Slightly,Not,Moderately,Not,Not,Moderately,Slightly,Not,Not,Extremely,Moderately,Online,Decided,not at all
+579,Female,25-34,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Not,Slightly,Moderately,Moderately,Moderately,Slightly,Not,Not,Moderately,Not,Not,Extremely,Moderately,Mail,Decided,not at all
+582,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Don't know,Very,Moderately,Slightly,Moderately,Moderately,Moderately,Not,Moderately,Moderately,Extremely,Slightly,Signs/Billboards,Decided,not at all
+586,Male,35-44,yes,Yes,No,yes,yes,Green,Yes,NDP,Slightly,Not,Extremely,Moderately,Moderately,Moderately,Extremely,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Print,Decided,not at all
+588,Female,65 and over,yes,Yes,No,yes,yes,Conservative,Yes,Conservative,Very,Moderately,Slightly,Moderately,Moderately,Extremely,Not,Not,Extremely,Don't know,Moderately,Moderately,Moderately,Print,Decided,not at all
+589,Male,45-54,yes,Prefer not to say,No,yes,yes,NDP,Yes,Liberal,Slightly,Slightly,Slightly,Very,Slightly,Don't know,Slightly,Not,Not,Extremely,Moderately,Slightly,Moderately,TV,Decided,not at all
+593,Male,65 and over,yes,Yes,No,yes,no,Did not vote,Yes,NDP,Don't know,Very,Very,Extremely,Moderately,Moderately,Not,Not,Not,Very,Extremely,Moderately,Slightly,Online,Decided,not at all
+594,Male,65 and over,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Not,Moderately,Very,Moderately,Moderately,Not,Extremely,Extremely,Don't know,Not,Extremely,Moderately,TV,Decided,not at all
+595,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Conservative,Extremely,Slightly,Very,Very,Moderately,Moderately,Very,Moderately,Moderately,Slightly,Don't know,Extremely,Slightly,None,Decided,not at all
+597,Female,18-24,yes,No,No,yes,yes,Conservative,Yes,NDP,Moderately,Moderately,Slightly,Don't know,Very,Moderately,Not,Slightly,Not,Not,Don't know,Not,Moderately,TV,Decided,not at all
+602,Female,35-44,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Not,Not,Slightly,Moderately,Moderately,Moderately,Moderately,Not,Not,Slightly,Moderately,Moderately,Moderately,None,Decided,somewhat
+605,Male,25-34,yes,No,Yes,yes,yes,Green,Yes,Conservative,Not,Moderately,Slightly,Moderately,Moderately,Extremely,Not,Slightly,Not,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+608,Female,25-34,yes,No,No,yes,no,Did not vote,Yes,NDP,Not,Moderately,Moderately,Moderately,Moderately,Don't know,Not,Moderately,Slightly,Not,Moderately,Extremely,Moderately,TV,Decided,not at all
+609,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Very,Not,Not,Moderately,Not,Not,Not,Moderately,Not,Not,Not,Not,Very,TV,Decided,not at all
+613,Female,55-64,yes,No,Yes,yes,yes,Green,Yes,Liberal,Slightly,Moderately,Slightly,Moderately,Extremely,Moderately,Not,Moderately,Moderately,Not,Not,Not,Slightly,TV,Decided,not at all
+614,Male,65 and over,yes,No,No,yes,yes,Green,Yes,Undecided,Slightly,Slightly,Moderately,Moderately,Moderately,Very,Slightly,Slightly,Very,Slightly,Moderately,Moderately,Slightly,Signs/Billboards,Undecided,not at all
+620,Male,45-54,yes,No,No,yes,no,Did not vote,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Very,Slightly,Slightly,Not,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+624,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Very,Slightly,Moderately,Moderately,Moderately,Not,Not,Not,Not,Extremely,Moderately,Extremely,Very,None,Decided,not at all
+629,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Green,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Moderately,Moderately,Moderately,Moderately,TV,Decided,not at all
+630,Male,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Don't know,Not,Very,Moderately,Moderately,Very,Don't know,Moderately,Moderately,Extremely,Moderately,Extremely,Slightly,Online,Decided,not at all
+633,Female,55-64,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Extremely,Slightly,Slightly,Moderately,Not,Moderately,Moderately,Slightly,Moderately,Moderately,Not,Extremely,Online,Decided,not at all
+634,Female,45-54,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Not,Moderately,Moderately,Moderately,Moderately,Don't know,Moderately,Slightly,Slightly,Slightly,Moderately,Extremely,Slightly,Online,Decided,not at all
+635,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Conservative,Moderately,Moderately,Not,Extremely,Slightly,Moderately,Not,Extremely,Not,Not,Not,Slightly,Extremely,Radio,Decided,a little
+636,Female,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Extremely,Slightly,Slightly,Moderately,Moderately,Not,Not,Very,Don't know,Not,Extremely,Very,Online,Decided,not at all
+637,Female,25-34,yes,Yes,No,yes,no,Did not vote,Yes,Liberal,Moderately,Slightly,Very,Not,Not,Moderately,Not,Not,Extremely,Moderately,Not,Extremely,Moderately,Online,Decided,not at all
+638,Female,35-44,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Extremely,Not,Extremely,Very,Moderately,Very,Not,Not,Extremely,Slightly,Not,Moderately,Very,Signs/Billboards,Decided,not at all
+644,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Moderately,Very,Not,Moderately,Moderately,Slightly,Slightly,Slightly,Not,Not,Moderately,Moderately,Online,Decided,not at all
+646,Female,18-24,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Slightly,Not,Very,Moderately,Extremely,Extremely,Not,Moderately,Moderately,Not,Slightly,Extremely,Slightly,Signs/Billboards,Decided,not at all
+649,Male,55-64,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Extremely,Moderately,Not,Moderately,Moderately,Moderately,Slightly,Very,Moderately,Not,Don't know,Extremely,Moderately,TV,Decided,not at all
+653,Female,18-24,yes,Yes,No,yes,yes,NDP,Yes,NDP,Not,Slightly,Don't know,Moderately,Moderately,Extremely,Moderately,Moderately,Not,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+655,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Slightly,Don't know,Very,Not,Not,Slightly,Don't know,Not,Extremely,Slightly,Mail,Decided,not at all
+657,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Slightly,Not,Slightly,Moderately,Moderately,Not,Moderately,Moderately,Not,Very,Slightly,Very,Moderately,TV,Decided,not at all
+660,Male,55-64,yes,Yes,No,yes,yes,Green,Yes,Conservative,Moderately,Moderately,Moderately,Very,Moderately,Moderately,Not,Don't know,Moderately,Not,Moderately,Moderately,Moderately,Signs/Billboards,Decided,not at all
+671,Female,65 and over,yes,Yes,Yes,yes,yes,NDP,Yes,Green,Extremely,Not,Slightly,Very,Moderately,Very,Slightly,Not,Extremely,Slightly,Extremely,Extremely,Slightly,TV,Decided,not at all
+673,Male,65 and over,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Slightly,Not,Not,Very,Extremely,Not,Not,Don't know,Not,Not,Not,Moderately,Extremely,TV,Decided,not at all
+678,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Don't know,Moderately,Moderately,Not,Slightly,Slightly,Moderately,Not,Slightly,Extremely,Slightly,Signs/Billboards,Decided,not at all
+679,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Moderately,Moderately,Not,Moderately,Not,Not,Not,Not,Slightly,Very,Extremely,Slightly,Mail,Decided,a little
+685,Male,45-54,yes,No,No,yes,yes,Green,Yes,Liberal,Extremely,Slightly,Moderately,Moderately,Moderately,Moderately,Don't know,Moderately,Not,Slightly,Not,Moderately,Moderately,Signs/Billboards,Decided,not at all
+688,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Green,Not,Moderately,Don't know,Moderately,Moderately,Slightly,Not,Don't know,Slightly,Not,Not,Moderately,Very,Online,Decided,not at all
+692,Male,35-44,yes,Yes,No,yes,yes,Green,Yes,Conservative,Not,Slightly,Moderately,Extremely,Moderately,Moderately,Slightly,Moderately,Not,Not,Slightly,Extremely,Slightly,Online,Decided,not at all
+693,Female,65 and over,yes,No,No,yes,yes,Liberal,Yes,NDP,Don't know,Slightly,Extremely,Slightly,Moderately,Very,Moderately,Moderately,Not,Slightly,Moderately,Extremely,Moderately,Mail,Decided,not at all
+700,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Not,Not,Moderately,Moderately,Moderately,Slightly,Not,Not,Not,Not,Moderately,Moderately,Extremely,Online,Decided,not at all
+701,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Undecided,Not,Very,Not,Extremely,Moderately,Not,Not,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Signs/Billboards,Undecided,a little
+704,Male,35-44,yes,No,No,yes,no,Did not vote,Don't know,Conservative,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Slightly,Not,Not,Moderately,Online,Decided,a lot
+710,Male,35-44,yes,Yes,Yes,yes,yes,NDP,Yes,Conservative,Extremely,Don't know,Slightly,Slightly,Moderately,Very,Not,Slightly,Very,Slightly,Very,Moderately,Very,Online,Decided,not at all
+715,Male,65 and over,yes,Yes,No,yes,yes,NDP,Yes,Green,Slightly,Moderately,Not,Moderately,Extremely,Moderately,Not,Moderately,Moderately,Don't know,Don't know,Moderately,Slightly,Online,Decided,not at all
+718,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Green,Moderately,Moderately,Not,Slightly,Moderately,Don't know,Not,Moderately,Extremely,Slightly,Moderately,Very,Moderately,Online,Decided,not at all
+721,Female,35-44,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Not,Not,Don't know,Moderately,Slightly,Moderately,Slightly,Not,Not,Not,Slightly,Moderately,Extremely,Print,Decided,not at all
+722,Female,18-24,yes,Yes,No,yes,yes,NDP,Yes,Undecided,Not,Moderately,Don't know,Slightly,Moderately,Slightly,Not,Moderately,Not,Not,Moderately,Very,Extremely,Online,Undecided,not at all
+725,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Slightly,Very,Moderately,Moderately,Moderately,Not,Moderately,Not,Not,Moderately,Very,Not,Online,Decided,not at all
+729,Female,65 and over,yes,Yes,Yes,yes,yes,Green,Yes,NDP,Not,Not,Moderately,Slightly,Moderately,Moderately,Moderately,Not,Moderately,Not,Moderately,Moderately,Slightly,Mail,Decided,not at all
+730,Male,45-54,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Very,Moderately,Slightly,Extremely,Moderately,Not,Moderately,Slightly,Not,Moderately,Slightly,Moderately,Moderately,TV,Decided,not at all
+732,Female,45-54,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Not,Not,Don't know,Very,Moderately,Don't know,Not,Not,Not,Not,Not,Moderately,Slightly,Online,Decided,not at all
+733,Male,65 and over,yes,Prefer not to say,Yes,yes,no,Did not vote,No,Don't plan to vote,Not,Not,Moderately,Extremely,Moderately,Not,Not,Not,Moderately,Extremely,Extremely,Moderately,Slightly,Signs/Billboards,Decided,not at all
+737,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Conservative,Extremely,Slightly,Not,Extremely,Extremely,Moderately,Very,Slightly,Not,Extremely,Moderately,Moderately,Moderately,Mail,Decided,not at all
+740,Male,35-44,yes,No,Yes,yes,yes,Liberal,Yes,Green,Slightly,Moderately,Slightly,Moderately,Moderately,Very,Moderately,Slightly,Moderately,Not,Moderately,Moderately,Moderately,Online,Decided,not at all
+743,Female,18-24,yes,No,No,yes,yes,Conservative,Yes,NDP,Not,Not,Extremely,Extremely,Moderately,Slightly,Not,Not,Not,Slightly,Moderately,Moderately,Moderately,TV,Decided,not at all
+746,Male,25-34,yes,No,No,yes,yes,Other/Prefer not to answer,Yes,Conservative,Extremely,Extremely,Don't know,Slightly,Extremely,Not,Moderately,Not,Not,Moderately,Moderately,Moderately,Moderately,Signs/Billboards,Decided,not at all
+748,Female,35-44,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Slightly,Slightly,Extremely,Moderately,Moderately,Very,Not,Slightly,Moderately,Don't know,Slightly,Slightly,Moderately,Online,Decided,not at all
+751,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Slightly,Moderately,Moderately,Moderately,Very,Not,Don't know,Moderately,Slightly,Don't know,Very,Signs/Billboards,Decided,a lot
+752,Male,45-54,yes,Yes,No,yes,yes,NDP,Yes,Undecided,Slightly,Moderately,Slightly,Very,Extremely,Moderately,Moderately,Not,Moderately,Slightly,Not,Extremely,Moderately,Online,Undecided,not at all
+753,Male,55-64,yes,Yes,No,yes,yes,NDP,Yes,NDP,Extremely,Moderately,Very,Moderately,Extremely,Not,Moderately,Not,Not,Slightly,Not,Extremely,Slightly,Print,Decided,not at all
+754,Male,45-54,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Extremely,Not,Don't know,Slightly,Moderately,Very,Not,Extremely,Slightly,Moderately,Slightly,Very,Extremely,Online,Decided,not at all
+757,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Undecided,Very,Not,Moderately,Moderately,Moderately,Not,Slightly,Don't know,Moderately,Slightly,Slightly,Very,Moderately,Signs/Billboards,Undecided,not at all
+758,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Extremely,Moderately,Moderately,Extremely,Moderately,Moderately,Not,Not,Moderately,Moderately,Extremely,Online,Decided,not at all
+760,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Slightly,Moderately,Very,Moderately,Moderately,Slightly,Don't know,Moderately,Moderately,Moderately,Moderately,Moderately,Signs/Billboards,Decided,not at all
+762,Female,65 and over,yes,No,No,yes,yes,Conservative,Yes,Liberal,Slightly,Very,Not,Not,Moderately,Extremely,Moderately,Very,Not,Not,Moderately,Slightly,Moderately,Mail,Decided,not at all
+763,Male,55-64,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Not,Slightly,Very,Moderately,Moderately,Moderately,Slightly,Not,Not,Not,Moderately,Slightly,Radio,Decided,not at all
+767,Male,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Not,Slightly,Extremely,Don't know,Moderately,Very,Don't know,Slightly,Moderately,Not,Don't know,Don't know,Moderately,TV,Decided,not at all
+769,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Moderately,Moderately,Extremely,Moderately,Not,Moderately,Very,Moderately,Not,Moderately,Slightly,Moderately,Moderately,TV,Decided,not at all
+771,Female,45-54,yes,Yes,Yes,yes,yes,Conservative,Yes,Liberal,Slightly,Slightly,Don't know,Very,Moderately,Not,Not,Not,Moderately,Very,Moderately,Moderately,Extremely,Online,Decided,not at all
+776,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Extremely,Very,Moderately,Moderately,Moderately,Moderately,Not,Not,Slightly,Moderately,Very,Moderately,None,Decided,not at all
+778,Female,35-44,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Extremely,Moderately,Don't know,Extremely,Moderately,Moderately,Slightly,Slightly,Not,Slightly,Not,Moderately,Slightly,None,Decided,a little
+780,Male,65 and over,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Don't know,Moderately,Moderately,Very,Moderately,Slightly,Not,Not,Moderately,Very,Moderately,Moderately,Slightly,Online,Decided,not at all
+783,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Extremely,Moderately,Moderately,Slightly,Not,Not,Moderately,Don't know,Very,Moderately,Online,Decided,not at all
+784,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Not,Very,Slightly,Moderately,Moderately,Very,Moderately,Moderately,Moderately,Very,Moderately,Mail,Decided,not at all
+786,Male,65 and over,yes,Yes,Yes,yes,yes,Liberal,Yes,Undecided,Slightly,Slightly,Extremely,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Not,Not,Extremely,Extremely,Online,Undecided,not at all
+787,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Undecided,Not,Very,Slightly,Not,Moderately,Not,Moderately,Moderately,Moderately,Extremely,Not,Extremely,Moderately,Online,Undecided,not at all
+788,Female,45-54,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Moderately,Very,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Moderately,Very,Moderately,Online,Decided,not at all
+791,Female,18-24,yes,No,No,yes,yes,Conservative,Yes,Undecided,Not,Very,Don't know,Moderately,Extremely,Moderately,Moderately,Slightly,Slightly,Not,Not,Extremely,Slightly,TV,Undecided,not at all
+793,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Undecided,Slightly,Moderately,Slightly,Very,Moderately,Slightly,Extremely,Not,Moderately,Not,Moderately,Very,Moderately,Print,Undecided,somewhat
+794,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Very,Slightly,Moderately,Very,Moderately,Not,Not,Slightly,Not,Extremely,Moderately,Slightly,Online,Decided,not at all
+795,Female,65 and over,yes,No,No,yes,yes,NDP,Yes,Liberal,Don't know,Moderately,Don't know,Moderately,Moderately,Moderately,Moderately,Don't know,Slightly,Not,Slightly,Moderately,Extremely,TV,Decided,not at all
+804,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Green,Moderately,Moderately,Don't know,Extremely,Moderately,Moderately,Moderately,Not,Not,Slightly,Slightly,Moderately,Extremely,None,Decided,not at all
+808,Female,55-64,yes,No,No,yes,yes,Conservative,Yes,NDP,Slightly,Not,Extremely,Slightly,Moderately,Very,Moderately,Not,Very,Slightly,Not,Slightly,Slightly,Online,Decided,not at all
+810,Male,18-24,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Extremely,Slightly,Don't know,Don't know,Extremely,Moderately,Don't know,Slightly,Don't know,Moderately,Moderately,Don't know,Moderately,Signs/Billboards,Decided,somewhat
+818,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Green,Slightly,Slightly,Don't know,Don't know,Very,Very,Moderately,Slightly,Moderately,Not,Slightly,Moderately,Very,Online,Decided,not at all
+820,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Undecided,Extremely,Slightly,Don't know,Not,Slightly,Moderately,Don't know,Moderately,Slightly,Not,Moderately,Moderately,Moderately,Online,Undecided,not at all
+822,Female,25-34,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Very,Not,Very,Not,Moderately,Not,Not,Don't know,Not,Not,Not,Moderately,Slightly,TV,Decided,not at all
+835,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Extremely,Not,Slightly,Not,Moderately,Moderately,Moderately,Not,Moderately,Not,Moderately,Very,Extremely,TV,Decided,not at all
+838,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Very,Very,Moderately,Very,Moderately,Not,Moderately,Moderately,Not,Not,Moderately,Extremely,Moderately,Online,Decided,not at all
+844,Male,25-34,yes,No,Yes,yes,yes,NDP,Yes,NDP,Extremely,Moderately,Moderately,Not,Moderately,Slightly,Not,Moderately,Not,Not,Slightly,Moderately,Moderately,Online,Decided,not at all
+846,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Undecided,Moderately,Slightly,Slightly,Not,Moderately,Slightly,Moderately,Slightly,Moderately,Not,Not,Extremely,Extremely,Online,Undecided,not at all
+848,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Moderately,Very,Moderately,Moderately,Extremely,Not,Slightly,Not,Slightly,Moderately,Moderately,Mail,Decided,not at all
+850,Female,65 and over,yes,No,No,yes,yes,Conservative,Yes,Liberal,Very,Moderately,Slightly,Slightly,Moderately,Moderately,Don't know,Not,Moderately,Slightly,Not,Extremely,Moderately,Online,Decided,a little
+851,Female,35-44,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Slightly,Slightly,Slightly,Moderately,Moderately,Not,Not,Not,Slightly,Slightly,Slightly,Extremely,Don't know,Print,Decided,not at all
+852,Female,18-24,yes,No,No,yes,no,Did not vote,Yes,NDP,Not,Not,Very,Moderately,Extremely,Slightly,Slightly,Moderately,Very,Not,Slightly,Moderately,Very,None,Decided,not at all
+853,Male,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Don't know,Not,Moderately,Very,Moderately,Not,Not,Moderately,Not,Moderately,Very,None,Decided,not at all
+859,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,NDP,Moderately,Not,Moderately,Don't know,Moderately,Moderately,Moderately,Slightly,Moderately,Not,Very,Moderately,Extremely,None,Decided,not at all
+860,Female,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,Green,Extremely,Moderately,Slightly,Moderately,Slightly,Very,Not,Moderately,Don't know,Moderately,Moderately,Moderately,Moderately,Mail,Decided,not at all
+861,Female,25-34,yes,No,Yes,yes,yes,Green,Yes,Liberal,Moderately,Very,Slightly,Don't know,Very,Moderately,Not,Not,Not,Slightly,Moderately,Moderately,Slightly,TV,Decided,not at all
+862,Male,65 and over,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Not,Not,Moderately,Moderately,Not,Moderately,Slightly,Not,Moderately,Slightly,Moderately,Extremely,Moderately,TV,Decided,not at all
+864,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Not,Slightly,Not,Moderately,Moderately,Not,Slightly,Moderately,Very,Moderately,Moderately,Very,Online,Decided,not at all
+866,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Moderately,Don't know,Moderately,Moderately,Moderately,Don't know,Not,Moderately,Slightly,Moderately,Extremely,Moderately,Don't know,TV,Decided,not at all
+868,Female,18-24,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Extremely,Very,Very,Moderately,Very,Not,Slightly,Not,Slightly,Moderately,Moderately,Moderately,Moderately,Signs/Billboards,Decided,not at all
+870,Male,35-44,yes,No,No,yes,yes,NDP,Yes,Conservative,Not,Moderately,Moderately,Not,Moderately,Moderately,Not,Not,Not,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+871,Female,45-54,yes,Yes,Yes,yes,yes,Green,Yes,Liberal,Slightly,Very,Don't know,Not,Moderately,Extremely,Moderately,Not,Not,Slightly,Slightly,Moderately,Moderately,Online,Decided,not at all
+872,Male,18-24,yes,No,No,yes,yes,Conservative,Yes,Conservative,Slightly,Moderately,Don't know,Moderately,Moderately,Moderately,Not,Not,Don't know,Moderately,Not,Not,Moderately,Online,Decided,a great deal
+873,Female,65 and over,yes,Yes,No,yes,yes,Conservative,Yes,NDP,Slightly,Very,Don't know,Very,Moderately,Slightly,Moderately,Not,Very,Not,Moderately,Extremely,Extremely,TV,Decided,not at all
+874,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Very,Moderately,Moderately,Not,Not,Extremely,Moderately,Not,Slightly,Moderately,None,Decided,not at all
+876,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Extremely,Moderately,Extremely,Moderately,Moderately,Moderately,Moderately,Slightly,Slightly,Moderately,Moderately,Moderately,Moderately,Online,Decided,a little
+880,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Not,Don't know,Don't know,Moderately,Extremely,Mail,Decided,not at all
+882,Female,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Not,Very,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Slightly,Moderately,Slightly,Mail,Decided,not at all
+885,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Very,Moderately,Moderately,Not,Not,Not,Slightly,Very,Not,Very,Very,Online,Decided,not at all
+886,Female,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Slightly,Not,Moderately,Extremely,Not,Moderately,Not,Not,Not,Extremely,Slightly,TV,Decided,not at all
+892,Female,35-44,yes,No,Yes,yes,yes,Other/Prefer not to answer,Yes,NDP,Not,Slightly,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Not,Slightly,Not,Very,Not,Mail,Decided,not at all
+893,Male,55-64,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Slightly,Slightly,Moderately,Moderately,Moderately,Extremely,Extremely,Slightly,Moderately,Not,Not,Don't know,Extremely,Signs/Billboards,Decided,not at all
+897,Male,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Undecided,Slightly,Slightly,Moderately,Very,Extremely,Moderately,Not,Moderately,Not,Not,Moderately,Slightly,Moderately,Signs/Billboards,Undecided,not at all
+898,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Don't know,Not,Don't know,Extremely,Extremely,Not,Moderately,Slightly,Moderately,Not,Not,Extremely,Moderately,Online,Decided,not at all
+902,Female,35-44,yes,No,No,yes,yes,Green,Yes,Conservative,Very,Not,Moderately,Not,Extremely,Not,Not,Not,Not,Slightly,Not,Slightly,Slightly,Online,Decided,not at all
+907,Male,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Extremely,Extremely,Don't know,Slightly,Very,Moderately,Not,Not,Moderately,Very,Not,Extremely,Moderately,Mail,Decided,not at all
+909,Female,35-44,yes,No,No,yes,yes,Green,Yes,Liberal,Extremely,Moderately,Moderately,Moderately,Extremely,Slightly,Moderately,Slightly,Slightly,Not,Not,Slightly,Extremely,Radio,Decided,not at all
+910,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Green,Slightly,Moderately,Very,Extremely,Moderately,Moderately,Don't know,Moderately,Slightly,Moderately,Not,Moderately,Moderately,Online,Decided,a great deal
+915,Male,55-64,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Slightly,Don't know,Don't know,Not,Moderately,Slightly,Slightly,Moderately,Slightly,Extremely,Slightly,Moderately,Moderately,TV,Decided,not at all
+917,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Moderately,Slightly,Don't know,Extremely,Moderately,Slightly,Don't know,Slightly,Not,Extremely,Very,Moderately,Online,Decided,not at all
+928,Female,45-54,yes,Yes,Yes,yes,yes,NDP,Yes,Undecided,Not,Not,Extremely,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Not,Not,Moderately,Extremely,None,Undecided,not at all
+932,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Green,Not,Moderately,Slightly,Moderately,Extremely,Don't know,Moderately,Slightly,Not,Moderately,Not,Extremely,Slightly,None,Decided,somewhat
+934,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Undecided,Extremely,Not,Slightly,Moderately,Moderately,Very,Moderately,Not,Very,Moderately,Not,Moderately,Moderately,Online,Undecided,not at all
+938,Male,55-64,yes,Yes,Yes,yes,yes,NDP,Yes,Conservative,Slightly,Not,Slightly,Moderately,Slightly,Moderately,Not,Slightly,Slightly,Not,Very,Very,Moderately,Signs/Billboards,Decided,not at all
+939,Female,35-44,yes,Yes,Yes,yes,yes,NDP,Yes,NDP,Slightly,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Not,Not,Not,Extremely,Very,Online,Decided,not at all
+946,Female,45-54,yes,No,No,yes,no,Did not vote,Yes,NDP,Slightly,Moderately,Not,Extremely,Moderately,Very,Not,Not,Extremely,Not,Moderately,Moderately,Extremely,Signs/Billboards,Decided,not at all
+947,Male,35-44,yes,No,Yes,yes,idk,Did not vote,Yes,Conservative,Very,Not,Slightly,Moderately,Moderately,Extremely,Don't know,Not,Moderately,Slightly,Not,Extremely,Extremely,Online,Decided,not at all
+948,Male,18-24,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Moderately,Not,Very,Moderately,Moderately,Not,Extremely,Not,Slightly,Slightly,Moderately,Moderately,Moderately,Online,Decided,not at all
+949,Male,45-54,yes,No,No,yes,no,Did not vote,Yes,Liberal,Don't know,Not,Slightly,Moderately,Moderately,Slightly,Not,Not,Slightly,Not,Slightly,Extremely,Moderately,TV,Decided,not at all
+950,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Slightly,Moderately,Slightly,Very,Not,Very,Not,Not,Slightly,Don't know,Extremely,Online,Decided,not at all
+951,Male,25-34,yes,Yes,No,yes,yes,Green,Yes,Liberal,Moderately,Moderately,Extremely,Not,Extremely,Moderately,Slightly,Slightly,Not,Extremely,Don't know,Extremely,Moderately,Online,Decided,not at all
+953,Female,18-24,yes,No,No,yes,yes,Green,Yes,Conservative,Extremely,Very,Moderately,Extremely,Extremely,Moderately,Not,Moderately,Not,Slightly,Slightly,Moderately,Don't know,Signs/Billboards,Decided,not at all
+955,Male,18-24,yes,No,Yes,yes,yes,NDP,Yes,NDP,Not,Very,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Not,Not,Not,Extremely,Extremely,TV,Decided,somewhat
+958,Male,25-34,yes,Yes,Yes,yes,yes,NDP,Yes,Green,Not,Not,Slightly,Moderately,Extremely,Moderately,Slightly,Moderately,Slightly,Not,Not,Moderately,Moderately,Mail,Decided,a little
+962,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Not,Not,Don't know,Extremely,Moderately,Moderately,Extremely,Not,Slightly,Extremely,Moderately,Moderately,Slightly,TV,Decided,not at all
+966,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Not,Slightly,Not,Moderately,Moderately,Moderately,Extremely,Not,Slightly,Moderately,Extremely,Very,Online,Decided,not at all
+971,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Not,Moderately,Moderately,Slightly,Not,Don't know,Slightly,Moderately,Moderately,Slightly,Extremely,Online,Decided,not at all
+975,Female,65 and over,yes,Yes,No,yes,no,Did not vote,No,Don't plan to vote,Extremely,Slightly,Not,Extremely,Slightly,Extremely,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Mail,Decided,not at all
+987,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Very,Moderately,Extremely,Slightly,Moderately,Moderately,Moderately,Extremely,Not,Not,Moderately,Extremely,Very,None,Decided,not at all
+992,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Green,Not,Not,Moderately,Not,Moderately,Not,Slightly,Not,Not,Not,Slightly,Extremely,Extremely,Print,Decided,not at all
+993,Male,45-54,yes,No,No,yes,idk,Did not vote,No,Don't plan to vote,Not,Not,Moderately,Moderately,Moderately,Don't know,Moderately,Moderately,Moderately,Slightly,Very,Slightly,Moderately,Online,Decided,not at all
+1003,Female,25-34,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Not,Don't know,Very,Slightly,Not,Not,Extremely,Not,Moderately,Slightly,Moderately,Slightly,Online,Decided,a little
+1004,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Moderately,Not,Very,Moderately,Extremely,Moderately,Not,Moderately,Not,Not,Moderately,Moderately,Slightly,Signs/Billboards,Decided,not at all
+1005,Male,35-44,yes,No,Yes,yes,yes,NDP,Yes,NDP,Not,Not,Extremely,Don't know,Extremely,Don't know,Moderately,Extremely,Not,Don't know,Slightly,Moderately,Slightly,TV,Decided,not at all
+1011,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,NDP,Moderately,Moderately,Moderately,Moderately,Moderately,Very,Extremely,Not,Not,Moderately,Not,Slightly,Extremely,TV,Decided,not at all
+1014,Female,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Don't know,Moderately,Slightly,Extremely,Not,Moderately,Not,Not,Slightly,Moderately,Don't know,Online,Decided,not at all
+1017,Female,35-44,yes,No,Yes,yes,yes,Green,Yes,Conservative,Moderately,Slightly,Not,Not,Moderately,Moderately,Not,Moderately,Moderately,Not,Not,Moderately,Slightly,TV,Decided,not at all
+1018,Female,25-34,yes,No,Yes,yes,no,Did not vote,No,Don't plan to vote,Don't know,Slightly,Very,Moderately,Moderately,Very,Slightly,Not,Not,Not,Slightly,Don't know,Slightly,Print,Decided,not at all
+1021,Female,65 and over,yes,No,No,yes,yes,Liberal,Yes,Conservative,Moderately,Slightly,Slightly,Not,Moderately,Slightly,Not,Not,Slightly,Not,Not,Moderately,Slightly,Signs/Billboards,Decided,not at all
+1022,Male,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Moderately,Don't know,Extremely,Very,Slightly,Very,Not,Extremely,Not,Not,Not,Very,Slightly,Online,Decided,a little
+1023,Male,55-64,yes,No,No,yes,yes,NDP,Yes,Liberal,Extremely,Moderately,Don't know,Not,Extremely,Moderately,Slightly,Moderately,Moderately,Not,Very,Moderately,Very,Online,Decided,not at all
+1024,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Slightly,Moderately,Moderately,Very,Not,Moderately,Not,Slightly,Not,Moderately,Moderately,Online,Decided,not at all
+1033,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Moderately,Extremely,Extremely,Don't know,Not,Not,Not,Not,Not,Not,Extremely,Moderately,TV,Decided,not at all
+1037,Male,45-54,yes,No,No,yes,yes,Conservative,Yes,Undecided,Not,Moderately,Extremely,Very,Moderately,Moderately,Slightly,Not,Not,Not,Moderately,Moderately,Extremely,Online,Undecided,not at all
+1038,Female,25-34,yes,No,No,yes,yes,NDP,Yes,Conservative,Slightly,Slightly,Moderately,Slightly,Moderately,Moderately,Slightly,Not,Slightly,Slightly,Moderately,Slightly,Slightly,Signs/Billboards,Decided,not at all
+1042,Female,25-34,yes,Yes,No,yes,yes,Green,Yes,Conservative,Very,Moderately,Moderately,Not,Extremely,Moderately,Slightly,Not,Moderately,Slightly,Moderately,Moderately,Very,TV,Decided,not at all
+1044,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Not,Moderately,Not,Moderately,Very,Moderately,Not,Moderately,Slightly,Not,Moderately,Moderately,Mail,Decided,not at all
+1048,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Slightly,Moderately,Moderately,Moderately,Slightly,Moderately,Slightly,Not,Slightly,Not,Moderately,Slightly,Mail,Decided,not at all
+1050,Female,18-24,yes,No,Yes,yes,yes,Liberal,Don't know,Liberal,Not,Moderately,Moderately,Not,Moderately,Moderately,Slightly,Not,Moderately,Slightly,Moderately,Very,Moderately,TV,Decided,not at all
+1051,Male,35-44,yes,Yes,Yes,yes,no,Did not vote,Yes,Conservative,Moderately,Moderately,Slightly,Not,Moderately,Not,Not,Moderately,Slightly,Moderately,Extremely,Not,Moderately,Online,Decided,not at all
+1052,Female,25-34,yes,No,No,yes,yes,Conservative,Yes,Liberal,Extremely,Not,Extremely,Very,Moderately,Moderately,Not,Moderately,Moderately,Not,Don't know,Moderately,Moderately,TV,Decided,not at all
+1053,Male,65 and over,yes,No,No,yes,yes,Other/Prefer not to answer,Yes,Conservative,Not,Not,Don't know,Very,Moderately,Slightly,Moderately,Not,Not,Don't know,Slightly,Extremely,Slightly,Mail,Decided,not at all
+1055,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Not,Moderately,Moderately,Moderately,Slightly,Moderately,Don't know,Not,Slightly,Slightly,Extremely,Moderately,TV,Decided,not at all
+1057,Male,25-34,yes,Yes,No,yes,yes,Liberal,No,Don't plan to vote,Not,Not,Very,Very,Extremely,Moderately,Not,Not,Moderately,Don't know,Not,Moderately,Slightly,TV,Decided,not at all
+1060,Female,18-24,yes,Yes,Yes,yes,yes,Green,Yes,Green,Very,Moderately,Very,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Not,Not,Moderately,Moderately,Signs/Billboards,Decided,not at all
+1062,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Not,Extremely,Moderately,Not,Extremely,Moderately,Moderately,Slightly,Very,Very,Extremely,Online,Decided,not at all
+1064,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Very,Not,Moderately,Moderately,Moderately,Not,Not,Slightly,Slightly,Slightly,Not,Moderately,Not,Mail,Decided,not at all
+1065,Male,25-34,yes,No,Yes,yes,yes,Conservative,Yes,NDP,Slightly,Very,Moderately,Slightly,Moderately,Moderately,Not,Slightly,Not,Not,Not,Moderately,Very,Online,Decided,not at all
+1066,Male,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Very,Not,Don't know,Moderately,Moderately,Slightly,Not,Not,Not,Not,Moderately,Moderately,Moderately,Mail,Decided,not at all
+1068,Male,25-34,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Don't know,Not,Moderately,Very,Slightly,Slightly,Moderately,Not,Not,Moderately,Not,Very,Don't know,Online,Decided,a little
+1073,Female,25-34,yes,Yes,Yes,yes,yes,NDP,Yes,Conservative,Not,Slightly,Moderately,Not,Moderately,Moderately,Not,Not,Moderately,Not,Moderately,Moderately,Moderately,Online,Decided,not at all
+1076,Male,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Extremely,Extremely,Moderately,Extremely,Don't know,Slightly,Moderately,Slightly,Slightly,Slightly,Moderately,Moderately,Signs/Billboards,Decided,not at all
+1080,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Moderately,Extremely,Not,Moderately,Very,Moderately,Don't know,Slightly,Don't know,Not,Moderately,Moderately,Online,Decided,not at all
+1084,Female,18-24,yes,No,Yes,yes,yes,Conservative,Yes,Undecided,Very,Not,Moderately,Moderately,Extremely,Moderately,Moderately,Don't know,Extremely,Moderately,Not,Not,Moderately,Mail,Undecided,not at all
+1090,Female,45-54,yes,Yes,Yes,yes,no,Did not vote,Yes,Liberal,Not,Don't know,Slightly,Moderately,Moderately,Moderately,Slightly,Not,Slightly,Very,Slightly,Moderately,Moderately,Online,Decided,not at all
+1091,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Green,Slightly,Moderately,Moderately,Not,Moderately,Very,Not,Not,Moderately,Not,Not,Moderately,Very,TV,Decided,not at all
+1095,Male,18-24,yes,No,No,yes,yes,Other/Prefer not to answer,Yes,NDP,Extremely,Slightly,Slightly,Slightly,Moderately,Moderately,Not,Not,Moderately,Not,Not,Moderately,Moderately,TV,Decided,not at all
+1098,Female,35-44,yes,No,No,yes,yes,Conservative,Yes,Conservative,Slightly,Slightly,Slightly,Very,Moderately,Slightly,Moderately,Not,Moderately,Slightly,Moderately,Moderately,Extremely,Mail,Decided,not at all
+1099,Female,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Moderately,Not,Very,Not,Slightly,Not,Not,Moderately,Moderately,Extremely,Online,Decided,not at all
+1104,Female,25-34,yes,No,Yes,yes,no,Did not vote,Yes,NDP,Not,Moderately,Moderately,Very,Moderately,Moderately,Extremely,Moderately,Moderately,Slightly,Slightly,Extremely,Slightly,TV,Decided,not at all
+1105,Male,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Undecided,Slightly,Not,Moderately,Moderately,Slightly,Very,Moderately,Slightly,Slightly,Moderately,Not,Moderately,Don't know,Online,Undecided,not at all
+1106,Female,55-64,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Extremely,Not,Moderately,Slightly,Very,Don't know,Not,Moderately,Not,Not,Don't know,Don't know,Moderately,TV,Decided,a little
+1112,Female,18-24,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Slightly,Moderately,Extremely,Moderately,Slightly,Very,Moderately,Not,Not,Slightly,Not,Moderately,Extremely,Signs/Billboards,Decided,not at all
+1114,Female,65 and over,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Not,Moderately,Extremely,Not,Not,Moderately,Not,Slightly,Moderately,Extremely,Slightly,Online,Decided,not at all
+1116,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Don't know,Moderately,Slightly,Moderately,Not,Extremely,Not,Moderately,Not,Extremely,Slightly,Online,Decided,not at all
+1117,Female,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Slightly,Moderately,Very,Moderately,Slightly,Slightly,Moderately,Very,TV,Decided,not at all
+1119,Female,35-44,yes,No,Prefer not to say,yes,yes,NDP,Yes,Liberal,Slightly,Not,Slightly,Moderately,Extremely,Moderately,Moderately,Moderately,Not,Not,Moderately,Moderately,Slightly,Mail,Decided,not at all
+1123,Male,55-64,yes,No,Yes,yes,yes,Conservative,Yes,NDP,Slightly,Slightly,Extremely,Moderately,Moderately,Moderately,Not,Moderately,Not,Not,Moderately,Very,Moderately,Online,Decided,not at all
+1129,Male,18-24,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Not,Not,Extremely,Not,Very,Moderately,Not,Don't know,Not,Not,Slightly,Moderately,Moderately,Online,Decided,not at all
+1133,Male,18-24,yes,No,No,yes,yes,Conservative,Yes,NDP,Extremely,Not,Slightly,Not,Moderately,Moderately,Slightly,Extremely,Not,Slightly,Don't know,Very,Very,Online,Decided,not at all
+1136,Male,18-24,yes,No,No,yes,yes,NDP,Don't know,Liberal,Slightly,Not,Slightly,Very,Slightly,Moderately,Not,Moderately,Not,Slightly,Not,Very,Extremely,Online,Decided,not at all
+1140,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,NDP,Moderately,Very,Don't know,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Slightly,Don't know,Extremely,Mail,Decided,not at all
+1141,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Moderately,Moderately,Moderately,Extremely,Moderately,Moderately,Not,Slightly,Moderately,Moderately,Moderately,TV,Decided,not at all
+1142,Female,65 and over,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Slightly,Don't know,Very,Moderately,Moderately,Extremely,Slightly,Extremely,Extremely,Extremely,Moderately,Very,Extremely,Online,Decided,not at all
+1147,Male,35-44,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Extremely,Extremely,Don't know,Slightly,Slightly,Slightly,Not,Slightly,Not,Slightly,Moderately,Moderately,Moderately,Online,Decided,not at all
+1156,Male,18-24,yes,No,No,yes,yes,Green,Yes,Liberal,Slightly,Moderately,Don't know,Slightly,Very,Very,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Slightly,Online,Decided,not at all
+1158,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Slightly,Moderately,Moderately,Moderately,Very,Very,Not,Moderately,Very,Not,Very,Slightly,Online,Decided,not at all
+1161,Male,35-44,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Not,Moderately,Slightly,Not,Extremely,Moderately,Not,Don't know,Not,Not,Extremely,Moderately,Moderately,None,Decided,not at all
+1163,Male,18-24,yes,Yes,No,yes,no,Did not vote,Yes,Liberal,Slightly,Moderately,Slightly,Extremely,Not,Moderately,Don't know,Extremely,Not,Moderately,Moderately,Slightly,Slightly,Online,Decided,not at all
+1168,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Moderately,Extremely,Moderately,Moderately,Slightly,Not,Moderately,Don't know,Not,Extremely,Slightly,Moderately,Online,Decided,not at all
+1170,Female,55-64,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Moderately,Slightly,Don't know,Extremely,Very,Not,Not,Not,Moderately,Moderately,Moderately,Moderately,None,Decided,not at all
+1173,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Moderately,Extremely,Slightly,Not,Extremely,Not,Slightly,Slightly,Slightly,Extremely,Moderately,Moderately,TV,Decided,not at all
+1174,Male,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Undecided,Very,Moderately,Slightly,Moderately,Moderately,Don't know,Not,Very,Extremely,Not,Don't know,Moderately,Moderately,Online,Undecided,not at all
+1175,Male,25-34,yes,No,No,yes,yes,Green,Yes,Liberal,Not,Very,Moderately,Very,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Mail,Decided,not at all
+1179,Female,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Extremely,Moderately,Slightly,Very,Extremely,Slightly,Not,Slightly,Slightly,Extremely,Moderately,Very,Slightly,TV,Decided,not at all
+1188,Male,18-24,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Slightly,Slightly,Extremely,Moderately,Moderately,Extremely,Very,Slightly,Not,Moderately,Not,Moderately,Moderately,Mail,Decided,a little
+1192,Male,45-54,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Moderately,Moderately,Don't know,Moderately,Moderately,Extremely,Not,Not,Slightly,Not,Slightly,Moderately,Don't know,Online,Decided,not at all
+1197,Male,18-24,yes,Yes,Yes,yes,yes,NDP,Yes,Conservative,Slightly,Not,Don't know,Very,Moderately,Not,Moderately,Moderately,Very,Not,Not,Moderately,Extremely,Print,Decided,not at all
+1198,Female,25-34,yes,Yes,No,yes,yes,Other/Prefer not to answer,Yes,NDP,Not,Not,Moderately,Not,Moderately,Very,Moderately,Slightly,Moderately,Not,Not,Extremely,Very,Online,Decided,not at all
+1199,Female,55-64,yes,No,No,yes,yes,Green,Don't know,NDP,Not,Don't know,Moderately,Moderately,Very,Very,Extremely,Not,Not,Moderately,Not,Moderately,Moderately,Online,Decided,not at all
+1200,Female,45-54,yes,Yes,Yes,yes,yes,Conservative,Yes,Undecided,Extremely,Not,Moderately,Moderately,Moderately,Moderately,Don't know,Moderately,Slightly,Not,Not,Moderately,Slightly,Print,Undecided,a little
+1204,Male,65 and over,yes,No,Yes,yes,yes,Other/Prefer not to answer,Yes,Liberal,Not,Not,Don't know,Moderately,Moderately,Moderately,Don't know,Moderately,Extremely,Not,Extremely,Moderately,Slightly,Online,Decided,not at all
+1205,Male,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Very,Moderately,Very,Moderately,Moderately,Not,Moderately,Moderately,Moderately,Not,Slightly,Extremely,Very,Online,Decided,not at all
+1206,Male,35-44,yes,No,No,yes,yes,NDP,Yes,Liberal,Moderately,Slightly,Moderately,Very,Moderately,Slightly,Not,Slightly,Not,Not,Moderately,Moderately,Moderately,Online,Decided,not at all
+1211,Male,18-24,yes,No,No,yes,yes,NDP,Yes,Green,Very,Moderately,Slightly,Moderately,Moderately,Moderately,Slightly,Moderately,Not,Slightly,Moderately,Very,Moderately,Signs/Billboards,Decided,not at all
+1217,Male,18-24,yes,No,Yes,yes,yes,NDP,Yes,Conservative,Slightly,Moderately,Very,Moderately,Very,Moderately,Slightly,Moderately,Very,Moderately,Not,Moderately,Slightly,TV,Decided,not at all
+1219,Male,25-34,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Not,Slightly,Don't know,Not,Moderately,Extremely,Very,Slightly,Not,Don't know,Don't know,Extremely,Extremely,Online,Decided,not at all
+1223,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Don't know,Moderately,Extremely,Very,Slightly,Not,Not,Very,Moderately,Extremely,Slightly,None,Decided,a little
+1225,Female,55-64,yes,Yes,Yes,yes,yes,NDP,Yes,NDP,Slightly,Moderately,Very,Very,Moderately,Moderately,Slightly,Slightly,Not,Slightly,Not,Moderately,Extremely,None,Decided,not at all
+1230,Male,45-54,yes,No,No,yes,yes,Other/Prefer not to answer,Yes,Liberal,Not,Not,Very,Moderately,Moderately,Very,Slightly,Not,Moderately,Not,Slightly,Very,Slightly,Mail,Decided,not at all
+1236,Male,35-44,yes,Yes,No,yes,yes,Green,Yes,Liberal,Slightly,Slightly,Extremely,Moderately,Moderately,Slightly,Not,Not,Slightly,Not,Moderately,Extremely,Moderately,Online,Decided,not at all
+1238,Female,45-54,yes,Yes,Yes,yes,yes,Liberal,Yes,Green,Not,Not,Very,Slightly,Moderately,Moderately,Moderately,Not,Slightly,Moderately,Slightly,Moderately,Extremely,Online,Decided,not at all
+1240,Female,65 and over,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Moderately,Very,Moderately,Moderately,Extremely,Not,Moderately,Very,Not,Moderately,Extremely,Very,TV,Decided,not at all
+1243,Male,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Don't know,Extremely,Moderately,Very,Slightly,Slightly,Not,Not,Moderately,Extremely,Don't know,TV,Decided,not at all
+1246,Female,35-44,yes,No,No,yes,yes,NDP,Yes,NDP,Slightly,Slightly,Extremely,Very,Moderately,Moderately,Not,Moderately,Moderately,Moderately,Slightly,Very,Extremely,TV,Decided,not at all
+1248,Male,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Extremely,Don't know,Don't know,Very,Moderately,Slightly,Moderately,Moderately,Very,Slightly,Moderately,Extremely,Moderately,TV,Decided,not at all
+1249,Female,18-24,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Moderately,Don't know,Slightly,Slightly,Moderately,Not,Slightly,Not,Not,Not,Very,Very,Online,Decided,somewhat
+1250,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Undecided,Moderately,Not,Moderately,Moderately,Very,Very,Moderately,Very,Not,Moderately,Moderately,Extremely,Very,Online,Undecided,not at all
+1257,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Very,Slightly,Very,Slightly,Moderately,Not,Moderately,Slightly,Not,Slightly,Moderately,Moderately,Online,Decided,not at all
+1261,Female,55-64,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Very,Very,Moderately,Slightly,Not,Moderately,Moderately,Moderately,Slightly,Moderately,Don't know,Moderately,Slightly,Signs/Billboards,Decided,not at all
+1262,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Don't know,Moderately,Not,Extremely,Very,Not,Slightly,Not,Moderately,Slightly,Moderately,Moderately,TV,Decided,not at all
+1264,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Slightly,Slightly,Moderately,Not,Moderately,Moderately,Not,Moderately,Not,Extremely,Moderately,Mail,Decided,not at all
+1265,Male,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Moderately,Extremely,Moderately,Moderately,Not,Moderately,Slightly,Slightly,Moderately,Moderately,Moderately,Online,Decided,not at all
+1266,Male,25-34,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Not,Moderately,Don't know,Extremely,Slightly,Don't know,Not,Moderately,Not,Moderately,Not,Slightly,Extremely,Signs/Billboards,Decided,not at all
+1268,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Slightly,Slightly,Moderately,Slightly,Very,Very,Not,Slightly,Moderately,Extremely,Not,Online,Decided,not at all
+1270,Female,45-54,yes,No,Yes,yes,yes,Green,Yes,Green,Slightly,Slightly,Moderately,Very,Moderately,Moderately,Moderately,Slightly,Don't know,Not,Moderately,Moderately,Moderately,Signs/Billboards,Decided,not at all
+1274,Male,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Slightly,Moderately,Moderately,Very,Very,Not,Don't know,Not,Moderately,Moderately,Moderately,Radio,Decided,not at all
+1275,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,NDP,Moderately,Not,Extremely,Very,Moderately,Extremely,Moderately,Don't know,Moderately,Not,Moderately,Very,Slightly,Online,Decided,not at all
+1277,Female,25-34,yes,No,No,yes,yes,Conservative,Yes,NDP,Very,Moderately,Not,Not,Moderately,Slightly,Not,Don't know,Extremely,Extremely,Moderately,Slightly,Extremely,Online,Decided,a little
+1280,Female,55-64,yes,No,No,yes,yes,Other/Prefer not to answer,Yes,NDP,Extremely,Extremely,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Moderately,Not,Moderately,Very,Online,Decided,not at all
+1289,Female,35-44,yes,Yes,Yes,yes,no,Did not vote,No,Don't plan to vote,Slightly,Not,Extremely,Extremely,Moderately,Very,Extremely,Not,Moderately,Slightly,Not,Slightly,Slightly,Online,Decided,not at all
+1298,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Moderately,Don't know,Moderately,Moderately,Not,Not,Not,Slightly,Moderately,Extremely,Extremely,TV,Decided,not at all
+1304,Female,55-64,yes,No,Yes,yes,no,Did not vote,Yes,Liberal,Not,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Not,Extremely,Slightly,TV,Decided,not at all
+1307,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Moderately,Not,Moderately,Very,Extremely,Moderately,Slightly,Not,Not,Extremely,Moderately,None,Decided,not at all
+1308,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Not,Not,Slightly,Extremely,Print,Decided,not at all
+1313,Female,65 and over,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Slightly,Not,Slightly,Not,Moderately,Moderately,Not,Not,Extremely,Slightly,Not,Moderately,Moderately,Online,Decided,not at all
+1316,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Undecided,Not,Moderately,Slightly,Moderately,Moderately,Very,Moderately,Very,Very,Moderately,Not,Moderately,Extremely,Online,Undecided,not at all
+1320,Female,35-44,yes,No,Yes,yes,yes,NDP,Yes,Undecided,Don't know,Not,Don't know,Moderately,Moderately,Extremely,Very,Don't know,Slightly,Moderately,Not,Extremely,Moderately,Online,Undecided,not at all
+1321,Male,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Very,Very,Moderately,Don't know,Slightly,Not,Very,Not,Slightly,Moderately,Not,Mail,Decided,not at all
+1323,Male,65 and over,yes,Yes,Yes,yes,yes,Conservative,Yes,NDP,Slightly,Not,Don't know,Moderately,Moderately,Moderately,Extremely,Moderately,Not,Slightly,Extremely,Extremely,Moderately,TV,Decided,not at all
+1326,Female,35-44,yes,Yes,No,yes,yes,Green,Yes,Conservative,Not,Not,Extremely,Moderately,Extremely,Very,Slightly,Moderately,Very,Moderately,Not,Very,Moderately,TV,Decided,not at all
+1327,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,NDP,Moderately,Slightly,Extremely,Extremely,Not,Don't know,Moderately,Slightly,Moderately,Not,Slightly,Moderately,Moderately,None,Decided,not at all
+1328,Male,65 and over,yes,Yes,No,yes,yes,Conservative,Yes,NDP,Slightly,Slightly,Moderately,Extremely,Moderately,Very,Moderately,Don't know,Slightly,Moderately,Very,Very,Slightly,None,Decided,not at all
+1331,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Conservative,Very,Moderately,Don't know,Moderately,Moderately,Very,Moderately,Slightly,Not,Don't know,Not,Moderately,Moderately,None,Decided,not at all
+1336,Male,55-64,yes,No,No,yes,yes,NDP,Yes,Green,Extremely,Moderately,Moderately,Slightly,Not,Moderately,Not,Extremely,Extremely,Not,Slightly,Moderately,Moderately,None,Decided,not at all
+1340,Male,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Very,Moderately,Moderately,Moderately,Not,Very,Not,Slightly,Very,Moderately,Signs/Billboards,Decided,not at all
+1341,Male,18-24,yes,Yes,No,yes,yes,Conservative,Yes,Conservative,Moderately,Not,Moderately,Very,Moderately,Slightly,Don't know,Not,Not,Not,Not,Extremely,Extremely,TV,Decided,not at all
+1348,Male,18-24,yes,No,No,yes,yes,Green,Yes,Liberal,Not,Moderately,Very,Slightly,Moderately,Not,Moderately,Not,Moderately,Moderately,Slightly,Moderately,Moderately,Signs/Billboards,Decided,not at all
+1350,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Moderately,Not,Moderately,Very,Don't know,Not,Not,Not,Not,Extremely,Moderately,TV,Decided,not at all
+1351,Male,55-64,yes,No,No,yes,yes,Green,Yes,Liberal,Moderately,Not,Extremely,Slightly,Slightly,Not,Moderately,Not,Slightly,Extremely,Don't know,Very,Moderately,Print,Decided,not at all
+1352,Female,25-34,yes,No,No,yes,yes,Green,Yes,Liberal,Slightly,Not,Moderately,Extremely,Moderately,Moderately,Moderately,Not,Moderately,Moderately,Slightly,Moderately,Moderately,TV,Decided,not at all
+1354,Female,35-44,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Not,Moderately,Extremely,Moderately,Slightly,Slightly,Don't know,Slightly,Moderately,Moderately,Slightly,Very,Moderately,Mail,Decided,somewhat
+1356,Male,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Not,Slightly,Don't know,Moderately,Moderately,Moderately,Moderately,Moderately,Extremely,Moderately,Slightly,Very,Extremely,Online,Decided,not at all
+1359,Male,45-54,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Moderately,Slightly,Extremely,Moderately,Moderately,Very,Moderately,Not,Moderately,Not,Don't know,Extremely,Very,TV,Decided,not at all
+1366,Female,55-64,yes,No,Yes,yes,yes,Other/Prefer not to answer,Yes,Conservative,Not,Not,Slightly,Extremely,Moderately,Not,Moderately,Not,Moderately,Not,Not,Don't know,Very,Online,Decided,not at all
+1370,Female,18-24,yes,Yes,No,yes,no,Did not vote,No,Don't plan to vote,Not,Moderately,Slightly,Moderately,Moderately,Very,Moderately,Not,Not,Not,Not,Moderately,Moderately,Online,Decided,not at all
+1372,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Extremely,Moderately,Not,Moderately,Extremely,Not,Not,Moderately,Not,Not,Moderately,Moderately,Online,Decided,not at all
+1373,Male,65 and over,yes,No,No,yes,no,Did not vote,Yes,NDP,Extremely,Slightly,Extremely,Extremely,Moderately,Moderately,Not,Moderately,Moderately,Don't know,Moderately,Very,Very,Online,Decided,somewhat
+1378,Male,25-34,yes,Yes,Yes,yes,yes,Conservative,Yes,Liberal,Moderately,Slightly,Not,Moderately,Moderately,Extremely,Not,Not,Not,Very,Not,Don't know,Very,Online,Decided,not at all
+1380,Female,25-34,yes,No,Yes,yes,no,Did not vote,Yes,NDP,Moderately,Slightly,Moderately,Not,Not,Moderately,Moderately,Not,Moderately,Very,Not,Extremely,Moderately,None,Decided,not at all
+1383,Female,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Slightly,Moderately,Moderately,Slightly,Not,Not,Moderately,Slightly,Slightly,Extremely,Moderately,Print,Decided,not at all
+1385,Female,25-34,yes,No,Yes,yes,yes,Conservative,Yes,Undecided,Not,Moderately,Moderately,Very,Moderately,Extremely,Not,Not,Slightly,Slightly,Moderately,Extremely,Slightly,Signs/Billboards,Undecided,not at all
+1390,Male,25-34,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Moderately,Moderately,Very,Moderately,Very,Not,Very,Not,Slightly,Not,Moderately,Very,Mail,Decided,not at all
+1391,Female,25-34,yes,Yes,No,yes,yes,Conservative,Yes,Conservative,Very,Extremely,Slightly,Moderately,Moderately,Moderately,Not,Very,Not,Extremely,Not,Moderately,Moderately,TV,Decided,not at all
+1396,Male,18-24,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Not,Slightly,Extremely,Moderately,Moderately,Moderately,Slightly,Not,Slightly,Not,Very,Moderately,Moderately,Signs/Billboards,Decided,not at all
+1399,Female,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Extremely,Moderately,Moderately,Slightly,Moderately,Don't know,Moderately,Not,Not,Very,Slightly,Very,Slightly,Online,Decided,not at all
+1401,Female,18-24,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Extremely,Extremely,Moderately,Moderately,Moderately,Not,Not,Not,Moderately,Not,Extremely,Moderately,Online,Decided,not at all
+1404,Male,25-34,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Very,Don't know,Extremely,Slightly,Moderately,Moderately,Don't know,Not,Moderately,Moderately,Not,Very,Don't know,TV,Decided,not at all
+1416,Male,45-54,yes,No,No,yes,yes,NDP,Yes,NDP,Don't know,Moderately,Slightly,Moderately,Moderately,Don't know,Not,Moderately,Not,Slightly,Not,Moderately,Moderately,Online,Decided,not at all
+1418,Male,55-64,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Slightly,Don't know,Extremely,Very,Moderately,Moderately,Not,Moderately,Slightly,Don't know,Very,Extremely,Extremely,Online,Decided,not at all
+1420,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Slightly,Moderately,Slightly,Slightly,Slightly,Not,Slightly,Not,Don't know,Slightly,Not,Slightly,Online,Decided,not at all
+1421,Male,25-34,yes,No,No,yes,yes,Conservative,Yes,Conservative,Slightly,Extremely,Don't know,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Don't know,Not,Extremely,Very,TV,Decided,not at all
+1422,Male,25-34,yes,No,No,yes,no,Did not vote,Yes,NDP,Slightly,Moderately,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Not,Not,Moderately,Don't know,Moderately,TV,Decided,not at all
+1424,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Moderately,Moderately,Moderately,Moderately,Extremely,Extremely,Moderately,Moderately,Extremely,Moderately,Extremely,Don't know,Online,Decided,not at all
+1425,Female,35-44,yes,Prefer not to say,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Moderately,Not,Moderately,Moderately,Moderately,Not,Moderately,Don't know,Don't know,Extremely,Moderately,Mail,Decided,not at all
+1429,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Don't know,Slightly,Very,Very,Slightly,Moderately,Moderately,Moderately,Very,Not,Moderately,Slightly,Online,Decided,not at all
+1430,Male,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Don't know,Moderately,Moderately,Extremely,Moderately,Extremely,Not,Don't know,Slightly,Moderately,Moderately,Signs/Billboards,Decided,not at all
+1437,Male,18-24,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Not,Not,Don't know,Moderately,Moderately,Slightly,Slightly,Not,Not,Not,Slightly,Very,Extremely,Mail,Decided,not at all
+1439,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Liberal,Very,Moderately,Very,Very,Moderately,Very,Very,Not,Not,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+1445,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Extremely,Extremely,Extremely,Moderately,Not,Moderately,Not,Moderately,Moderately,Moderately,Moderately,Online,Decided,not at all
+1449,Male,55-64,yes,No,Yes,yes,no,Did not vote,Yes,Undecided,Not,Not,Slightly,Moderately,Extremely,Not,Moderately,Not,Slightly,Very,Not,Moderately,Extremely,Mail,Undecided,not at all
+1454,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Slightly,Moderately,Moderately,Not,Extremely,Moderately,Slightly,Moderately,Slightly,Extremely,Moderately,Signs/Billboards,Decided,not at all
+1455,Male,25-34,yes,No,No,yes,yes,Green,Yes,NDP,Not,Extremely,Don't know,Not,Very,Moderately,Not,Slightly,Slightly,Don't know,Slightly,Extremely,Not,Signs/Billboards,Decided,somewhat
+1458,Female,65 and over,yes,Yes,Yes,yes,no,Did not vote,Yes,Liberal,Slightly,Moderately,Very,Extremely,Moderately,Moderately,Not,Slightly,Slightly,Slightly,Not,Not,Slightly,Signs/Billboards,Decided,not at all
+1464,Female,18-24,yes,No,Yes,yes,yes,Green,Yes,Conservative,Not,Not,Moderately,Slightly,Extremely,Not,Moderately,Not,Very,Moderately,Slightly,Moderately,Extremely,Online,Decided,not at all
+1466,Female,35-44,yes,No,No,yes,no,Did not vote,Yes,Conservative,Not,Don't know,Not,Very,Moderately,Very,Slightly,Moderately,Slightly,Not,Moderately,Extremely,Extremely,Online,Decided,not at all
+1468,Male,65 and over,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Moderately,Don't know,Very,Slightly,Slightly,Not,Not,Not,Very,Slightly,Slightly,Extremely,TV,Decided,somewhat
+1470,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Moderately,Not,Moderately,Moderately,Moderately,Very,Not,Not,Moderately,Extremely,Not,Moderately,Very,None,Decided,not at all
+1471,Male,25-34,yes,Yes,Yes,yes,yes,NDP,Yes,Conservative,Slightly,Don't know,Moderately,Moderately,Extremely,Moderately,Not,Moderately,Slightly,Not,Slightly,Not,Moderately,None,Decided,not at all
+1477,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Undecided,Moderately,Slightly,Not,Slightly,Moderately,Extremely,Not,Not,Moderately,Moderately,Not,Moderately,Very,Online,Undecided,not at all
+1483,Male,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Slightly,Slightly,Moderately,Slightly,Not,Moderately,Not,Extremely,Moderately,Moderately,Moderately,TV,Decided,not at all
+1484,Female,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Extremely,Very,Moderately,Moderately,Not,Not,Moderately,Moderately,Not,Extremely,Moderately,Online,Decided,not at all
+1485,Female,35-44,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Not,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Very,Not,Moderately,Moderately,TV,Decided,not at all
+1487,Male,55-64,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Not,Not,Slightly,Very,Moderately,Don't know,Not,Moderately,Not,Moderately,Not,Moderately,Very,Online,Decided,not at all
+1488,Female,18-24,yes,Yes,No,yes,yes,NDP,Yes,Green,Very,Slightly,Slightly,Moderately,Moderately,Moderately,Slightly,Slightly,Moderately,Slightly,Extremely,Very,Very,Online,Decided,not at all
+1494,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Very,Extremely,Moderately,Moderately,Moderately,Not,Moderately,Slightly,Slightly,Not,Not,Very,Slightly,TV,Decided,not at all
+1497,Female,45-54,yes,Yes,Yes,yes,yes,Green,Yes,NDP,Moderately,Not,Moderately,Very,Moderately,Moderately,Moderately,Not,Slightly,Moderately,Not,Moderately,Moderately,Online,Decided,not at all
+1499,Male,25-34,yes,Yes,Yes,yes,yes,NDP,Yes,NDP,Not,Moderately,Slightly,Slightly,Moderately,Slightly,Moderately,Not,Moderately,Not,Moderately,Moderately,Moderately,Mail,Decided,not at all
+1508,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Extremely,Very,Very,Moderately,Not,Slightly,Slightly,Not,Slightly,Extremely,Moderately,None,Decided,not at all
+1510,Male,55-64,yes,Yes,Yes,yes,yes,Green,Yes,NDP,Very,Not,Moderately,Moderately,Moderately,Very,Not,Not,Moderately,Moderately,Not,Moderately,Slightly,Online,Decided,not at all
+1512,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Don't know,Moderately,Extremely,Not,Moderately,Not,Not,Moderately,Don't know,Moderately,Very,Online,Decided,not at all
+1515,Male,45-54,yes,Yes,No,yes,yes,NDP,Don't know,Liberal,Slightly,Don't know,Moderately,Very,Moderately,Moderately,Not,Slightly,Moderately,Not,Slightly,Very,Extremely,Online,Decided,a little
+1517,Female,25-34,yes,No,No,yes,yes,Green,Yes,NDP,Very,Extremely,Slightly,Moderately,Slightly,Don't know,Moderately,Moderately,Not,Extremely,Not,Moderately,Moderately,TV,Decided,not at all
+1519,Female,18-24,yes,No,No,yes,yes,Green,Yes,NDP,Extremely,Not,Moderately,Moderately,Very,Slightly,Don't know,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,TV,Decided,not at all
+1523,Female,18-24,yes,No,No,yes,yes,Conservative,Yes,Liberal,Slightly,Slightly,Moderately,Moderately,Not,Very,Moderately,Moderately,Not,Not,Extremely,Moderately,Slightly,Online,Decided,not at all
+1525,Male,25-34,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Slightly,Slightly,Slightly,Very,Moderately,Moderately,Slightly,Very,Not,Slightly,Moderately,Extremely,Extremely,Online,Decided,not at all
+1533,Female,55-64,yes,Yes,Yes,yes,yes,Conservative,Yes,Liberal,Slightly,Moderately,Very,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Not,Moderately,Moderately,Moderately,Online,Decided,a little
+1535,Male,18-24,yes,No,Yes,yes,yes,Green,Yes,Green,Slightly,Moderately,Slightly,Very,Not,Slightly,Not,Not,Moderately,Not,Slightly,Moderately,Slightly,TV,Decided,not at all
+1539,Male,18-24,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Moderately,Don't know,Don't know,Very,Extremely,Slightly,Slightly,Slightly,Slightly,Moderately,Moderately,Moderately,Slightly,Online,Decided,not at all
+1543,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Not,Not,Not,Slightly,Slightly,Moderately,Not,Not,Moderately,Moderately,Not,Moderately,Very,Online,Decided,a little
+1544,Female,45-54,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Very,Slightly,Extremely,Moderately,Moderately,Very,Slightly,Moderately,Not,Moderately,Not,Moderately,Very,TV,Decided,not at all
+1546,Female,55-64,yes,No,No,yes,yes,Green,Yes,NDP,Not,Not,Moderately,Not,Slightly,Don't know,Moderately,Extremely,Very,Extremely,Not,Moderately,Extremely,None,Decided,not at all
+1549,Female,45-54,yes,No,No,yes,yes,Conservative,Yes,NDP,Moderately,Not,Slightly,Moderately,Very,Not,Not,Not,Moderately,Not,Not,Moderately,Slightly,Online,Decided,not at all
+1550,Female,55-64,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Extremely,Slightly,Moderately,Moderately,Moderately,Slightly,Not,Not,Not,Don't know,Not,Extremely,Slightly,Online,Decided,a little
+1554,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Slightly,Moderately,Not,Moderately,Moderately,Slightly,Not,Moderately,Very,Moderately,Extremely,Moderately,Moderately,Radio,Decided,not at all
+1557,Female,55-64,yes,No,Prefer not to say,yes,yes,NDP,Yes,Liberal,Very,Very,Moderately,Very,Moderately,Moderately,Moderately,Moderately,Very,Slightly,Moderately,Moderately,Slightly,Signs/Billboards,Decided,not at all
+1558,Male,18-24,yes,No,No,yes,yes,NDP,Yes,Conservative,Not,Very,Not,Moderately,Moderately,Moderately,Not,Moderately,Not,Not,Slightly,Moderately,Moderately,Online,Decided,not at all
+1559,Female,45-54,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Slightly,Slightly,Not,Very,Don't know,Very,Slightly,Very,Not,Moderately,Very,Moderately,Don't know,Online,Decided,not at all
+1560,Male,45-54,yes,No,No,yes,yes,Conservative,Yes,Green,Moderately,Moderately,Very,Moderately,Extremely,Moderately,Not,Not,Moderately,Very,Moderately,Moderately,Extremely,Signs/Billboards,Decided,not at all
+1565,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Very,Moderately,Very,Not,Slightly,Moderately,Slightly,Moderately,Extremely,Not,Online,Decided,not at all
+1571,Male,45-54,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Moderately,Moderately,Very,Slightly,Moderately,Slightly,Moderately,Moderately,Extremely,Moderately,Not,Very,Moderately,TV,Decided,not at all
+1573,Female,25-34,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Extremely,Moderately,Moderately,Very,Moderately,Slightly,Slightly,Moderately,Slightly,Not,Moderately,Moderately,Slightly,Online,Decided,not at all
+1576,Female,65 and over,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Very,Slightly,Moderately,Moderately,Moderately,Very,Not,Moderately,Slightly,Not,Moderately,Moderately,Slightly,TV,Decided,not at all
+1578,Female,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Slightly,Moderately,Moderately,Very,Not,Slightly,Not,Slightly,Not,Slightly,Very,None,Decided,not at all
+1580,Female,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Moderately,Moderately,Moderately,Extremely,Extremely,Moderately,Don't know,Moderately,Very,Very,None,Decided,not at all
+1584,Female,25-34,yes,No,Yes,yes,yes,NDP,Yes,Conservative,Slightly,Not,Extremely,Very,Moderately,Not,Not,Not,Not,Not,Moderately,Moderately,Moderately,Online,Decided,somewhat
+1585,Female,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Green,Moderately,Extremely,Moderately,Extremely,Extremely,Moderately,Slightly,Not,Very,Moderately,Not,Moderately,Very,Online,Decided,not at all
+1587,Male,65 and over,yes,Yes,Yes,yes,yes,Conservative,Yes,Conservative,Slightly,Moderately,Slightly,Moderately,Slightly,Don't know,Moderately,Extremely,Not,Not,Not,Moderately,Moderately,TV,Decided,not at all
+1591,Female,65 and over,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Not,Don't know,Moderately,Moderately,Very,Slightly,Extremely,Not,Slightly,Not,Moderately,Slightly,Print,Decided,not at all
+1594,Female,25-34,yes,No,No,yes,yes,Green,Yes,Conservative,Not,Moderately,Moderately,Very,Moderately,Very,Moderately,Not,Not,Very,Slightly,Slightly,Moderately,Mail,Decided,not at all
+1595,Female,35-44,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Moderately,Slightly,Moderately,Extremely,Moderately,Not,Not,Not,Moderately,Slightly,Moderately,Not,Online,Decided,not at all
+1597,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Don't know,Very,Moderately,Slightly,Moderately,Moderately,Not,Not,Slightly,Extremely,Moderately,TV,Decided,a little
+1599,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Slightly,Very,Slightly,Very,Moderately,Slightly,Not,Not,Not,Don't know,Moderately,Mail,Decided,not at all
+1601,Female,55-64,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Moderately,Very,Slightly,Moderately,Not,Not,Not,Not,Extremely,Not,Extremely,Extremely,Moderately,None,Decided,not at all
+1603,Male,35-44,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Not,Moderately,Moderately,Not,Not,Extremely,Not,Very,Slightly,Slightly,Extremely,Don't know,TV,Decided,not at all
+1605,Male,65 and over,yes,No,Yes,yes,yes,Green,Yes,Undecided,Extremely,Moderately,Moderately,Don't know,Very,Not,Extremely,Not,Slightly,Not,Not,Moderately,Moderately,TV,Undecided,not at all
+1610,Female,45-54,yes,No,No,yes,no,Did not vote,Yes,Conservative,Extremely,Extremely,Very,Moderately,Extremely,Slightly,Not,Not,Not,Not,Moderately,Moderately,Extremely,Online,Decided,not at all
+1612,Female,45-54,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Slightly,Moderately,Extremely,Slightly,Moderately,Not,Moderately,Moderately,Not,Moderately,Not,Moderately,Slightly,Online,Decided,not at all
+1618,Male,35-44,yes,Yes,No,yes,yes,Other/Prefer not to answer,Yes,Liberal,Not,Not,Moderately,Very,Moderately,Slightly,Not,Not,Not,Not,Not,Moderately,Moderately,Online,Decided,not at all
+1621,Female,25-34,yes,No,No,yes,yes,Conservative,Yes,NDP,Very,Slightly,Slightly,Very,Moderately,Extremely,Slightly,Extremely,Slightly,Slightly,Don't know,Very,Moderately,None,Decided,not at all
+1623,Male,35-44,yes,No,No,yes,yes,Conservative,Yes,Conservative,Moderately,Not,Don't know,Slightly,Extremely,Moderately,Moderately,Moderately,Not,Slightly,Moderately,Very,Moderately,None,Decided,not at all
+1629,Male,55-64,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Moderately,Not,Moderately,Moderately,Very,Moderately,Not,Not,Moderately,Extremely,Extremely,Mail,Decided,not at all
+1636,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Slightly,Moderately,Moderately,Slightly,Moderately,Not,Not,Slightly,Not,Not,Slightly,Very,Online,Decided,not at all
+1637,Male,55-64,yes,No,No,yes,yes,Green,No,Don't plan to vote,Extremely,Don't know,Moderately,Moderately,Moderately,Extremely,Extremely,Moderately,Don't know,Not,Moderately,Extremely,Moderately,Online,Decided,not at all
+1639,Male,55-64,yes,Prefer not to say,No,yes,no,Did not vote,Yes,Green,Not,Don't know,Moderately,Not,Moderately,Very,Moderately,Extremely,Very,Not,Moderately,Extremely,Moderately,None,Decided,not at all
+1640,Female,65 and over,yes,No,No,yes,yes,Liberal,Yes,Liberal,Moderately,Moderately,Extremely,Moderately,Moderately,Not,Not,Not,Not,Moderately,Not,Extremely,Slightly,TV,Decided,not at all
+1641,Female,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Not,Not,Moderately,Moderately,Moderately,Moderately,Not,Not,Not,Not,Moderately,Slightly,TV,Decided,somewhat
+1645,Male,25-34,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Don't know,Not,Slightly,Moderately,Moderately,Slightly,Not,Moderately,Moderately,Slightly,Moderately,Moderately,None,Decided,not at all
+1646,Male,55-64,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Not,Slightly,Moderately,Not,Extremely,Moderately,Slightly,Moderately,Slightly,Not,Slightly,Moderately,Not,Mail,Decided,not at all
+1647,Female,45-54,yes,Yes,Yes,yes,yes,Green,Yes,Liberal,Very,Not,Extremely,Very,Extremely,Moderately,Slightly,Slightly,Very,Moderately,Not,Moderately,Extremely,Mail,Decided,not at all
+1650,Female,45-54,yes,Yes,Yes,yes,yes,Conservative,Yes,Green,Very,Not,Very,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Not,Moderately,Moderately,Online,Decided,not at all
+1652,Male,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Moderately,Not,Moderately,Don't know,Moderately,Very,Extremely,Not,Not,Not,Slightly,Very,Slightly,Online,Decided,not at all
+1660,Female,65 and over,yes,No,Yes,yes,yes,NDP,Yes,Undecided,Moderately,Slightly,Moderately,Moderately,Moderately,Slightly,Moderately,Not,Extremely,Not,Not,Extremely,Extremely,TV,Undecided,not at all
+1662,Female,65 and over,yes,Yes,No,yes,yes,NDP,Yes,Undecided,Slightly,Not,Slightly,Slightly,Moderately,Very,Not,Not,Moderately,Not,Not,Very,Moderately,Online,Undecided,not at all
+1663,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Slightly,Very,Very,Extremely,Slightly,Extremely,Slightly,Moderately,Don't know,Extremely,Moderately,Moderately,None,Decided,not at all
+1668,Female,25-34,yes,Prefer not to say,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Very,Slightly,Extremely,Very,TV,Decided,not at all
+1670,Male,25-34,yes,No,No,yes,yes,NDP,Yes,Conservative,Extremely,Slightly,Don't know,Moderately,Moderately,Moderately,Not,Not,Moderately,Slightly,Very,Moderately,Moderately,TV,Decided,not at all
+1675,Female,35-44,yes,No,No,yes,no,Did not vote,Yes,NDP,Slightly,Moderately,Moderately,Extremely,Extremely,Slightly,Slightly,Slightly,Not,Slightly,Slightly,Extremely,Extremely,TV,Decided,not at all
+1679,Female,25-34,yes,Yes,Yes,yes,yes,NDP,Yes,Liberal,Extremely,Not,Moderately,Moderately,Slightly,Moderately,Moderately,Slightly,Not,Not,Very,Extremely,Moderately,None,Decided,not at all
+1680,Female,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Moderately,Not,Not,Moderately,Moderately,Extremely,Moderately,Moderately,Moderately,Not,Moderately,Slightly,Slightly,Online,Decided,not at all
+1681,Female,35-44,yes,No,No,yes,yes,NDP,Yes,Conservative,Not,Extremely,Moderately,Not,Not,Not,Moderately,Not,Very,Extremely,Moderately,Moderately,Not,Online,Decided,not at all
+1685,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Very,Moderately,Moderately,Slightly,Very,Not,Moderately,Not,Very,Slightly,Very,Moderately,Online,Decided,not at all
+1686,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Slightly,Moderately,Slightly,Moderately,Moderately,Don't know,Not,Slightly,Not,Slightly,Moderately,Slightly,Online,Decided,not at all
+1690,Female,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Green,Slightly,Moderately,Don't know,Extremely,Moderately,Extremely,Not,Not,Slightly,Moderately,Not,Moderately,Moderately,Online,Decided,not at all
+1692,Male,18-24,yes,No,No,yes,no,Did not vote,Yes,NDP,Very,Very,Moderately,Very,Moderately,Moderately,Slightly,Slightly,Not,Not,Don't know,Moderately,Moderately,Online,Decided,not at all
+1694,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Extremely,Moderately,Not,Moderately,Extremely,Moderately,Moderately,Not,Not,Extremely,Moderately,Extremely,TV,Decided,not at all
+1696,Female,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Undecided,Extremely,Very,Extremely,Moderately,Moderately,Moderately,Moderately,Moderately,Don't know,Not,Slightly,Not,Moderately,Mail,Undecided,a little
+1697,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Extremely,Don't know,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Slightly,Moderately,Moderately,Online,Decided,not at all
+1699,Female,65 and over,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Not,Moderately,Moderately,Moderately,Slightly,Extremely,Not,Slightly,Not,Don't know,Extremely,Very,Online,Decided,somewhat
+1701,Female,45-54,yes,Yes,Yes,yes,yes,NDP,Yes,Liberal,Not,Not,Moderately,Extremely,Moderately,Not,Slightly,Not,Moderately,Moderately,Moderately,Moderately,Moderately,None,Decided,not at all
+1702,Male,35-44,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Extremely,Moderately,Very,Don't know,Moderately,Moderately,Moderately,Moderately,Extremely,Not,Moderately,Moderately,Extremely,TV,Decided,not at all
+1705,Female,55-64,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Don't know,Slightly,Moderately,Moderately,Moderately,Extremely,Moderately,Not,Moderately,Moderately,Not,Moderately,Moderately,Signs/Billboards,Decided,not at all
+1706,Female,35-44,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Extremely,Moderately,Don't know,Moderately,Slightly,Moderately,Extremely,Slightly,Slightly,Not,Not,Very,Moderately,Online,Decided,not at all
+1708,Male,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Moderately,Extremely,Moderately,Moderately,Slightly,Slightly,Not,Moderately,Not,Extremely,Very,TV,Decided,not at all
+1711,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Moderately,Slightly,Moderately,Moderately,Moderately,Slightly,Slightly,Not,Moderately,Slightly,Not,Moderately,Moderately,TV,Decided,not at all
+1712,Male,35-44,yes,No,Prefer not to say,yes,yes,Liberal,Yes,Conservative,Extremely,Not,Extremely,Moderately,Moderately,Moderately,Not,Not,Don't know,Moderately,Very,Slightly,Slightly,Online,Decided,not at all
+1713,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Moderately,Very,Very,Not,Slightly,Not,Very,Not,Not,Extremely,Moderately,None,Decided,not at all
+1715,Female,25-34,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Not,Don't know,Very,Very,Moderately,Moderately,Moderately,Moderately,Not,Extremely,Very,Slightly,Online,Decided,not at all
+1718,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Moderately,Not,Slightly,Moderately,Not,Moderately,Moderately,Slightly,Not,Moderately,Moderately,Not,TV,Decided,not at all
+1719,Male,35-44,yes,Yes,No,yes,no,Did not vote,Yes,NDP,Not,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Very,Don't know,Not,Don't know,Very,Moderately,Mail,Decided,not at all
+1720,Female,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Not,Not,Moderately,Moderately,Moderately,Not,Slightly,Not,Not,Slightly,Not,Very,Slightly,Radio,Decided,not at all
+1724,Male,55-64,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Slightly,Extremely,Don't know,Not,Moderately,Moderately,Not,Don't know,Slightly,Moderately,Moderately,Slightly,Slightly,None,Decided,not at all
+1725,Female,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Green,Extremely,Moderately,Slightly,Don't know,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Very,TV,Decided,not at all
+1727,Male,65 and over,yes,No,Yes,yes,yes,Green,Yes,Green,Slightly,Moderately,Moderately,Very,Moderately,Very,Slightly,Not,Moderately,Not,Moderately,Moderately,Extremely,TV,Decided,not at all
+1729,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Don't know,Moderately,Very,Extremely,Moderately,Moderately,Not,Not,Don't know,Moderately,Slightly,Moderately,Extremely,TV,Decided,not at all
+1732,Male,25-34,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Very,Moderately,Extremely,Slightly,Extremely,Slightly,Moderately,Not,Not,Slightly,Moderately,Very,Moderately,TV,Decided,a little
+1736,Male,45-54,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Not,Moderately,Slightly,Slightly,Slightly,Extremely,Moderately,Moderately,Moderately,Not,Not,Not,Slightly,None,Decided,not at all
+1738,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Extremely,Moderately,Extremely,Extremely,Slightly,Not,Moderately,Moderately,Not,Moderately,Extremely,Moderately,TV,Decided,not at all
+1739,Male,35-44,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Slightly,Slightly,Very,Moderately,Slightly,Not,Not,Moderately,Moderately,Moderately,Not,TV,Decided,not at all
+1742,Male,35-44,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Not,Not,Slightly,Not,Very,Moderately,Moderately,Slightly,Not,Slightly,Not,Very,Moderately,TV,Decided,not at all
+1748,Male,25-34,yes,No,Yes,yes,yes,Green,Yes,Conservative,Moderately,Moderately,Very,Moderately,Moderately,Slightly,Moderately,Don't know,Moderately,Moderately,Not,Extremely,Very,Online,Decided,not at all
+1750,Female,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Very,Not,Extremely,Moderately,Moderately,Very,Not,Not,Moderately,Moderately,Slightly,Moderately,Very,Signs/Billboards,Decided,a great deal
+1753,Female,45-54,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Don't know,Not,Moderately,Moderately,Moderately,Moderately,Slightly,Not,Not,Moderately,Moderately,Moderately,Extremely,TV,Decided,not at all
+1754,Male,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Slightly,Slightly,Moderately,Very,Not,Very,Not,Moderately,Not,Extremely,Moderately,Signs/Billboards,Decided,not at all
+1759,Male,55-64,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Don't know,Moderately,Slightly,Very,Moderately,Moderately,Slightly,Not,Don't know,Slightly,Slightly,Moderately,Slightly,Online,Decided,not at all
+1760,Female,35-44,yes,Yes,Yes,yes,yes,NDP,Yes,Undecided,Very,Slightly,Don't know,Extremely,Moderately,Moderately,Slightly,Not,Not,Moderately,Not,Moderately,Moderately,TV,Undecided,not at all
+1767,Female,55-64,yes,No,Yes,yes,yes,NDP,Yes,NDP,Not,Slightly,Don't know,Slightly,Moderately,Not,Very,Not,Extremely,Not,Not,Extremely,Moderately,Mail,Decided,a little
+1774,Female,45-54,yes,No,Yes,yes,yes,NDP,Yes,Conservative,Don't know,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Don't know,Slightly,Moderately,Moderately,Moderately,Slightly,TV,Decided,a little
+1777,Male,55-64,yes,No,Yes,yes,no,Did not vote,Yes,Undecided,Very,Not,Slightly,Extremely,Moderately,Slightly,Slightly,Moderately,Not,Very,Not,Moderately,Not,Print,Undecided,not at all
+1784,Male,35-44,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Slightly,Very,Moderately,Not,Moderately,Moderately,Print,Decided,not at all
+1785,Male,35-44,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Slightly,Moderately,Moderately,Not,Moderately,Slightly,Not,Not,Not,Slightly,Moderately,Moderately,Moderately,TV,Decided,not at all
+1789,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Slightly,Slightly,Very,Moderately,Moderately,Not,Moderately,Not,Slightly,Moderately,Moderately,Moderately,Online,Decided,not at all
+1792,Female,18-24,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Not,Extremely,Slightly,Slightly,Moderately,Not,Not,Not,Not,Very,Don't know,Moderately,Don't know,Online,Decided,not at all
+1800,Male,45-54,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Extremely,Extremely,Moderately,Moderately,Not,Not,Moderately,Moderately,Not,Extremely,Slightly,Online,Decided,not at all
+1806,Male,25-34,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Not,Extremely,Extremely,Slightly,Moderately,Very,Don't know,Don't know,Moderately,Moderately,Slightly,Not,Moderately,Online,Decided,not at all
+1808,Female,18-24,yes,Yes,Yes,yes,no,Did not vote,Yes,Liberal,Slightly,Not,Moderately,Don't know,Not,Very,Slightly,Extremely,Extremely,Not,Moderately,Extremely,Moderately,None,Decided,not at all
+1809,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Slightly,Moderately,Moderately,Slightly,Not,Extremely,Slightly,Moderately,Moderately,Slightly,TV,Decided,not at all
+1810,Female,35-44,yes,No,No,yes,yes,Conservative,Yes,Liberal,Slightly,Slightly,Extremely,Slightly,Moderately,Slightly,Slightly,Not,Don't know,Extremely,Slightly,Moderately,Moderately,Online,Decided,not at all
+1811,Female,25-34,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Moderately,Moderately,Very,Moderately,Moderately,Don't know,Not,Moderately,Slightly,Moderately,Moderately,Extremely,Moderately,Online,Decided,a lot
+1813,Female,25-34,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Slightly,Slightly,Moderately,Moderately,Very,Moderately,Not,Not,Slightly,Extremely,Moderately,Slightly,Online,Decided,not at all
+1816,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Conservative,Slightly,Not,Slightly,Very,Extremely,Moderately,Not,Moderately,Slightly,Moderately,Slightly,Moderately,Moderately,Online,Decided,not at all
+1818,Female,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Very,Not,Moderately,Don't know,Moderately,Moderately,Don't know,Moderately,Not,Very,Slightly,Moderately,Moderately,Online,Decided,not at all
+1822,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Very,Don't know,Extremely,Moderately,Extremely,Moderately,Moderately,Moderately,Moderately,Not,Not,Very,Extremely,Signs/Billboards,Decided,not at all
+1823,Male,45-54,yes,Yes,No,yes,yes,Green,Yes,Liberal,Slightly,Moderately,Moderately,Not,Moderately,Moderately,Slightly,Moderately,Slightly,Slightly,Moderately,Moderately,Moderately,Signs/Billboards,Decided,not at all
+1833,Female,45-54,yes,Yes,No,yes,no,Did not vote,No,Don't plan to vote,Not,Not,Not,Don't know,Extremely,Moderately,Slightly,Moderately,Slightly,Slightly,Not,Moderately,Moderately,Online,Decided,a great deal
+1835,Male,45-54,yes,Prefer not to say,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Not,Very,Moderately,Extremely,Not,Not,Moderately,Moderately,Moderately,Extremely,Moderately,Online,Decided,not at all
+1838,Female,45-54,yes,Yes,No,yes,yes,NDP,Yes,Undecided,Extremely,Very,Slightly,Extremely,Extremely,Not,Not,Not,Moderately,Slightly,Slightly,Very,Moderately,None,Undecided,not at all
+1839,Male,35-44,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Extremely,Not,Don't know,Not,Moderately,Extremely,Not,Not,Moderately,Slightly,Not,Very,Slightly,Online,Decided,not at all
+1841,Male,25-34,yes,No,No,yes,yes,NDP,Yes,NDP,Extremely,Slightly,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Not,Not,Moderately,Moderately,Very,Radio,Decided,not at all
+1842,Female,55-64,yes,No,No,yes,yes,NDP,Yes,Undecided,Extremely,Extremely,Slightly,Slightly,Slightly,Slightly,Moderately,Not,Extremely,Not,Not,Extremely,Moderately,Print,Undecided,somewhat
+1844,Male,45-54,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Not,Slightly,Moderately,Slightly,Moderately,Extremely,Moderately,Slightly,Not,Not,Slightly,Moderately,Moderately,TV,Decided,not at all
+1845,Female,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Moderately,Very,Moderately,Moderately,Moderately,Not,Moderately,Not,Moderately,Very,Moderately,Mail,Decided,not at all
+1852,Male,18-24,yes,No,No,yes,yes,Conservative,Yes,Liberal,Slightly,Slightly,Extremely,Moderately,Moderately,Very,Moderately,Not,Not,Moderately,Moderately,Very,Moderately,Signs/Billboards,Decided,not at all
+1864,Male,45-54,yes,No,Yes,yes,yes,Conservative,Yes,NDP,Not,Not,Slightly,Very,Moderately,Moderately,Moderately,Slightly,Very,Don't know,Extremely,Very,Moderately,Mail,Decided,not at all
+1868,Male,18-24,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Extremely,Slightly,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Slightly,Very,Don't know,Mail,Decided,not at all
+1869,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Slightly,Extremely,Moderately,Not,Not,Not,Slightly,Not,Not,Extremely,Moderately,Online,Decided,not at all
+1872,Female,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Very,Not,Moderately,Moderately,Slightly,Moderately,Extremely,Slightly,Not,Moderately,Moderately,Slightly,Moderately,TV,Decided,not at all
+1873,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Not,Extremely,Extremely,Moderately,Slightly,Slightly,Not,Slightly,Moderately,Not,Extremely,Moderately,Online,Decided,not at all
+1874,Female,55-64,yes,Yes,Yes,yes,yes,Green,Yes,Liberal,Slightly,Not,Slightly,Slightly,Moderately,Moderately,Moderately,Slightly,Slightly,Very,Moderately,Moderately,Very,Signs/Billboards,Decided,not at all
+1887,Male,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Not,Slightly,Very,Very,Very,Very,Moderately,Not,Not,Not,Extremely,Slightly,Online,Decided,not at all
+1893,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Green,Not,Moderately,Moderately,Very,Not,Very,Not,Moderately,Not,Slightly,Moderately,Moderately,Slightly,Online,Decided,not at all
+1910,Male,18-24,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Slightly,Moderately,Extremely,Moderately,Moderately,Moderately,Moderately,Moderately,Very,Moderately,Not,Moderately,Online,Decided,not at all
+1911,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Very,Moderately,Slightly,Not,Extremely,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Online,Decided,not at all
+1912,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Conservative,Very,Not,Slightly,Moderately,Moderately,Moderately,Very,Slightly,Don't know,Not,Not,Slightly,Very,Radio,Decided,not at all
+1914,Female,65 and over,yes,No,Yes,yes,no,Did not vote,No,Don't plan to vote,Extremely,Not,Slightly,Very,Extremely,Moderately,Moderately,Not,Very,Not,Moderately,Moderately,Not,TV,Decided,not at all
+1919,Male,65 and over,yes,No,No,yes,yes,NDP,Yes,Green,Not,Not,Slightly,Very,Moderately,Extremely,Slightly,Moderately,Moderately,Slightly,Moderately,Moderately,Slightly,Online,Decided,not at all
+1920,Female,65 and over,yes,No,No,yes,yes,NDP,Yes,NDP,Very,Slightly,Very,Not,Slightly,Not,Moderately,Moderately,Moderately,Not,Slightly,Extremely,Extremely,Signs/Billboards,Decided,not at all
+1922,Female,35-44,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Moderately,Not,Moderately,Not,Not,Moderately,Not,Slightly,Extremely,Slightly,Moderately,None,Decided,not at all
+1923,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Moderately,Moderately,Moderately,Very,Not,Not,Moderately,Not,Slightly,Extremely,Moderately,Online,Decided,not at all
+1924,Male,25-34,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Moderately,Very,Moderately,Moderately,Not,Slightly,Not,Moderately,Slightly,Moderately,Moderately,TV,Decided,not at all
+1933,Male,25-34,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Not,Very,Moderately,Slightly,Moderately,Not,Not,Not,Not,Not,Extremely,Moderately,TV,Decided,not at all
+1934,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Conservative,Moderately,Moderately,Not,Moderately,Moderately,Not,Slightly,Moderately,Moderately,Not,Not,Extremely,Slightly,TV,Decided,not at all
+1935,Male,45-54,yes,No,No,yes,yes,Conservative,Yes,Conservative,Slightly,Moderately,Moderately,Moderately,Slightly,Moderately,Not,Not,Moderately,Extremely,Not,Moderately,Extremely,TV,Decided,not at all
+1937,Male,55-64,yes,No,No,yes,yes,NDP,Yes,Conservative,Slightly,Moderately,Extremely,Very,Extremely,Not,Don't know,Moderately,Very,Slightly,Not,Extremely,Slightly,Online,Decided,not at all
+1938,Female,18-24,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Not,Not,Moderately,Very,Not,Moderately,Extremely,Moderately,Not,Not,Very,Moderately,Moderately,Online,Decided,not at all
+1939,Female,25-34,yes,No,Yes,yes,yes,NDP,Yes,Undecided,Slightly,Not,Extremely,Moderately,Moderately,Moderately,Not,Slightly,Moderately,Moderately,Moderately,Extremely,Moderately,None,Undecided,not at all
+1942,Male,35-44,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Very,Don't know,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Very,Moderately,Extremely,Moderately,Online,Decided,not at all
+1946,Male,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Slightly,Very,Moderately,Very,Extremely,Slightly,Not,Don't know,Not,Extremely,Moderately,Online,Decided,not at all
+1950,Male,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Extremely,Moderately,Slightly,Not,Extremely,Slightly,Moderately,Not,Not,Not,Moderately,Moderately,Slightly,Online,Decided,not at all
+1952,Female,25-34,yes,Yes,No,yes,yes,Conservative,Yes,Conservative,Not,Extremely,Moderately,Slightly,Slightly,Not,Moderately,Not,Moderately,Slightly,Not,Moderately,Not,Online,Decided,not at all
+1953,Male,18-24,yes,No,Yes,yes,yes,Green,Yes,NDP,Extremely,Slightly,Moderately,Slightly,Moderately,Moderately,Slightly,Moderately,Not,Moderately,Not,Extremely,Moderately,Mail,Decided,not at all
+1955,Male,35-44,yes,No,Yes,yes,yes,Liberal,No,Don't plan to vote,Very,Not,Extremely,Moderately,Moderately,Moderately,Not,Not,Not,Not,Slightly,Moderately,Moderately,TV,Decided,not at all
+1958,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,Green,Extremely,Moderately,Don't know,Very,Not,Moderately,Slightly,Not,Not,Not,Not,Extremely,Moderately,Mail,Decided,not at all
+1959,Male,45-54,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Moderately,Extremely,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Not,Extremely,Moderately,Slightly,Online,Decided,not at all
+1970,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Moderately,Moderately,Moderately,Not,Very,Not,Not,Not,Not,Extremely,Slightly,TV,Decided,not at all
+1972,Male,65 and over,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Moderately,Slightly,Moderately,Extremely,Moderately,Slightly,Not,Moderately,Moderately,Slightly,Very,Moderately,Mail,Decided,not at all
+1974,Male,18-24,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Extremely,Slightly,Slightly,Slightly,Moderately,Very,Not,Slightly,Not,Moderately,Extremely,Extremely,Don't know,Online,Decided,not at all
+1978,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Green,Don't know,Moderately,Don't know,Very,Slightly,Not,Don't know,Slightly,Very,Not,Not,Very,Moderately,Online,Decided,not at all
+1980,Male,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,Green,Slightly,Moderately,Moderately,Very,Slightly,Moderately,Moderately,Moderately,Not,Not,Not,Very,Slightly,Signs/Billboards,Decided,not at all
+1981,Female,65 and over,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Not,Not,Don't know,Moderately,Moderately,Slightly,Moderately,Extremely,Very,Not,Slightly,Moderately,Moderately,TV,Decided,not at all
+1982,Male,18-24,yes,Yes,No,yes,yes,Conservative,Yes,Undecided,Don't know,Extremely,Moderately,Extremely,Not,Moderately,Moderately,Moderately,Slightly,Extremely,Not,Moderately,Slightly,TV,Undecided,a little
+1991,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Undecided,Not,Not,Slightly,Moderately,Very,Extremely,Not,Moderately,Extremely,Don't know,Extremely,Moderately,Slightly,TV,Undecided,not at all
+1993,Female,25-34,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Slightly,Moderately,Moderately,Very,Slightly,Not,Moderately,Moderately,Moderately,Not,Slightly,Moderately,Extremely,Online,Decided,not at all
+1998,Female,35-44,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Slightly,Moderately,Slightly,Don't know,Moderately,Moderately,Moderately,Slightly,Moderately,Not,Moderately,Moderately,Moderately,Mail,Decided,not at all
+1999,Female,45-54,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Don't know,Don't know,Moderately,Moderately,Moderately,Not,Moderately,Not,Very,Moderately,Moderately,Moderately,Online,Decided,a lot
+2000,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Extremely,Moderately,Moderately,Very,Moderately,Moderately,Not,Slightly,Not,Slightly,Extremely,Moderately,Very,Online,Decided,not at all
+2002,Male,35-44,yes,No,Yes,yes,yes,Green,Yes,Liberal,Very,Moderately,Moderately,Extremely,Moderately,Moderately,Not,Moderately,Slightly,Not,Not,Very,Extremely,Mail,Decided,a great deal
+2005,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Don't know,Moderately,Moderately,Moderately,Not,Moderately,Slightly,Not,Not,Moderately,Moderately,Mail,Decided,not at all
+2006,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Extremely,Moderately,Moderately,Slightly,Extremely,Moderately,Slightly,Slightly,Moderately,Not,Extremely,Moderately,TV,Decided,not at all
+2008,Female,65 and over,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Moderately,Moderately,Not,Moderately,Don't know,Not,Moderately,Not,Moderately,Don't know,Very,None,Decided,not at all
+2009,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Not,Slightly,Moderately,Slightly,Moderately,Don't know,Not,Moderately,Not,Extremely,Moderately,Slightly,None,Decided,not at all
+2014,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Very,Slightly,Moderately,Moderately,Very,Slightly,Not,Don't know,Slightly,Moderately,Moderately,Slightly,None,Decided,not at all
+2015,Male,18-24,yes,No,Yes,yes,no,Did not vote,No,Don't plan to vote,Slightly,Not,Extremely,Slightly,Moderately,Moderately,Not,Slightly,Slightly,Not,Moderately,Extremely,Moderately,Radio,Decided,not at all
+2016,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Slightly,Moderately,Extremely,Moderately,Slightly,Not,Moderately,Not,Extremely,Moderately,Moderately,Online,Decided,not at all
+2017,Male,65 and over,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Not,Very,Not,Not,Slightly,Moderately,Moderately,Moderately,Not,Moderately,Moderately,Moderately,Extremely,Print,Decided,not at all
+2018,Female,18-24,yes,No,No,yes,yes,Liberal,No,Don't plan to vote,Moderately,Slightly,Very,Moderately,Moderately,Very,Not,Slightly,Not,Not,Moderately,Moderately,Very,Online,Decided,not at all
+2022,Female,25-34,yes,No,No,yes,yes,NDP,Yes,Undecided,Not,Slightly,Slightly,Slightly,Moderately,Extremely,Moderately,Very,Not,Not,Not,Moderately,Moderately,Online,Undecided,not at all
+2029,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Slightly,Extremely,Extremely,Moderately,Slightly,Not,Don't know,Slightly,Don't know,Not,Moderately,Moderately,TV,Decided,not at all
+2032,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Very,Slightly,Moderately,Moderately,Moderately,Not,Moderately,Very,Moderately,Moderately,Extremely,Extremely,TV,Decided,not at all
+2035,Female,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Slightly,Not,Slightly,Slightly,Moderately,Not,Slightly,Slightly,Slightly,Very,Moderately,Online,Decided,not at all
+2040,Male,25-34,yes,Yes,No,yes,yes,NDP,Yes,NDP,Slightly,Don't know,Moderately,Very,Extremely,Moderately,Moderately,Moderately,Don't know,Not,Moderately,Moderately,Slightly,TV,Decided,not at all
+2043,Female,35-44,yes,No,Yes,yes,no,Did not vote,No,Don't plan to vote,Slightly,Not,Not,Moderately,Not,Slightly,Moderately,Moderately,Slightly,Moderately,Moderately,Moderately,Slightly,TV,Decided,not at all
+2046,Male,25-34,yes,No,No,yes,no,Did not vote,Yes,Liberal,Moderately,Extremely,Slightly,Slightly,Moderately,Very,Extremely,Moderately,Moderately,Not,Not,Extremely,Moderately,Online,Decided,not at all
+2054,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Green,Slightly,Very,Moderately,Not,Moderately,Not,Moderately,Slightly,Moderately,Not,Not,Moderately,Slightly,Signs/Billboards,Decided,a little
+2056,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Extremely,Moderately,Slightly,Moderately,Not,Not,Not,Moderately,Slightly,Very,Moderately,Slightly,Mail,Decided,not at all
+2057,Female,35-44,yes,No,No,yes,yes,Liberal,No,Don't plan to vote,Slightly,Not,Don't know,Slightly,Not,Not,Not,Don't know,Not,Not,Don't know,Very,Moderately,TV,Decided,not at all
+2058,Female,35-44,yes,Yes,No,yes,yes,Other/Prefer not to answer,Yes,Conservative,Slightly,Slightly,Moderately,Moderately,Not,Extremely,Slightly,Slightly,Not,Moderately,Very,Slightly,Moderately,Signs/Billboards,Decided,not at all
+2059,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Not,Moderately,Very,Slightly,Moderately,Not,Not,Moderately,Moderately,Not,Moderately,Extremely,TV,Decided,not at all
+2060,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Not,Not,Don't know,Very,Moderately,Moderately,Not,Don't know,Extremely,Moderately,Not,Extremely,Slightly,TV,Decided,not at all
+2062,Male,18-24,yes,No,No,yes,yes,Conservative,Yes,Conservative,Extremely,Moderately,Very,Moderately,Moderately,Slightly,Don't know,Slightly,Not,Not,Moderately,Very,Moderately,Online,Decided,somewhat
+2063,Male,45-54,yes,No,Yes,yes,no,Did not vote,Yes,NDP,Slightly,Not,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Not,Very,Very,TV,Decided,not at all
+2064,Female,18-24,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Not,Moderately,Extremely,Slightly,Moderately,Slightly,Not,Moderately,Extremely,Not,Moderately,Extremely,Slightly,Online,Decided,not at all
+2067,Male,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Very,Slightly,Moderately,Very,Moderately,Moderately,Not,Not,Moderately,Not,Moderately,Very,Moderately,TV,Decided,a little
+2072,Male,65 and over,yes,Yes,No,yes,yes,Green,Yes,Conservative,Not,Not,Extremely,Slightly,Moderately,Very,Not,Slightly,Not,Not,Moderately,Don't know,Very,Signs/Billboards,Decided,not at all
+2076,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Moderately,Very,Very,Extremely,Not,Not,Not,Slightly,Moderately,Moderately,Moderately,None,Decided,not at all
+2078,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Moderately,Moderately,Not,Slightly,Extremely,Slightly,Moderately,Not,Moderately,Don't know,Extremely,Extremely,Online,Decided,not at all
+2082,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Green,Slightly,Moderately,Moderately,Not,Moderately,Moderately,Moderately,Moderately,Not,Slightly,Not,Moderately,Slightly,Online,Decided,not at all
+2083,Female,55-64,yes,Yes,No,yes,yes,NDP,Yes,Conservative,Slightly,Moderately,Moderately,Very,Moderately,Moderately,Moderately,Extremely,Moderately,Slightly,Slightly,Very,Moderately,Mail,Decided,not at all
+2084,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Moderately,Not,Moderately,Moderately,Moderately,Moderately,Slightly,Very,Slightly,Not,Extremely,Extremely,Slightly,None,Decided,not at all
+2085,Male,65 and over,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Very,Don't know,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Slightly,Not,Moderately,Extremely,Slightly,Online,Decided,not at all
+2091,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Very,Not,Extremely,Not,Moderately,Very,Moderately,Online,Decided,not at all
+2093,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Very,Not,Very,Very,Very,Very,Moderately,Slightly,Not,Extremely,Slightly,Moderately,Slightly,TV,Decided,not at all
+2097,Male,18-24,yes,No,Yes,yes,yes,NDP,Yes,Conservative,Not,Don't know,Don't know,Very,Moderately,Moderately,Slightly,Not,Not,Moderately,Moderately,Moderately,Slightly,TV,Decided,not at all
+2098,Female,25-34,yes,Yes,No,yes,yes,Conservative,Yes,Green,Slightly,Slightly,Very,Very,Very,Slightly,Moderately,Not,Very,Slightly,Slightly,Moderately,Moderately,Online,Decided,not at all
+2101,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Moderately,Very,Moderately,Don't know,Not,Moderately,Moderately,Moderately,Don't know,Moderately,Moderately,TV,Decided,not at all
+2110,Female,45-54,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Extremely,Moderately,Extremely,Not,Moderately,Extremely,Moderately,Moderately,Moderately,Extremely,Slightly,Moderately,Moderately,Online,Decided,not at all
+2113,Male,35-44,yes,No,No,yes,yes,NDP,Yes,Undecided,Slightly,Slightly,Moderately,Very,Moderately,Very,Not,Don't know,Not,Moderately,Moderately,Don't know,Not,Mail,Undecided,not at all
+2117,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Conservative,Moderately,Slightly,Extremely,Not,Extremely,Slightly,Not,Slightly,Very,Very,Slightly,Moderately,Moderately,Online,Decided,not at all
+2119,Male,18-24,yes,Yes,Yes,yes,yes,Green,Yes,Liberal,Not,Slightly,Not,Not,Extremely,Moderately,Moderately,Moderately,Slightly,Not,Not,Not,Extremely,TV,Decided,not at all
+2120,Female,18-24,yes,No,No,yes,yes,Conservative,Yes,Conservative,Not,Not,Slightly,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Moderately,Very,Extremely,Moderately,Online,Decided,not at all
+2123,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,NDP,Moderately,Very,Slightly,Moderately,Moderately,Extremely,Moderately,Not,Moderately,Not,Very,Not,Moderately,Mail,Decided,not at all
+2125,Male,25-34,yes,No,Yes,yes,yes,Green,Yes,Liberal,Slightly,Moderately,Slightly,Very,Moderately,Slightly,Not,Slightly,Slightly,Very,Moderately,Moderately,Moderately,Online,Decided,not at all
+2126,Male,18-24,yes,No,No,yes,no,Did not vote,Don't know,Liberal,Not,Extremely,Slightly,Moderately,Slightly,Moderately,Not,Slightly,Not,Not,Very,Moderately,Extremely,Mail,Decided,not at all
+2135,Male,65 and over,yes,No,Yes,yes,yes,NDP,Yes,Undecided,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Don't know,Very,Moderately,Slightly,Moderately,Don't know,TV,Undecided,not at all
+2137,Male,18-24,yes,No,No,yes,yes,Green,Yes,NDP,Slightly,Not,Moderately,Moderately,Very,Moderately,Very,Not,Not,Not,Not,Moderately,Slightly,Online,Decided,not at all
+2141,Male,18-24,yes,No,No,yes,yes,NDP,Yes,Green,Not,Not,Very,Moderately,Moderately,Slightly,Moderately,Moderately,Slightly,Slightly,Extremely,Moderately,Moderately,Online,Decided,not at all
+2144,Female,45-54,yes,No,Yes,yes,no,Did not vote,Yes,NDP,Not,Moderately,Not,Moderately,Moderately,Very,Not,Not,Moderately,Moderately,Not,Moderately,Moderately,Online,Decided,not at all
+2147,Female,35-44,yes,Yes,Yes,yes,yes,NDP,Yes,Undecided,Slightly,Moderately,Slightly,Moderately,Moderately,Not,Extremely,Moderately,Not,Not,Not,Slightly,Moderately,Print,Undecided,not at all
+2148,Female,35-44,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Extremely,Moderately,Moderately,Very,Moderately,Moderately,Moderately,Not,Slightly,Not,Very,Moderately,Slightly,Online,Decided,a little
+2150,Female,35-44,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Extremely,Moderately,Don't know,Not,Slightly,Not,Slightly,Not,Moderately,Moderately,Don't know,Moderately,Moderately,Radio,Decided,not at all
+2152,Female,18-24,yes,No,No,yes,no,Did not vote,Yes,NDP,Don't know,Moderately,Slightly,Slightly,Moderately,Moderately,Not,Very,Moderately,Slightly,Moderately,Slightly,Moderately,Online,Decided,not at all
+2154,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Don't know,Not,Moderately,Very,Not,Moderately,Not,Don't know,Slightly,Not,Slightly,None,Decided,not at all
+2157,Male,65 and over,yes,Yes,Yes,yes,no,Did not vote,No,Don't plan to vote,Not,Moderately,Slightly,Not,Moderately,Moderately,Don't know,Very,Not,Don't know,Moderately,Moderately,Slightly,Mail,Decided,not at all
+2162,Female,35-44,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Slightly,Slightly,Very,Moderately,Extremely,Not,Don't know,Slightly,Moderately,Not,Slightly,Moderately,TV,Decided,not at all
+2164,Female,65 and over,yes,No,No,yes,yes,Conservative,Yes,Conservative,Moderately,Not,Moderately,Moderately,Moderately,Not,Not,Not,Not,Moderately,Not,Moderately,Moderately,Online,Decided,not at all
+2168,Male,55-64,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Very,Moderately,Don't know,Not,Moderately,Not,Not,Not,Don't know,Moderately,Not,Extremely,Slightly,Online,Decided,not at all
+2169,Male,65 and over,yes,No,No,yes,yes,Other/Prefer not to answer,Yes,Conservative,Not,Very,Don't know,Not,Very,Extremely,Extremely,Not,Very,Moderately,Moderately,Extremely,Slightly,Online,Decided,not at all
+2172,Male,35-44,yes,Yes,Yes,yes,yes,Green,Yes,Liberal,Very,Moderately,Very,Don't know,Don't know,Moderately,Slightly,Moderately,Not,Slightly,Moderately,Don't know,Very,TV,Decided,not at all
+2173,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Not,Slightly,Moderately,Moderately,Very,Moderately,Extremely,Very,Very,Slightly,Very,Moderately,TV,Decided,not at all
+2178,Male,35-44,yes,Yes,No,yes,yes,Green,Yes,NDP,Slightly,Not,Slightly,Moderately,Moderately,Don't know,Not,Moderately,Extremely,Moderately,Not,Moderately,Slightly,TV,Decided,not at all
+2181,Male,25-34,yes,Yes,Yes,yes,yes,Liberal,Yes,Green,Slightly,Moderately,Moderately,Very,Moderately,Moderately,Moderately,Moderately,Don't know,Not,Moderately,Moderately,Moderately,Online,Decided,somewhat
+2183,Female,45-54,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Very,Not,Don't know,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Not,Not,Moderately,Moderately,Signs/Billboards,Decided,not at all
+2185,Female,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Don't know,Extremely,Not,Moderately,Very,Moderately,Moderately,Extremely,Not,Moderately,Very,Signs/Billboards,Decided,not at all
+2188,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,NDP,Very,Not,Very,Moderately,Slightly,Slightly,Moderately,Not,Not,Not,Slightly,Moderately,Slightly,Online,Decided,not at all
+2189,Male,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Moderately,Not,Slightly,Very,Moderately,Moderately,Slightly,Slightly,Not,Not,Don't know,Moderately,Extremely,Online,Decided,not at all
+2201,Male,65 and over,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Not,Moderately,Slightly,Not,Moderately,Moderately,Extremely,Not,Extremely,Not,Moderately,Extremely,Moderately,Signs/Billboards,Decided,not at all
+2206,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Not,Extremely,Don't know,Very,Moderately,Moderately,Not,Not,Don't know,Not,Slightly,Extremely,Very,Signs/Billboards,Decided,not at all
+2207,Female,35-44,yes,No,Yes,yes,no,Did not vote,Yes,Liberal,Not,Very,Slightly,Very,Very,Extremely,Slightly,Not,Slightly,Moderately,Not,Moderately,Moderately,Online,Decided,not at all
+2208,Male,35-44,yes,Yes,No,yes,yes,Liberal,Yes,NDP,Moderately,Moderately,Don't know,Don't know,Moderately,Very,Slightly,Slightly,Extremely,Moderately,Don't know,Extremely,Slightly,Signs/Billboards,Decided,not at all
+2209,Male,65 and over,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Not,Not,Not,Not,Not,Slightly,Moderately,Moderately,TV,Decided,not at all
+2213,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Not,Moderately,Moderately,Moderately,Very,Moderately,Not,Moderately,Moderately,Moderately,Moderately,TV,Decided,somewhat
+2215,Female,65 and over,yes,No,No,yes,yes,NDP,Yes,Liberal,Moderately,Not,Slightly,Not,Moderately,Not,Slightly,Moderately,Not,Moderately,Moderately,Extremely,Moderately,Mail,Decided,not at all
+2219,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Don't know,Slightly,Not,Moderately,Not,Don't know,Not,Very,Moderately,Moderately,None,Decided,not at all
+2221,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Slightly,Moderately,Very,Extremely,Very,Not,Extremely,Slightly,Moderately,Moderately,Moderately,Very,TV,Decided,a great deal
+2223,Female,65 and over,yes,No,No,yes,yes,NDP,Yes,Undecided,Not,Not,Extremely,Moderately,Moderately,Slightly,Not,Moderately,Don't know,Moderately,Not,Extremely,Slightly,None,Undecided,not at all
+2224,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Slightly,Very,Not,Very,Not,Slightly,Moderately,Extremely,Not,Extremely,Moderately,TV,Decided,not at all
+2225,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Slightly,Very,Moderately,Slightly,Not,Slightly,Slightly,Very,Not,Moderately,Moderately,Online,Decided,not at all
+2227,Male,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Extremely,Slightly,Don't know,Extremely,Very,Don't know,Not,Extremely,Moderately,Moderately,Slightly,Moderately,Extremely,Online,Decided,not at all
+2228,Male,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Slightly,Not,Moderately,Moderately,Not,Not,Moderately,Slightly,Not,Moderately,Moderately,None,Decided,not at all
+2230,Male,55-64,yes,No,Yes,yes,yes,Green,Yes,Liberal,Not,Slightly,Slightly,Very,Moderately,Slightly,Slightly,Not,Slightly,Moderately,Slightly,Moderately,Very,Mail,Decided,not at all
+2233,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Slightly,Slightly,Extremely,Moderately,Extremely,Moderately,Slightly,Extremely,Slightly,Not,Moderately,Extremely,Signs/Billboards,Decided,not at all
+2234,Female,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Extremely,Don't know,Moderately,Slightly,Very,Not,Slightly,Moderately,Not,Moderately,Extremely,Moderately,Online,Decided,not at all
+2236,Female,45-54,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Slightly,Moderately,Moderately,Moderately,Slightly,Moderately,Not,Moderately,Not,Very,Moderately,Moderately,Moderately,Online,Decided,not at all
+2239,Male,65 and over,yes,No,Yes,yes,yes,Green,Yes,Liberal,Very,Moderately,Very,Moderately,Moderately,Not,Not,Don't know,Not,Not,Moderately,Moderately,Slightly,TV,Decided,not at all
+2241,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Moderately,Moderately,Very,Very,Moderately,Extremely,Moderately,Moderately,Not,Moderately,Moderately,Extremely,Slightly,Online,Decided,not at all
+2247,Male,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Extremely,Slightly,Slightly,Moderately,Extremely,Moderately,Slightly,Not,Slightly,Moderately,Very,Not,Online,Decided,not at all
+2251,Male,35-44,yes,Yes,No,yes,no,Did not vote,Yes,Liberal,Very,Moderately,Don't know,Very,Extremely,Moderately,Not,Not,Moderately,Not,Slightly,Moderately,Moderately,Online,Decided,not at all
+2253,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Moderately,Moderately,Extremely,Moderately,Extremely,Very,Not,Slightly,Moderately,Moderately,Moderately,Moderately,Mail,Decided,somewhat
+2254,Male,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Slightly,Slightly,Don't know,Moderately,Moderately,Not,Moderately,Moderately,Moderately,Not,Moderately,Extremely,Very,Online,Decided,not at all
+2255,Female,65 and over,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Not,Slightly,Moderately,Not,Moderately,Slightly,Extremely,Extremely,Online,Decided,not at all
+2260,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,NDP,Moderately,Extremely,Don't know,Extremely,Extremely,Very,Not,Not,Moderately,Slightly,Moderately,Extremely,Moderately,None,Decided,not at all
+2263,Female,18-24,yes,Yes,Prefer not to say,yes,yes,NDP,Yes,NDP,Slightly,Moderately,Extremely,Moderately,Not,Slightly,Slightly,Moderately,Slightly,Not,Not,Moderately,Moderately,Online,Decided,not at all
+2265,Female,55-64,yes,No,No,yes,yes,Conservative,Yes,Conservative,Not,Slightly,Moderately,Not,Moderately,Moderately,Don't know,Slightly,Slightly,Don't know,Moderately,Moderately,Moderately,None,Decided,not at all
+2268,Male,65 and over,yes,No,No,yes,yes,Conservative,Yes,Conservative,Very,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Not,Slightly,Moderately,Moderately,TV,Decided,not at all
+2271,Male,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Conservative,Extremely,Not,Moderately,Moderately,Moderately,Not,Not,Not,Moderately,Not,Not,Extremely,Moderately,Online,Decided,not at all
+2273,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,NDP,Slightly,Very,Not,Very,Extremely,Moderately,Not,Extremely,Not,Slightly,Moderately,Moderately,Slightly,TV,Decided,not at all
+2274,Female,45-54,yes,No,No,yes,yes,Conservative,Yes,Conservative,Slightly,Moderately,Moderately,Moderately,Extremely,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Moderately,Not,Online,Decided,a little
+2276,Female,18-24,yes,Yes,No,yes,idk,Did not vote,Yes,Liberal,Very,Slightly,Moderately,Moderately,Moderately,Slightly,Very,Slightly,Slightly,Slightly,Extremely,Moderately,Moderately,Online,Decided,not at all
+2278,Female,45-54,yes,Yes,No,yes,yes,Conservative,Yes,NDP,Don't know,Not,Extremely,Extremely,Moderately,Very,Not,Not,Not,Very,Not,Moderately,Extremely,Online,Decided,not at all
+2281,Male,65 and over,yes,Yes,Yes,yes,yes,Conservative,Yes,Conservative,Slightly,Don't know,Don't know,Extremely,Moderately,Moderately,Not,Not,Moderately,Not,Very,Moderately,Moderately,Signs/Billboards,Decided,not at all
+2283,Female,25-34,yes,No,No,yes,yes,NDP,Yes,NDP,Extremely,Moderately,Don't know,Very,Moderately,Slightly,Extremely,Not,Slightly,Extremely,Not,Very,Moderately,TV,Decided,not at all
+2288,Female,45-54,yes,No,No,yes,yes,Conservative,Yes,Liberal,Slightly,Not,Extremely,Moderately,Moderately,Extremely,Moderately,Not,Not,Slightly,Not,Moderately,Moderately,TV,Decided,not at all
+2291,Male,25-34,yes,No,Yes,yes,no,Did not vote,Yes,Liberal,Extremely,Very,Slightly,Not,Extremely,Moderately,Not,Moderately,Moderately,Not,Moderately,Extremely,Moderately,Print,Decided,not at all
+2297,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,NDP,Moderately,Slightly,Slightly,Very,Slightly,Moderately,Not,Not,Moderately,Moderately,Not,Extremely,Extremely,TV,Decided,not at all
+2300,Male,55-64,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Slightly,Very,Moderately,Moderately,Slightly,Very,Slightly,Don't know,Not,Very,Extremely,Moderately,Signs/Billboards,Decided,not at all
+2306,Male,55-64,yes,Yes,No,yes,yes,Liberal,Yes,Undecided,Not,Moderately,Very,Moderately,Slightly,Moderately,Slightly,Very,Slightly,Slightly,Moderately,Moderately,Moderately,TV,Undecided,not at all
+2307,Male,45-54,yes,No,No,yes,idk,Did not vote,Yes,Undecided,Not,Not,Moderately,Extremely,Moderately,Moderately,Moderately,Moderately,Not,Very,Not,Extremely,Extremely,Online,Undecided,not at all
+2309,Male,25-34,yes,No,Prefer not to say,yes,yes,NDP,Yes,Conservative,Extremely,Not,Extremely,Extremely,Moderately,Moderately,Don't know,Not,Moderately,Moderately,Not,Extremely,Slightly,TV,Decided,not at all
+2310,Female,55-64,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Extremely,Not,Slightly,Moderately,Moderately,Slightly,Slightly,Not,Not,Slightly,Moderately,Moderately,TV,Decided,not at all
+2311,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Conservative,Very,Not,Slightly,Moderately,Extremely,Moderately,Moderately,Not,Not,Not,Not,Very,Slightly,Online,Decided,not at all
+2312,Female,18-24,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Extremely,Slightly,Moderately,Moderately,Moderately,Moderately,Very,Extremely,Not,Moderately,Not,Very,Moderately,Mail,Decided,not at all
+2315,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Extremely,Very,Extremely,Moderately,Not,Moderately,Not,Very,Slightly,Moderately,Slightly,Online,Decided,not at all
+2317,Male,18-24,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Very,Moderately,Very,Very,Slightly,Very,Not,Not,Moderately,Slightly,Not,Extremely,Moderately,Print,Decided,not at all
+2320,Female,45-54,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Not,Very,Slightly,Moderately,Moderately,Moderately,Not,Moderately,Slightly,Moderately,Not,Extremely,Very,Online,Decided,not at all
+2326,Male,35-44,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Not,Very,Moderately,Moderately,Moderately,Slightly,Moderately,Extremely,Slightly,Moderately,Slightly,Extremely,Slightly,Online,Decided,not at all
+2331,Female,18-24,yes,No,No,yes,yes,NDP,Yes,NDP,Slightly,Not,Moderately,Moderately,Slightly,Moderately,Not,Not,Moderately,Not,Moderately,Moderately,Moderately,Online,Decided,not at all
+2332,Female,25-34,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Moderately,Slightly,Very,Moderately,Moderately,Not,Not,Very,Not,Not,Extremely,Moderately,Online,Decided,not at all
+2334,Female,65 and over,yes,No,No,yes,yes,Liberal,Don't know,Liberal,Very,Not,Don't know,Very,Moderately,Moderately,Not,Don't know,Slightly,Slightly,Moderately,Extremely,Moderately,Online,Decided,not at all
+2337,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,NDP,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Not,Slightly,Not,Not,Moderately,Moderately,Online,Decided,not at all
+2338,Female,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Very,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Moderately,Extremely,TV,Decided,not at all
+2340,Female,25-34,yes,Yes,Prefer not to say,yes,yes,Liberal,Yes,Conservative,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Slightly,Slightly,Slightly,Slightly,Slightly,Moderately,Slightly,Online,Decided,not at all
+2343,Male,35-44,yes,Yes,Yes,yes,yes,Liberal,Yes,Conservative,Not,Moderately,Moderately,Slightly,Slightly,Moderately,Not,Not,Not,Moderately,Not,Moderately,Slightly,None,Decided,not at all
+2347,Male,65 and over,yes,Prefer not to say,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Very,Moderately,Moderately,Extremely,Moderately,Not,Don't know,Not,Moderately,Moderately,TV,Decided,not at all
+2348,Male,35-44,yes,Prefer not to say,Yes,yes,yes,NDP,Yes,Liberal,Not,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Slightly,Slightly,Moderately,Moderately,Extremely,Very,Print,Decided,not at all
+2351,Female,45-54,yes,No,No,yes,no,Did not vote,Yes,NDP,Slightly,Not,Don't know,Very,Slightly,Not,Slightly,Moderately,Not,Very,Slightly,Moderately,Slightly,None,Decided,not at all
+2360,Female,65 and over,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Moderately,Very,Moderately,Extremely,Don't know,Not,Very,Not,Slightly,Moderately,Slightly,Online,Decided,a little
+2361,Male,25-34,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Extremely,Not,Extremely,Moderately,Extremely,Not,Slightly,Moderately,Slightly,Not,Moderately,Extremely,Moderately,Online,Decided,not at all
+2363,Male,65 and over,yes,Yes,No,yes,no,Did not vote,No,Don't plan to vote,Not,Not,Moderately,Very,Very,Moderately,Not,Not,Not,Moderately,Extremely,Extremely,Not,Online,Decided,not at all
+2365,Female,45-54,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Extremely,Moderately,Slightly,Moderately,Don't know,Moderately,Not,Moderately,Very,Moderately,Not,Moderately,Extremely,TV,Decided,not at all
+2366,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Undecided,Not,Slightly,Moderately,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Not,Moderately,Slightly,Online,Undecided,not at all
+2371,Female,18-24,yes,No,No,yes,yes,NDP,Don't know,NDP,Not,Not,Don't know,Very,Extremely,Moderately,Slightly,Not,Very,Moderately,Moderately,Moderately,Extremely,Online,Decided,not at all
+2374,Male,55-64,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Not,Very,Moderately,Not,Moderately,Moderately,Moderately,Moderately,Moderately,Not,Don't know,Very,None,Decided,not at all
+2380,Female,25-34,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Slightly,Not,Don't know,Don't know,Moderately,Very,Slightly,Not,Moderately,Not,Not,Slightly,Moderately,Print,Decided,not at all
+2382,Female,45-54,yes,No,No,yes,yes,NDP,Yes,Liberal,Slightly,Slightly,Slightly,Extremely,Moderately,Not,Moderately,Moderately,Not,Slightly,Moderately,Extremely,Moderately,Online,Decided,not at all
+2386,Male,35-44,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Don't know,Very,Moderately,Not,Moderately,Moderately,Not,Moderately,Not,Moderately,Extremely,TV,Decided,not at all
+2388,Female,25-34,yes,No,No,yes,yes,Green,Yes,NDP,Slightly,Not,Slightly,Slightly,Extremely,Not,Not,Moderately,Not,Slightly,Slightly,Moderately,Extremely,Online,Decided,not at all
+2389,Male,18-24,yes,No,Yes,yes,yes,Conservative,Yes,Liberal,Not,Moderately,Slightly,Not,Moderately,Moderately,Extremely,Not,Slightly,Not,Not,Extremely,Slightly,Online,Decided,not at all
+2390,Male,18-24,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Not,Slightly,Extremely,Moderately,Moderately,Don't know,Not,Moderately,Slightly,Slightly,Moderately,Moderately,Online,Decided,not at all
+2391,Female,45-54,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Not,Not,Slightly,Not,Moderately,Not,Not,Very,Not,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+2394,Female,45-54,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Not,Extremely,Moderately,Don't know,Moderately,Very,Not,Extremely,Moderately,Extremely,Not,Very,Moderately,Online,Decided,not at all
+2397,Female,55-64,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Slightly,Moderately,Moderately,Not,Moderately,Moderately,Not,Moderately,Slightly,Not,Moderately,Extremely,Slightly,Online,Decided,not at all
+2402,Female,65 and over,yes,Yes,Yes,yes,yes,Liberal,Yes,NDP,Not,Slightly,Moderately,Moderately,Very,Moderately,Not,Very,Very,Moderately,Not,Moderately,Moderately,TV,Decided,not at all
+2405,Female,25-34,yes,No,No,yes,yes,Liberal,Yes,Conservative,Extremely,Not,Don't know,Not,Extremely,Not,Very,Moderately,Very,Slightly,Slightly,Moderately,Moderately,TV,Decided,not at all
+2406,Female,65 and over,yes,No,No,yes,yes,Conservative,Yes,Liberal,Moderately,Not,Slightly,Very,Moderately,Extremely,Not,Slightly,Moderately,Slightly,Not,Moderately,Very,TV,Decided,not at all
+2410,Female,18-24,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Not,Moderately,Very,Moderately,Very,Not,Not,Not,Moderately,Slightly,Moderately,Moderately,Online,Decided,not at all
+2414,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Green,Extremely,Moderately,Don't know,Moderately,Moderately,Not,Extremely,Slightly,Moderately,Moderately,Moderately,Extremely,Moderately,Online,Decided,not at all
+2420,Male,65 and over,yes,No,No,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Moderately,Moderately,Slightly,Moderately,Moderately,Slightly,Not,Slightly,Slightly,Extremely,Slightly,Print,Decided,not at all
+2422,Male,45-54,yes,No,No,yes,yes,Conservative,Yes,Liberal,Extremely,Extremely,Moderately,Moderately,Moderately,Moderately,Slightly,Very,Not,Not,Extremely,Very,Moderately,None,Decided,not at all
+2429,Male,35-44,yes,Yes,No,yes,yes,Conservative,Yes,Liberal,Not,Slightly,Slightly,Moderately,Moderately,Slightly,Not,Extremely,Not,Extremely,Moderately,Moderately,Moderately,Online,Decided,not at all
+2435,Female,45-54,yes,Yes,Yes,yes,yes,Green,Yes,NDP,Not,Moderately,Slightly,Extremely,Moderately,Moderately,Not,Very,Not,Not,Moderately,Moderately,Extremely,Online,Decided,not at all
+2440,Male,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Very,Slightly,Moderately,Moderately,Moderately,Moderately,Moderately,Very,Slightly,Moderately,Not,Not,Slightly,TV,Decided,not at all
+2441,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Conservative,Slightly,Slightly,Extremely,Moderately,Extremely,Moderately,Not,Not,Moderately,Slightly,Not,Moderately,Slightly,Online,Decided,not at all
+2442,Female,35-44,yes,No,No,yes,no,Did not vote,Yes,Conservative,Slightly,Not,Slightly,Not,Moderately,Not,Extremely,Moderately,Extremely,Moderately,Moderately,Moderately,Extremely,Signs/Billboards,Decided,not at all
+2443,Female,35-44,yes,Yes,No,yes,yes,Liberal,Yes,Liberal,Very,Moderately,Not,Moderately,Moderately,Not,Slightly,Slightly,Moderately,Not,Not,Moderately,Slightly,TV,Decided,somewhat
+2447,Male,25-34,yes,No,No,yes,yes,Liberal,Yes,Liberal,Very,Don't know,Moderately,Moderately,Extremely,Moderately,Not,Moderately,Slightly,Not,Moderately,Very,Slightly,Online,Decided,not at all
+2449,Female,65 and over,yes,Yes,No,yes,yes,NDP,Don't know,Liberal,Not,Not,Don't know,Moderately,Moderately,Moderately,Slightly,Not,Moderately,Very,Not,Very,Slightly,Online,Decided,not at all
+2452,Male,18-24,yes,No,No,yes,yes,NDP,Yes,NDP,Not,Moderately,Very,Don't know,Moderately,Slightly,Extremely,Not,Slightly,Slightly,Moderately,Extremely,Extremely,TV,Decided,not at all
+2453,Female,45-54,yes,No,No,yes,yes,Liberal,Don't know,NDP,Not,Don't know,Moderately,Not,Moderately,Moderately,Extremely,Very,Very,Very,Moderately,Very,Extremely,Signs/Billboards,Decided,not at all
+2454,Female,55-64,yes,No,No,yes,yes,Green,Yes,Liberal,Slightly,Moderately,Moderately,Moderately,Moderately,Extremely,Not,Moderately,Not,Not,Moderately,Very,Not,TV,Decided,not at all
+2455,Female,35-44,yes,No,Yes,yes,yes,NDP,Yes,NDP,Slightly,Not,Extremely,Moderately,Not,Extremely,Slightly,Moderately,Not,Not,Slightly,Moderately,Slightly,None,Decided,a little
+2458,Male,45-54,yes,No,No,yes,yes,Liberal,Yes,Undecided,Slightly,Not,Very,Slightly,Extremely,Moderately,Moderately,Slightly,Slightly,Moderately,Not,Not,Very,None,Undecided,not at all
+2461,Male,55-64,yes,No,Yes,yes,yes,Liberal,Yes,NDP,Not,Slightly,Very,Slightly,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Slightly,Moderately,Moderately,Print,Decided,not at all
+2462,Female,45-54,yes,No,No,yes,yes,Liberal,Yes,Conservative,Not,Not,Moderately,Moderately,Moderately,Extremely,Not,Moderately,Not,Not,Not,Not,Slightly,Mail,Decided,not at all
+2463,Female,55-64,yes,Yes,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Moderately,Moderately,Moderately,Extremely,Very,Moderately,Not,Moderately,Slightly,Slightly,Moderately,Slightly,Mail,Decided,not at all
+2464,Male,25-34,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Don't know,Slightly,Don't know,Moderately,Moderately,Extremely,Not,Moderately,Not,Not,Don't know,Extremely,Very,TV,Decided,not at all
+2465,Female,25-34,yes,Yes,Yes,yes,yes,Other/Prefer not to answer,Yes,NDP,Not,Not,Moderately,Moderately,Moderately,Moderately,Not,Moderately,Not,Not,Don't know,Extremely,Very,None,Decided,not at all
+2467,Male,65 and over,yes,No,No,yes,yes,NDP,Yes,Liberal,Not,Moderately,Slightly,Moderately,Moderately,Not,Slightly,Slightly,Moderately,Not,Slightly,Extremely,Extremely,Signs/Billboards,Decided,not at all
+2468,Female,35-44,yes,Yes,No,yes,yes,Other/Prefer not to answer,Yes,Conservative,Moderately,Extremely,Moderately,Extremely,Moderately,Very,Not,Very,Extremely,Not,Not,Extremely,Don't know,Signs/Billboards,Decided,not at all
+2469,Female,25-34,yes,No,Yes,yes,yes,NDP,Yes,Liberal,Very,Slightly,Extremely,Don't know,Moderately,Not,Moderately,Slightly,Don't know,Moderately,Moderately,Not,Slightly,TV,Decided,not at all
+2471,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Undecided,Slightly,Not,Moderately,Moderately,Moderately,Very,Don't know,Don't know,Not,Moderately,Not,Moderately,Moderately,Online,Undecided,not at all
+2473,Female,35-44,yes,No,No,yes,yes,Liberal,Yes,Liberal,Slightly,Not,Moderately,Moderately,Not,Moderately,Very,Don't know,Not,Moderately,Moderately,Moderately,Slightly,None,Decided,not at all
+2474,Female,45-54,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Very,Not,Moderately,Very,Moderately,Moderately,Not,Slightly,Not,Moderately,Very,Extremely,Very,Online,Decided,not at all
+2475,Female,55-64,yes,Yes,Yes,yes,yes,Conservative,Yes,Green,Slightly,Moderately,Don't know,Moderately,Moderately,Extremely,Moderately,Not,Not,Not,Slightly,Moderately,Very,Online,Decided,a lot
+2482,Female,35-44,yes,No,No,yes,yes,Conservative,Yes,Liberal,Not,Moderately,Slightly,Extremely,Extremely,Moderately,Not,Moderately,Moderately,Slightly,Not,Don't know,Moderately,TV,Decided,not at all
+2484,Female,55-64,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Very,Slightly,Slightly,Moderately,Very,Very,Extremely,Moderately,Moderately,Not,Slightly,Moderately,Slightly,Online,Decided,not at all
+2485,Female,65 and over,yes,No,No,yes,yes,NDP,Yes,Undecided,Slightly,Not,Moderately,Moderately,Moderately,Moderately,Not,Not,Not,Not,Moderately,Moderately,Moderately,Mail,Undecided,not at all
+2489,Male,45-54,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Not,Moderately,Moderately,Extremely,Moderately,Slightly,Slightly,Slightly,Slightly,Moderately,Not,Moderately,Moderately,Online,Decided,not at all
+2490,Female,65 and over,yes,No,Yes,yes,idk,Did not vote,No,Don't plan to vote,Slightly,Not,Moderately,Not,Moderately,Not,Slightly,Not,Moderately,Not,Not,Extremely,Not,TV,Decided,not at all
+2493,Female,65 and over,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Don't know,Very,Slightly,Moderately,Moderately,Moderately,Not,Slightly,Moderately,Not,Moderately,Very,Signs/Billboards,Decided,not at all
+2494,Male,65 and over,yes,Yes,No,yes,yes,Liberal,Yes,Undecided,Slightly,Moderately,Moderately,Extremely,Moderately,Don't know,Moderately,Slightly,Moderately,Not,Moderately,Extremely,Extremely,TV,Undecided,not at all
+2495,Male,55-64,yes,No,Yes,yes,yes,Liberal,Yes,Liberal,Slightly,Very,Not,Not,Extremely,Moderately,Slightly,Extremely,Not,Moderately,Not,Moderately,Slightly,Online,Decided,not at all
+2497,Female,55-64,yes,Yes,Yes,yes,yes,NDP,Yes,NDP,Not,Not,Moderately,Slightly,Moderately,Don't know,Moderately,Not,Not,Slightly,Slightly,Not,Moderately,Print,Decided,not at all
+2498,Female,65 and over,yes,No,Yes,yes,yes,NDP,Yes,Conservative,Slightly,Moderately,Very,Moderately,Moderately,Very,Moderately,Moderately,Not,Not,Not,Very,Moderately,TV,Decided,not at all
+2499,Female,65 and over,yes,Yes,No,yes,yes,NDP,Yes,Liberal,Extremely,Moderately,Not,Very,Slightly,Moderately,Slightly,Not,Very,Moderately,Moderately,Moderately,Moderately,None,Decided,not at all
+2500,Male,55-64,yes,No,No,yes,no,Did not vote,No,Don't plan to vote,Slightly,Not,Moderately,Slightly,Moderately,Extremely,Not,Not,Don't know,Moderately,Moderately,Moderately,Slightly,Online,Decided,not at all
