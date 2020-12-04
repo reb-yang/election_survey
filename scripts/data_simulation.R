@@ -12,9 +12,10 @@ age_group <- sample(c("under 18", "18-24", "25-34", "35-44", "45-54", "55-64", "
 immigrant<- sample(c("Yes", "No", "Prefer not to say"), size = n, prob = c(0.33, 0.66, 0.01), replace = TRUE)
 vismin<- sample(c("Yes", "No", "Prefer not to say"), size = n, prob = c(0.35, 0.64, 0.01), replace = TRUE)
 responded <- sample(c("yes", "no"), prob = c(0.40, 0.60), size = n, replace = TRUE)
+citizen <- sample(c("yes", "no"), prob = c(0.80, 0.20), size = n, replace = TRUE)
 
 survey_data <- data.frame(ID, gender, age_group, citizen, vismin, immigrant, responded)
-write_csv(survey_data, "survey_data.csv")
+
 survey_data <- survey_data %>% filter(responded == "yes") # simulating non response
 
 voter_data <- survey_data %>% filter(age_group != "under 18") %>% filter(citizen == "yes") 
@@ -85,7 +86,6 @@ voter_data <- voter_data %>%
                   sample(c("not at all", "a little", "somewhat", "a lot", "a great deal"), 
                          prob = c(0.89, 0.05, 0.03, 0.01, 0.01),size = decided_n, replace = TRUE)))
 
-write_csv(voter_data, "voter_data.csv")
 
 # Citations - numbers used for simulation loosely based on 2016 Census and Angus Reid polls
 # - Statistics Canada. 2017. University--Rosedale [Federal electoral district], Ontario and Ontario [Province] (table). Census Profile. 2016 Census. Statistics Canada Catalogue no. 98-316-X2016001. Ottawa. Released November 29, 2017.

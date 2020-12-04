@@ -1,6 +1,6 @@
 ---
-title: "O Canada: Polling Report for University-Rosedale "
-subtitle: "September 2020 Update"
+title: "O Canada: Liberals Maintain Lead in University-Rosedale "
+subtitle: "September 2020 Polling Report for University-Rosedale"
 header-includes:
   - \usepackage[default]{sourcesanspro}
   - \usepackage[T1]{fontenc}
@@ -9,7 +9,7 @@ header-includes:
   - \usepackage{float}
   - \floatplacement{figure}{H} 
 mainfont: SourceSansPro
-author: "By Rebecca Yang for Petit Poll"
+author: "By Rebecca Yang"
 date: "October 8, 2020"
 output: pdf_document
 ---
@@ -20,7 +20,9 @@ library(tidyverse)
 library(dplyr)
 library(rcartocolor)
 library(knitr)
+library(here)
 library(kableExtra)
+source(here("scripts/data_simulation.R"))
 ```
 
 ## Executive Summary
@@ -32,17 +34,17 @@ The survey detailed in this report was carried out on behalf of the Liberal Part
 3. To investigate the efficacy of campaign advertisements 
 
 ```{r map, out.width=".5\\linewidth", fig.align="center", echo = FALSE, fig.cap = "Map of the University-Rosedale Riding (Elections Canada)"}
-include_graphics('UniversityRosedale.jpg')
+include_graphics(here('inputs/UniversityRosedale.jpg'))
 ```
-A sample of 2500 people was randomly selected to participate in the survey. They were selected from the Canada Post address database and mailed an addressed card inviting them to fill out the survey via either a web link or QR code. The survey asked respondents about which party the respondent would currently vote for, their intentions to vote, the issues most important to them and their satisfaction with these issues, and their experiences with campaign advertisements. 
+A sample of 2500 people was randomly selected to participate in the survey^[Data was simulated for the purposes of this report]. They were selected from the Canada Post address database and mailed an addressed card inviting them to fill out the survey via either a web link or QR code. The survey asked respondents about which party the respondent would currently vote for, their intentions to vote, the issues most important to them and their satisfaction with these issues, and their experiences with campaign advertisements. 
 
-From the 1057 responses collected over the course of a week, 864 of them were eligible voters who planned to vote in the next election. The survey found that the Liberal Party maintains its strong lead from the previous election in the riding. The Liberals had an extremely generous lead, with 44% of respondents expressing their support, compared to 20% and 18% for their main competitors, the Conservatives and the New Democratic Party, respectively. This lead remained even when accounting for potential margins of error for the estimates, which were accurate to 3.3 percentage points, 19 times out of 20. The top 5 most important issues identified were, in order of importance, as follows:
+From the 1057 responses collected over the course of a week, 831 of them were eligible voters who planned to vote in the next election. The survey found that the Liberal Party maintains its strong lead from the previous election in the riding. The Liberals had an extremely generous lead, with 43% of respondents expressing their support, compared to 20% and 19% for their main competitors, the Conservatives and the New Democratic Party, respectively. This lead remained even when accounting for potential margins of error for the estimates, which were accurate to 3.4 percentage points, 19 times out of 20. The top 5 most important issues identified were, in order of importance, as follows:
 
-1. The COVID-19 pandemic (39%)
-2. Climate (29%)
-3. Housing (26%)
-4. Government debt (26%)
-5. Health care (23%)
+1. The COVID-19 pandemic (40%)
+2. Climate (27%)
+3. Government debt (24%)
+4. Health care (24%)
+5. Housing (24%)
 
 While voters expressed satisfaction with the government's current handling of COVID-19, they expressed much higher levels of dissatisfaction with the handling of debt and climate issues. The primary source of exposure to campaign ads was identified as online, but they were found to be largely ineffective at influencing vote choices. However, they did have slightly more influence over undecided voters. 
 
@@ -56,8 +58,7 @@ Despite the convincing lead the Liberals have in University-Rosedale, the party 
 
 Due to the fact that the current Liberal government holds a minority in the House of Commons, speculation has been rampant in recent weeks about the possibility of a federal election being held in the fall (Angus Reid, 2020). With this looming possibility, the Liberal party must be prepared to defend their seats in their ridings. University-Rosedale is a particularly notable riding to retain, as it is the riding of the current deputy prime minister and finance minister, Chrystia Freeland. This survey found that the Liberals have a strong lead, commanding 44% of voters' support, more than that of their two main rivals, the New Democratic Party and the Conservatives, combined. 
 
-But in order to maintain their favor with voters, the issues that voters care about the most have to be prioritized. 
-In spite of their lead, an overwhelming majority of respondents expressed dissatisfaction with the current government's handling of the issues most important them, such as climate change, debt, housing, and health care. It was also of interest to see which modes of advertising reach the most voters, but also whether or not they are actually influencing vote choices. Campaign and political advertising has been pushed to the forefront of conversation in recent years, especially in the wake of the last US election and Cambridge Analytica data scandal. It was found found that while online and television ads have the furthest reach, voters are largely unaffected by them. Over 90% of decided voters said that they had no effect on their choice, with this number being slightly lower for undecided voters. 
+But in order to maintain their favor with voters, the issues that voters care about the most have to be prioritized. In spite of their lead, an overwhelming majority of respondents expressed dissatisfaction with the current government's handling of the issues most important them, such as climate change, debt, housing, and health care. It was also of interest to see which modes of advertising reach the most voters, but also whether or not they are actually influencing vote choices. Campaign and political advertising has been pushed to the forefront of conversation in recent years, especially in the wake of the last US election and Cambridge Analytica data scandal. It was found found that while online and television ads have the furthest reach, voters are largely unaffected by them. Over 90% of decided voters said that they had no effect on their choice, with this number being slightly lower for undecided voters. 
 
 Some potential limitations of these results should be taken into consideration. Less than half of the people sampled actually responded to the survey, so it's possible that the sample is not wholly representative. In addition, different types people, such as more politically engaged people, may have been more likely to respond. In subsequent surveys, steps could be taken to encourage responses, such as sending reminders to people. Additionally, some of the respondents selected were not eligible voters and thus not in the population of interest; being able to draw upon the National Register of Electors would greatly aid in obtaining a representative sample. A future survey to regarding the implementation of specific policies could be useful to help the party make decisions that will help curry favor with their electorate and maintain their strong position in University-Rosedale. 
 
@@ -94,8 +95,6 @@ No personally identifying information from respondents was collected; the Qualtr
 ## Results and Discussion
 
 ```{r}
-survey_data <- read_csv("survey_data.csv") #loading data
-voter_data <- read_csv("voter_data.csv")
 mycols <- carto_pal(10, "Prism") # my cool colors
 n_responded <- nrow(survey_data %>% filter(responded == "yes")) # number of respondents 
 n_voter <- nrow(voter_data) # eligible voters  
@@ -119,7 +118,7 @@ colnames(plan_to_vote) <- c("Response", "Number of Responses", "Proportion")
 
 ```
 
-The survey received 1057 responses, of which 864 identified themselves as eligible voters (Canadian citizens aged 18 and older). Of these 846, 806 said they were planning to vote in the next election. 
+The survey received 1057 responses, of which 831 identified themselves as eligible voters (Canadian citizens aged 18 and older). Of these 831, 806 said they were planning to vote in the next election. 
 
 ```{r}
 plan_to_vote %>% kbl(caption = "Respondents Planning to Vote", align = c("lr")) %>%  kable_styling(bootstrap_options = c("condensed", "striped")) %>% kable_styling(latex_options = "HOLD_position")
@@ -132,7 +131,7 @@ table %>% kbl(caption = "Respondent Sample Demographics", align = c("lr")) %>% p
 
 ```
 
-The main question of interest was which party voters would support if an election were to be held today. Because the simple random sampling method was employed, this allows confidence intervals for the proportion of voters for each party to be constructed. While the samples provide sound estimates for the population, they might not be exactly the same as the actual percentage of votes each party would get. The error bars on the graph above represent a range of values in which there is **at least** 95% confidence that they contain the actual percentage. The margin of error for the estimates is approximately 3.3%, 19 times out of 20 (See appendix for more details). Nonetheless, it can be seen that even when this potential error is taken into consideration, the other parties still do not come close to touching the Liberals' lead. 
+The main question of interest was which party voters would support if an election were to be held today. Because the simple random sampling method was employed, this allows confidence intervals for the proportion of voters for each party to be constructed. While the samples provide sound estimates for the population, they might not be exactly the same as the actual percentage of votes each party would get. The error bars on the graph above represent a range of values in which there is **at least** 95% confidence that they contain the actual percentage. The margin of error for the estimates is approximately 3.4%, 19 times out of 20 (See appendix for more details). Nonetheless, it can be seen that even when this potential error is taken into consideration, the other parties still do not come close to touching the Liberals' lead. 
 
 
 ```{r, out.width = "60%", fig.align = "center", fig.cap = "Liberal Party has strong lead in University-Rosedale", message = FALSE, warning = FALSE}
@@ -158,7 +157,7 @@ party_votes %>% ggplot(aes(y=reorder(likely_party, prop), x = prop)) + geom_bar(
 
 voter_data %>% group_by(past_vote) %>% count() %>% mutate(prop = 100*n/n_voter) %>% ggplot(aes(y=reorder(past_vote, prop), x = prop)) + geom_bar(stat = "identity", fill = mycols[1:6]) + labs(y="Party", x = "Percentage of Respondents (%)", title = "Who Did You Vote for in the Last Election?") + theme_minimal()  + theme(plot.title = element_text(hjust = 0.5), panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95"),panel.grid.minor = element_blank())   + geom_text(aes(label = paste(round(prop), "%", sep = ""), hjust = -.2)) + scale_x_continuous(limits = c(0,60))
 ```
-However, despite this strong showing, perhaps there is something for the Liberals to be concerned with. Of these same respondents, when asked who they voted for in the last federal election, 46% of them said the Liberal party, compared to 44% who said they would vote for them if an election were to be held today. It appears that previous Liberal voters in 2019 are now pitching their tents in other camps, or uncertain of whether or not they want to continue supporting the Liberals.
+However, despite this strong showing, perhaps there is something for the Liberals to be concerned with. Of these same respondents, when asked who they voted for in the last federal election, 47% of them said the Liberal party, compared to 43% who said they would vote for them if an election were to be held today. It appears that previous Liberal voters in 2019 are now pitching their tents in other camps, or uncertain of whether or not they want to continue supporting the Liberals.
 
 While small, these departures are certainly cause for concern. To get to the root of this, the issues important to voters can perhaps provide some insight. Respondents were asked to rate the importance of the following thirteen issues as "Extremely", "Very", "Moderately, "Slightly", or "Not" important: health care, education, the COVID19 pandemic, government debt, unemployment, taxes, racial issues, seniors issues, childcare, indigenous issues, immigration, housing, and climate change. 
 
@@ -179,7 +178,7 @@ issues_top5 <- important_props[order(important_props$prop_important, decreasing 
 issues_top5 %>% ggplot(aes(x = prop_important, y = reorder(name, prop_important))) + geom_bar(stat = "identity", fill = mycols[1:5]) + theme_minimal() + labs(x = "Percentage of Respondents (%)", y = "Issues", title = "Top 5 Most Important Issues to Voters" ) + theme(plot.title = element_text(hjust = 0.5), panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95"), panel.grid.minor = element_blank()) + geom_text(aes(label = paste(round(prop_important), "%", sep = ""), hjust = -0.3), size = 4) + scale_x_continuous(limits = c(0,50))
 
 ```
-In the wake of the COVID-19 pandemic that has dominated global headlines for the better part of the last year, it is unsurprising that it is the issue deemed most important by voters, with 39% of them identifying it as "Very" or "Extremely" important. It was followed closely by climate with 29%, which coincides with the surge in climate change activism and of Greta Thunberg. The affordability of housing, which has been a looming issue in Toronto, was echoed by 26% of voters. Debt was the fourth most important issues, with 26% as well.  Rounding out the top 5, in conjunction with COVID-19, health care was important to 23% of voters.
+In the wake of the COVID-19 pandemic that has dominated global headlines for the better part of the last year, it is unsurprising that it is the issue deemed most important by voters, with 40% of them identifying it as "Very" or "Extremely" important. It was followed closely by climate with 27%, which coincides with the surge in climate change activism and of Greta Thunberg. Debt was the third most important issues, with 24%. In conjunction with COVID-19, health care was important to 24% of voters as well.Rounding out the top 5, the affordability of housing, which has been a looming issue in Toronto, was echoed by 24% of voters. 
 
 
 ```{r, include = FALSE}
@@ -204,7 +203,7 @@ satisfied_issues %>% filter(satisfied != "NA", satisfied != "Neither") %>% mutat
 
 
 ```
-It appears the importance of these issues was a function of voters' dissatisfaction with the government's current handling of them. The overwhelming majority expressed dissatisfaction with the government's actions on their debt, with a whopping 77% of respondents. Seventy percent (68%) of voters were dissatisfied with the current state of climate change action. On a slightly more positive note, 65% of voters were satisfied with the government's response to the COVID19 pandemic. As the most important issue to voters, this bodes well for the Liberal party. 
+It appears the importance of these issues was a function of voters' dissatisfaction with the government's current handling of them. The overwhelming majority expressed dissatisfaction with the government's actions on their debt, with a whopping 87% of respondents. Sixty-one percent (61%) of voters were dissatisfied with the current state of climate change action. Housing was also a highly contentious issue, with 75% expressing dissatisfaction. On a slightly more positive note, 62% of voters were satisfied with the government's response to the COVID19 pandemic. As the most important issue to voters, this bodes well for the Liberal party. 
 
 Finally, what is the best way for the Liberal party to reach the electorate? 
 
@@ -214,7 +213,7 @@ Finally, what is the best way for the Liberal party to reach the electorate?
 
 voter_data %>% group_by(ads) %>%  summarise(prop = 100*n()/n_voter) %>% ggplot(aes(x = prop, y = reorder(ads, prop))) + geom_bar(stat = "identity", fill = mycols[1:7]) + geom_text(aes(label = paste(round(prop), "%", sep = ""), hjust = -0.2)) + theme_minimal() + scale_x_continuous(limits = c(0, 45)) + labs(x = "Percentage of Voters (%)", y = "Type of Ad", title = "Which Ads Reach Voters the Most?") + theme(plot.title = element_text(hjust = 0.5), panel.background = element_rect(fill = "grey90", color = "grey90"), plot.background = element_rect(fill = "grey95", color = "grey95"), panel.grid.minor = element_blank())
 ```
-In the digital age, online ads unsurprisingly reached the largest audience, followed by television ads, which had a little more than half the reach. While people may be seeing these ads, are they really doing anything to influence voters? Among decided voters (voters who identified a party they would vote for today), 94% responded that they had little to no effect on their decision. For undecided voters, they were a little more subject to influence, with 17% responding that ads carried some to a lot of influence. These results are largely consistent with multiple studies done about the efficacy of campaign ads in the US (Mercier, 2020). It found that ads had no affect whatsoever in the general election, where people are committed to a party. But, they did have more sway in primary elections, where the candidates are all of the same party and less known to the voters. The Canadian context bears more similarities to the former situation, as voters are voting for a party, and the leader of that party is decided internally. 
+In the digital age, online ads unsurprisingly reached the largest audience, followed by television ads, which had a little more than half the reach. While people may be seeing these ads, are they really doing anything to influence voters? Among decided voters (voters who identified a party they would vote for today), 88% responded that they had little to no effect on their decision. For undecided voters, they were a little more subject to influence, with 18% responding that ads carried some to a lot of influence. These results are largely consistent with multiple studies done about the efficacy of campaign ads in the US (Mercier, 2020). It found that ads had no affect whatsoever in the general election, where people are committed to a party. But, they did have more sway in primary elections, where the candidates are all of the same party and less known to the voters. The Canadian context bears more similarities to the former situation, as voters are voting for a party, and the leader of that party is decided internally. 
 ```{r, fig.cap = "Undecided voters more likely to be swayed by ads", fig.align= "center", out.width = "60%", message = FALSE}
 
 # comparing ad effectiveness on decided and undecided voters
@@ -253,32 +252,32 @@ Codes used for analysis can be found at: https://github.com/reb-yang/election_su
 The survey is accessible at https://tinyurl.com/PetitPoll and via the QR code below. 
 
 ```{r ,  echo=FALSE,out.width="40%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "The survey was accessible by QR code for convenience"}
-include_graphics('qr_code.png')
+include_graphics(here('inputs/qr_code.png'))
 ``` 
 
 
 ```{r , out.width=".5\\linewidth", fig.align="center", echo = FALSE, fig.cap = "The most important question was asked first"}
-include_graphics('q1.png')
+include_graphics(here('inputs/q1.png'))
 ```
 
 ```{r , echo=FALSE,out.width="40%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "If respondents said they voted in the last election, they were asked which party they voted for"}
-include_graphics(c("q2.png","q2b.png"))
+include_graphics(c(here("inputs/q2.png"),here("inputs/q2b.png")))
 ``` 
 
 ```{r , echo=FALSE,out.width=".5\\linewidth",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Respondents were ask to rate the importance of 13 issues"}
-include_graphics('q_issues.png')
+include_graphics(here('inputs/q_issues.png'))
 ``` 
 
 ```{r , echo=FALSE,out.width=".5\\linewidth",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Respondents were ask to rate their satisfaction with the issues they identified as important"}
-include_graphics('q_sat.png')
+include_graphics(here('inputs/q_sat.png'))
 ``` 
 
 ```{r ,  echo=FALSE,out.width=".5\\linewidth",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Respondents were asked about their experiences with campaign ads"}
-include_graphics('q_ads.png')
+include_graphics(here('inputs/q_ads.png'))
 ``` 
 
 ```{r ,  echo=FALSE,out.width="40%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Demographic questions were asked at the end"}
-include_graphics(c("dem1.png","dem2.png"))
+include_graphics(c(here("inputs/dem1.png"), here("inputs/dem2.png")))
 ``` 
 ### Error calculation details
 
@@ -297,10 +296,10 @@ $$e \leq 3.334 $$
 ### Cost Details
 
 ```{r ,  echo=FALSE,out.width="40%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Estimated printing costs"}
-include_graphics(c("printing1.png","printing2.png"))
+include_graphics(c(here("inputs/printing1.png"), here("inputs/printing2.png")))
 ``` 
 ```{r ,  echo=FALSE,out.width="50%",fig.cap="caption",fig.show='hold',fig.align='center', fig.cap = "Mail costs"}
-include_graphics("mailprice.png")
+include_graphics(here("inputs/mailprice.png"))
 ``` 
 
 ## Citations
